@@ -1,0 +1,13 @@
+###############################################
+# FILE: kbOut
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-25 14:54:32
+# MODIFIED:
+###############################################
+
+@CODE
+
+DictionaryEnd();
+
+@@CODE

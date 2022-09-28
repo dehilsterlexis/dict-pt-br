@@ -1,0 +1,19 @@
+###############################################
+# FILE: verbtxt
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-26 17:53:3
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _headerZone
+
+@POST
+if (strstartswith(N("value"),"verbtxt")) {
+	N("type") == "verbtxt";
+}
+
+@RULES
+_xNIL <-
+	_iOpen							### (1)
+	@@

@@ -1,0 +1,19 @@
+###############################################
+# FILE: tags
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-26 17:26:40
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _headerZone
+
+@RULES
+_iClose <- \< \/ i \> @@
+_iOpen <- \<  i _xWILD [fail=(\>)] \> @@
+
+_liClose <- \< \/ li \> @@
+_liOpen <- \<  li _xWILD [fail=(\>)] \> @@
+
+_paraClose <- \< \/ p \> @@
+_paraOpen <- \< p \> @@

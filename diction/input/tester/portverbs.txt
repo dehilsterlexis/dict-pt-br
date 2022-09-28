@@ -1,0 +1,714 @@
+verb "Presente" eu digo
+verb "Presente" tu dizes
+verb "Presente" ele/ela/você diz
+verb "Presente" nós dizemos
+verb "Presente" vós dizeis
+verb "Presente" eles/elas/vocês dizem
+verb "Pretérito Perfeito" eu disse
+verb "Pretérito Perfeito" tu disseste
+verb "Pretérito Perfeito" ele/ela/você disse
+verb "Pretérito Perfeito" nós dissemos
+verb "Pretérito Perfeito" vós dissestes
+verb "Pretérito Perfeito" eles/elas/vocês disseram
+verb "Pretérito Imperfeito" eu dizia
+verb "Pretérito Imperfeito" tu dizias
+verb "Pretérito Imperfeito" ele/ela/você dizia
+verb "Pretérito Imperfeito" nós dizíamos
+verb "Pretérito Imperfeito" vós dizíeis
+verb "Pretérito Imperfeito" eles/elas/vocês diziam
+verb "Pretérito Mais-que-Perfeito" eu dissera
+verb "Pretérito Mais-que-Perfeito" tu disseras
+verb "Pretérito Mais-que-Perfeito" ele/ela/você dissera
+verb "Pretérito Mais-que-Perfeito" nós disséramos
+verb "Pretérito Mais-que-Perfeito" vós disséreis
+verb "Pretérito Mais-que-Perfeito" eles/elas/vocês disseram
+verb "Pretérito Perfeito Composto" eu tenho dito
+verb "Pretérito Perfeito Composto" tu tens dito
+verb "Pretérito Perfeito Composto" ele/ela/você tem dito
+verb "Pretérito Perfeito Composto" nós temos dito
+verb "Pretérito Perfeito Composto" vós tendes dito
+verb "Pretérito Perfeito Composto" eles/elas/vocês têm dito
+verb "Pretérito Mais-que-Perfeito Composto" eu tinha dito
+verb "Pretérito Mais-que-Perfeito Composto" tu tinhas dito
+verb "Pretérito Mais-que-Perfeito Composto" ele/ela/você tinha dito
+verb "Pretérito Mais-que-Perfeito Composto" nós tínhamos dito
+verb "Pretérito Mais-que-Perfeito Composto" vós tínheis dito
+verb "Pretérito Mais-que-Perfeito Composto" eles/elas/vocês tinham dito
+verb "Pretérito Mais-que-Perfeito Anterior" eu tivera dito
+verb "Pretérito Mais-que-Perfeito Anterior" tu tiveras dito
+verb "Pretérito Mais-que-Perfeito Anterior" ele/ela/você tivera dito
+verb "Pretérito Mais-que-Perfeito Anterior" nós tivéramos dito
+verb "Pretérito Mais-que-Perfeito Anterior" vós tivéreis dito
+verb "Pretérito Mais-que-Perfeito Anterior" eles/elas/vocês tiveram dito
+verb "Futuro do Presente Simples" eu direi
+verb "Futuro do Presente Simples" tu dirás
+verb "Futuro do Presente Simples" ele/ela/você dirá
+verb "Futuro do Presente Simples" nós diremos
+verb "Futuro do Presente Simples" vós direis
+verb "Futuro do Presente Simples" eles/elas/vocês dirão
+verb "Futuro do Presente Composto" eu terei dito
+verb "Futuro do Presente Composto" tu terás dito
+verb "Futuro do Presente Composto" ele/ela/você terá dito
+verb "Futuro do Presente Composto" nós teremos dito
+verb "Futuro do Presente Composto" vós tereis dito
+verb "Futuro do Presente Composto" eles/elas/vocês terão dito
+verb "Presente" que eu diga
+verb "Presente" que tu digas
+verb "Presente" que ele/ela/você diga
+verb "Presente" que nós digamos
+verb "Presente" que vós digais
+verb "Presente" que eles/elas/vocês digam
+verb "Pretérito Perfeito" eu tenha dito
+verb "Pretérito Perfeito" tu tenhas dito
+verb "Pretérito Perfeito" ele/ela/você tenha dito
+verb "Pretérito Perfeito" nós tenhamos dito
+verb "Pretérito Perfeito" vós tenhais dito
+verb "Pretérito Perfeito" eles/elas/vocês tenham dito
+verb "Pretérito Imperfeito" se eu dissesse
+verb "Pretérito Imperfeito" se tu dissesses
+verb "Pretérito Imperfeito" se ele/ela/você dissesse
+verb "Pretérito Imperfeito" se nós disséssemos
+verb "Pretérito Imperfeito" se vós dissésseis
+verb "Pretérito Imperfeito" se eles/elas/vocês dissessem
+verb "Pretérito Mais-que-Perfeito Composto" eu tivesse dito
+verb "Pretérito Mais-que-Perfeito Composto" tu tivesses dito
+verb "Pretérito Mais-que-Perfeito Composto" ele/ela/você tivesse dito
+verb "Pretérito Mais-que-Perfeito Composto" nós tivéssemos dito
+verb "Pretérito Mais-que-Perfeito Composto" vós tivésseis dito
+verb "Pretérito Mais-que-Perfeito Composto" eles/elas/vocês tivessem dito
+verb "Futuro" quando eu disser
+verb "Futuro" quando tu disseres
+verb "Futuro" quando ele/ela/você disser
+verb "Futuro" quando nós dissermos
+verb "Futuro" quando vós disserdes
+verb "Futuro" quando eles/elas/vocês disserem
+verb "Futuro Composto" eu tiver dito
+verb "Futuro Composto" tu tiveres dito
+verb "Futuro Composto" ele/ela/você tiver dito
+verb "Futuro Composto" nós tivermos dito
+verb "Futuro Composto" vós tiverdes dito
+verb "Futuro Composto" eles/elas/vocês tiverem dito
+verb "Futuro do Pretérito Simples" eu diria
+verb "Futuro do Pretérito Simples" tu dirias
+verb "Futuro do Pretérito Simples" ele/ela/você diria
+verb "Futuro do Pretérito Simples" nós diríamos
+verb "Futuro do Pretérito Simples" vós diríeis
+verb "Futuro do Pretérito Simples" eles/elas/vocês diriam
+verb "Futuro do Pretérito Composto" eu teria dito
+verb "Futuro do Pretérito Composto" tu terias dito
+verb "Futuro do Pretérito Composto" ele/ela/você teria dito
+verb "Futuro do Pretérito Composto" nós teríamos dito
+verb "Futuro do Pretérito Composto" vós teríeis dito
+verb "Futuro do Pretérito Composto" eles/elas/vocês teriam dito
+dizer "Gerúndio" dizendo
+dizer "Infinitivo" dizer
+dizer "Infinitivo" dizeres
+dizer "Infinitivo" dizermos
+dizer "Infinitivo" dizerdes
+dizer "Infinitivo" dizerem
+dizer "Imperativo" diz
+dizer "Imperativo" diga
+dizer "Imperativo" digamos
+dizer "Imperativo" dizei
+dizer "Imperativo" digam
+dizer "Imperativo Negativo" não digas
+dizer "Imperativo Negativo" não diga
+dizer "Imperativo Negativo" não digamos
+dizer "Imperativo Negativo" não digais
+dizer "Imperativo Negativo" não digam
+dizer "Particípio" dito
+verb "Presente" eu sou
+verb "Presente" tu és
+verb "Presente" ele/ela/você é
+verb "Presente" nós somos
+verb "Presente" vós sois
+verb "Presente" eles/elas/vocês são
+verb "Pretérito Perfeito" eu fui
+verb "Pretérito Perfeito" tu foste
+verb "Pretérito Perfeito" ele/ela/você foi
+verb "Pretérito Perfeito" nós fomos
+verb "Pretérito Perfeito" vós fostes
+verb "Pretérito Perfeito" eles/elas/vocês foram
+verb "Pretérito Imperfeito" eu era
+verb "Pretérito Imperfeito" tu eras
+verb "Pretérito Imperfeito" ele/ela/você era
+verb "Pretérito Imperfeito" nós éramos
+verb "Pretérito Imperfeito" vós éreis
+verb "Pretérito Imperfeito" eles/elas/vocês eram
+verb "Pretérito Mais-que-Perfeito" eu fora
+verb "Pretérito Mais-que-Perfeito" tu foras
+verb "Pretérito Mais-que-Perfeito" ele/ela/você fora
+verb "Pretérito Mais-que-Perfeito" nós fôramos
+verb "Pretérito Mais-que-Perfeito" vós fôreis
+verb "Pretérito Mais-que-Perfeito" eles/elas/vocês foram
+verb "Pretérito Perfeito Composto" eu tenho sido
+verb "Pretérito Perfeito Composto" tu tens sido
+verb "Pretérito Perfeito Composto" ele/ela/você tem sido
+verb "Pretérito Perfeito Composto" nós temos sido
+verb "Pretérito Perfeito Composto" vós tendes sido
+verb "Pretérito Perfeito Composto" eles/elas/vocês têm sido
+verb "Pretérito Mais-que-Perfeito Composto" eu tinha sido
+verb "Pretérito Mais-que-Perfeito Composto" tu tinhas sido
+verb "Pretérito Mais-que-Perfeito Composto" ele/ela/você tinha sido
+verb "Pretérito Mais-que-Perfeito Composto" nós tínhamos sido
+verb "Pretérito Mais-que-Perfeito Composto" vós tínheis sido
+verb "Pretérito Mais-que-Perfeito Composto" eles/elas/vocês tinham sido
+verb "Pretérito Mais-que-Perfeito Anterior" eu tivera sido
+verb "Pretérito Mais-que-Perfeito Anterior" tu tiveras sido
+verb "Pretérito Mais-que-Perfeito Anterior" ele/ela/você tivera sido
+verb "Pretérito Mais-que-Perfeito Anterior" nós tivéramos sido
+verb "Pretérito Mais-que-Perfeito Anterior" vós tivéreis sido
+verb "Pretérito Mais-que-Perfeito Anterior" eles/elas/vocês tiveram sido
+verb "Futuro do Presente Simples" eu serei
+verb "Futuro do Presente Simples" tu serás
+verb "Futuro do Presente Simples" ele/ela/você será
+verb "Futuro do Presente Simples" nós seremos
+verb "Futuro do Presente Simples" vós sereis
+verb "Futuro do Presente Simples" eles/elas/vocês serão
+verb "Futuro do Presente Composto" eu terei sido
+verb "Futuro do Presente Composto" tu terás sido
+verb "Futuro do Presente Composto" ele/ela/você terá sido
+verb "Futuro do Presente Composto" nós teremos sido
+verb "Futuro do Presente Composto" vós tereis sido
+verb "Futuro do Presente Composto" eles/elas/vocês terão sido
+verb "Presente" que eu seja
+verb "Presente" que tu sejas
+verb "Presente" que ele/ela/você seja
+verb "Presente" que nós sejamos
+verb "Presente" que vós sejais
+verb "Presente" que eles/elas/vocês sejam
+verb "Pretérito Perfeito" eu tenha sido
+verb "Pretérito Perfeito" tu tenhas sido
+verb "Pretérito Perfeito" ele/ela/você tenha sido
+verb "Pretérito Perfeito" nós tenhamos sido
+verb "Pretérito Perfeito" vós tenhais sido
+verb "Pretérito Perfeito" eles/elas/vocês tenham sido
+verb "Pretérito Imperfeito" se eu fosse
+verb "Pretérito Imperfeito" se tu fosses
+verb "Pretérito Imperfeito" se ele/ela/você fosse
+verb "Pretérito Imperfeito" se nós fôssemos
+verb "Pretérito Imperfeito" se vós fôsseis
+verb "Pretérito Imperfeito" se eles/elas/vocês fossem
+verb "Pretérito Mais-que-Perfeito Composto" eu tivesse sido
+verb "Pretérito Mais-que-Perfeito Composto" tu tivesses sido
+verb "Pretérito Mais-que-Perfeito Composto" ele/ela/você tivesse sido
+verb "Pretérito Mais-que-Perfeito Composto" nós tivéssemos sido
+verb "Pretérito Mais-que-Perfeito Composto" vós tivésseis sido
+verb "Pretérito Mais-que-Perfeito Composto" eles/elas/vocês tivessem sido
+verb "Futuro" quando eu for
+verb "Futuro" quando tu fores
+verb "Futuro" quando ele/ela/você for
+verb "Futuro" quando nós formos
+verb "Futuro" quando vós fordes
+verb "Futuro" quando eles/elas/vocês forem
+verb "Futuro Composto" eu tiver sido
+verb "Futuro Composto" tu tiveres sido
+verb "Futuro Composto" ele/ela/você tiver sido
+verb "Futuro Composto" nós tivermos sido
+verb "Futuro Composto" vós tiverdes sido
+verb "Futuro Composto" eles/elas/vocês tiverem sido
+verb "Futuro do Pretérito Simples" eu seria
+verb "Futuro do Pretérito Simples" tu serias
+verb "Futuro do Pretérito Simples" ele/ela/você seria
+verb "Futuro do Pretérito Simples" nós seríamos
+verb "Futuro do Pretérito Simples" vós seríeis
+verb "Futuro do Pretérito Simples" eles/elas/vocês seriam
+verb "Futuro do Pretérito Composto" eu teria sido
+verb "Futuro do Pretérito Composto" tu terias sido
+verb "Futuro do Pretérito Composto" ele/ela/você teria sido
+verb "Futuro do Pretérito Composto" nós teríamos sido
+verb "Futuro do Pretérito Composto" vós teríeis sido
+verb "Futuro do Pretérito Composto" eles/elas/vocês teriam sido
+ser "Gerúndio" sendo
+ser "Infinitivo" ser
+ser "Infinitivo" seres
+ser "Infinitivo" sermos
+ser "Infinitivo" serdes
+ser "Infinitivo" serem
+ser "Imperativo" sê
+ser "Imperativo" seja
+ser "Imperativo" sejamos
+ser "Imperativo" sede
+ser "Imperativo" sejam
+ser "Imperativo Negativo" não sejas
+ser "Imperativo Negativo" não seja
+ser "Imperativo Negativo" não sejamos
+ser "Imperativo Negativo" não sejais
+ser "Imperativo Negativo" não sejam
+ser "Particípio" sido
+verb "Presente" eu tenho
+verb "Presente" tu tens
+verb "Presente" ele/ela/você tem
+verb "Presente" nós temos
+verb "Presente" vós tendes
+verb "Presente" eles/elas/vocês têm
+verb "Pretérito Perfeito" eu tive
+verb "Pretérito Perfeito" tu tiveste
+verb "Pretérito Perfeito" ele/ela/você teve
+verb "Pretérito Perfeito" nós tivemos
+verb "Pretérito Perfeito" vós tivestes
+verb "Pretérito Perfeito" eles/elas/vocês tiveram
+verb "Pretérito Imperfeito" eu tinha
+verb "Pretérito Imperfeito" tu tinhas
+verb "Pretérito Imperfeito" ele/ela/você tinha
+verb "Pretérito Imperfeito" nós tínhamos
+verb "Pretérito Imperfeito" vós tínheis
+verb "Pretérito Imperfeito" eles/elas/vocês tinham
+verb "Pretérito Mais-que-Perfeito" eu tivera
+verb "Pretérito Mais-que-Perfeito" tu tiveras
+verb "Pretérito Mais-que-Perfeito" ele/ela/você tivera
+verb "Pretérito Mais-que-Perfeito" nós tivéramos
+verb "Pretérito Mais-que-Perfeito" vós tivéreis
+verb "Pretérito Mais-que-Perfeito" eles/elas/vocês tiveram
+verb "Pretérito Perfeito Composto" eu tenho tido
+verb "Pretérito Perfeito Composto" tu tens tido
+verb "Pretérito Perfeito Composto" ele/ela/você tem tido
+verb "Pretérito Perfeito Composto" nós temos tido
+verb "Pretérito Perfeito Composto" vós tendes tido
+verb "Pretérito Perfeito Composto" eles/elas/vocês têm tido
+verb "Pretérito Mais-que-Perfeito Composto" eu tinha tido
+verb "Pretérito Mais-que-Perfeito Composto" tu tinhas tido
+verb "Pretérito Mais-que-Perfeito Composto" ele/ela/você tinha tido
+verb "Pretérito Mais-que-Perfeito Composto" nós tínhamos tido
+verb "Pretérito Mais-que-Perfeito Composto" vós tínheis tido
+verb "Pretérito Mais-que-Perfeito Composto" eles/elas/vocês tinham tido
+verb "Pretérito Mais-que-Perfeito Anterior" eu tivera tido
+verb "Pretérito Mais-que-Perfeito Anterior" tu tiveras tido
+verb "Pretérito Mais-que-Perfeito Anterior" ele/ela/você tivera tido
+verb "Pretérito Mais-que-Perfeito Anterior" nós tivéramos tido
+verb "Pretérito Mais-que-Perfeito Anterior" vós tivéreis tido
+verb "Pretérito Mais-que-Perfeito Anterior" eles/elas/vocês tiveram tido
+verb "Futuro do Presente Simples" eu terei
+verb "Futuro do Presente Simples" tu terás
+verb "Futuro do Presente Simples" ele/ela/você terá
+verb "Futuro do Presente Simples" nós teremos
+verb "Futuro do Presente Simples" vós tereis
+verb "Futuro do Presente Simples" eles/elas/vocês terão
+verb "Futuro do Presente Composto" eu terei tido
+verb "Futuro do Presente Composto" tu terás tido
+verb "Futuro do Presente Composto" ele/ela/você terá tido
+verb "Futuro do Presente Composto" nós teremos tido
+verb "Futuro do Presente Composto" vós tereis tido
+verb "Futuro do Presente Composto" eles/elas/vocês terão tido
+verb "Presente" que eu tenha
+verb "Presente" que tu tenhas
+verb "Presente" que ele/ela/você tenha
+verb "Presente" que nós tenhamos
+verb "Presente" que vós tenhais
+verb "Presente" que eles/elas/vocês tenham
+verb "Pretérito Perfeito" eu tenha tido
+verb "Pretérito Perfeito" tu tenhas tido
+verb "Pretérito Perfeito" ele/ela/você tenha tido
+verb "Pretérito Perfeito" nós tenhamos tido
+verb "Pretérito Perfeito" vós tenhais tido
+verb "Pretérito Perfeito" eles/elas/vocês tenham tido
+verb "Pretérito Imperfeito" se eu tivesse
+verb "Pretérito Imperfeito" se tu tivesses
+verb "Pretérito Imperfeito" se ele/ela/você tivesse
+verb "Pretérito Imperfeito" se nós tivéssemos
+verb "Pretérito Imperfeito" se vós tivésseis
+verb "Pretérito Imperfeito" se eles/elas/vocês tivessem
+verb "Pretérito Mais-que-Perfeito Composto" eu tivesse tido
+verb "Pretérito Mais-que-Perfeito Composto" tu tivesses tido
+verb "Pretérito Mais-que-Perfeito Composto" ele/ela/você tivesse tido
+verb "Pretérito Mais-que-Perfeito Composto" nós tivéssemos tido
+verb "Pretérito Mais-que-Perfeito Composto" vós tivésseis tido
+verb "Pretérito Mais-que-Perfeito Composto" eles/elas/vocês tivessem tido
+verb "Futuro" quando eu tiver
+verb "Futuro" quando tu tiveres
+verb "Futuro" quando ele/ela/você tiver
+verb "Futuro" quando nós tivermos
+verb "Futuro" quando vós tiverdes
+verb "Futuro" quando eles/elas/vocês tiverem
+verb "Futuro Composto" eu tiver tido
+verb "Futuro Composto" tu tiveres tido
+verb "Futuro Composto" ele/ela/você tiver tido
+verb "Futuro Composto" nós tivermos tido
+verb "Futuro Composto" vós tiverdes tido
+verb "Futuro Composto" eles/elas/vocês tiverem tido
+verb "Futuro do Pretérito Simples" eu teria
+verb "Futuro do Pretérito Simples" tu terias
+verb "Futuro do Pretérito Simples" ele/ela/você teria
+verb "Futuro do Pretérito Simples" nós teríamos
+verb "Futuro do Pretérito Simples" vós teríeis
+verb "Futuro do Pretérito Simples" eles/elas/vocês teriam
+verb "Futuro do Pretérito Composto" eu teria tido
+verb "Futuro do Pretérito Composto" tu terias tido
+verb "Futuro do Pretérito Composto" ele/ela/você teria tido
+verb "Futuro do Pretérito Composto" nós teríamos tido
+verb "Futuro do Pretérito Composto" vós teríeis tido
+verb "Futuro do Pretérito Composto" eles/elas/vocês teriam tido
+ter "Gerúndio" tendo
+ter "Infinitivo" ter
+ter "Infinitivo" teres
+ter "Infinitivo" termos
+ter "Infinitivo" terdes
+ter "Infinitivo" terem
+ter "Imperativo" tem
+ter "Imperativo" tenha
+ter "Imperativo" tenhamos
+ter "Imperativo" tende
+ter "Imperativo" tenham
+ter "Imperativo Negativo" não tenhas
+ter "Imperativo Negativo" não tenha
+ter "Imperativo Negativo" não tenhamos
+ter "Imperativo Negativo" não tenhais
+ter "Imperativo Negativo" não tenham
+ter "Particípio" tido
+verb "Presente" eu digo
+verb "Presente" tu dizes
+verb "Presente" ele/ela/você diz
+verb "Presente" nós dizemos
+verb "Presente" vós dizeis
+verb "Presente" eles/elas/vocês dizem
+verb "Pretérito Perfeito" eu disse
+verb "Pretérito Perfeito" tu disseste
+verb "Pretérito Perfeito" ele/ela/você disse
+verb "Pretérito Perfeito" nós dissemos
+verb "Pretérito Perfeito" vós dissestes
+verb "Pretérito Perfeito" eles/elas/vocês disseram
+verb "Pretérito Imperfeito" eu dizia
+verb "Pretérito Imperfeito" tu dizias
+verb "Pretérito Imperfeito" ele/ela/você dizia
+verb "Pretérito Imperfeito" nós dizíamos
+verb "Pretérito Imperfeito" vós dizíeis
+verb "Pretérito Imperfeito" eles/elas/vocês diziam
+verb "Pretérito Mais-que-Perfeito" eu dissera
+verb "Pretérito Mais-que-Perfeito" tu disseras
+verb "Pretérito Mais-que-Perfeito" ele/ela/você dissera
+verb "Pretérito Mais-que-Perfeito" nós disséramos
+verb "Pretérito Mais-que-Perfeito" vós disséreis
+verb "Pretérito Mais-que-Perfeito" eles/elas/vocês disseram
+verb "Pretérito Perfeito Composto" eu tenho dito
+verb "Pretérito Perfeito Composto" tu tens dito
+verb "Pretérito Perfeito Composto" ele/ela/você tem dito
+verb "Pretérito Perfeito Composto" nós temos dito
+verb "Pretérito Perfeito Composto" vós tendes dito
+verb "Pretérito Perfeito Composto" eles/elas/vocês têm dito
+verb "Pretérito Mais-que-Perfeito Composto" eu tinha dito
+verb "Pretérito Mais-que-Perfeito Composto" tu tinhas dito
+verb "Pretérito Mais-que-Perfeito Composto" ele/ela/você tinha dito
+verb "Pretérito Mais-que-Perfeito Composto" nós tínhamos dito
+verb "Pretérito Mais-que-Perfeito Composto" vós tínheis dito
+verb "Pretérito Mais-que-Perfeito Composto" eles/elas/vocês tinham dito
+verb "Pretérito Mais-que-Perfeito Anterior" eu tivera dito
+verb "Pretérito Mais-que-Perfeito Anterior" tu tiveras dito
+verb "Pretérito Mais-que-Perfeito Anterior" ele/ela/você tivera dito
+verb "Pretérito Mais-que-Perfeito Anterior" nós tivéramos dito
+verb "Pretérito Mais-que-Perfeito Anterior" vós tivéreis dito
+verb "Pretérito Mais-que-Perfeito Anterior" eles/elas/vocês tiveram dito
+verb "Futuro do Presente Simples" eu direi
+verb "Futuro do Presente Simples" tu dirás
+verb "Futuro do Presente Simples" ele/ela/você dirá
+verb "Futuro do Presente Simples" nós diremos
+verb "Futuro do Presente Simples" vós direis
+verb "Futuro do Presente Simples" eles/elas/vocês dirão
+verb "Futuro do Presente Composto" eu terei dito
+verb "Futuro do Presente Composto" tu terás dito
+verb "Futuro do Presente Composto" ele/ela/você terá dito
+verb "Futuro do Presente Composto" nós teremos dito
+verb "Futuro do Presente Composto" vós tereis dito
+verb "Futuro do Presente Composto" eles/elas/vocês terão dito
+verb "Presente" que eu diga
+verb "Presente" que tu digas
+verb "Presente" que ele/ela/você diga
+verb "Presente" que nós digamos
+verb "Presente" que vós digais
+verb "Presente" que eles/elas/vocês digam
+verb "Pretérito Perfeito" eu tenha dito
+verb "Pretérito Perfeito" tu tenhas dito
+verb "Pretérito Perfeito" ele/ela/você tenha dito
+verb "Pretérito Perfeito" nós tenhamos dito
+verb "Pretérito Perfeito" vós tenhais dito
+verb "Pretérito Perfeito" eles/elas/vocês tenham dito
+verb "Pretérito Imperfeito" se eu dissesse
+verb "Pretérito Imperfeito" se tu dissesses
+verb "Pretérito Imperfeito" se ele/ela/você dissesse
+verb "Pretérito Imperfeito" se nós disséssemos
+verb "Pretérito Imperfeito" se vós dissésseis
+verb "Pretérito Imperfeito" se eles/elas/vocês dissessem
+verb "Pretérito Mais-que-Perfeito Composto" eu tivesse dito
+verb "Pretérito Mais-que-Perfeito Composto" tu tivesses dito
+verb "Pretérito Mais-que-Perfeito Composto" ele/ela/você tivesse dito
+verb "Pretérito Mais-que-Perfeito Composto" nós tivéssemos dito
+verb "Pretérito Mais-que-Perfeito Composto" vós tivésseis dito
+verb "Pretérito Mais-que-Perfeito Composto" eles/elas/vocês tivessem dito
+verb "Futuro" quando eu disser
+verb "Futuro" quando tu disseres
+verb "Futuro" quando ele/ela/você disser
+verb "Futuro" quando nós dissermos
+verb "Futuro" quando vós disserdes
+verb "Futuro" quando eles/elas/vocês disserem
+verb "Futuro Composto" eu tiver dito
+verb "Futuro Composto" tu tiveres dito
+verb "Futuro Composto" ele/ela/você tiver dito
+verb "Futuro Composto" nós tivermos dito
+verb "Futuro Composto" vós tiverdes dito
+verb "Futuro Composto" eles/elas/vocês tiverem dito
+verb "Futuro do Pretérito Simples" eu diria
+verb "Futuro do Pretérito Simples" tu dirias
+verb "Futuro do Pretérito Simples" ele/ela/você diria
+verb "Futuro do Pretérito Simples" nós diríamos
+verb "Futuro do Pretérito Simples" vós diríeis
+verb "Futuro do Pretérito Simples" eles/elas/vocês diriam
+verb "Futuro do Pretérito Composto" eu teria dito
+verb "Futuro do Pretérito Composto" tu terias dito
+verb "Futuro do Pretérito Composto" ele/ela/você teria dito
+verb "Futuro do Pretérito Composto" nós teríamos dito
+verb "Futuro do Pretérito Composto" vós teríeis dito
+verb "Futuro do Pretérito Composto" eles/elas/vocês teriam dito
+dizer "Gerúndio" dizendo
+dizer "Infinitivo" dizer
+dizer "Infinitivo" dizeres
+dizer "Infinitivo" dizermos
+dizer "Infinitivo" dizerdes
+dizer "Infinitivo" dizerem
+dizer "Imperativo" diz
+dizer "Imperativo" diga
+dizer "Imperativo" digamos
+dizer "Imperativo" dizei
+dizer "Imperativo" digam
+dizer "Imperativo Negativo" não digas
+dizer "Imperativo Negativo" não diga
+dizer "Imperativo Negativo" não digamos
+dizer "Imperativo Negativo" não digais
+dizer "Imperativo Negativo" não digam
+dizer "Particípio" dito
+verb "Presente" eu sou
+verb "Presente" tu és
+verb "Presente" ele/ela/você é
+verb "Presente" nós somos
+verb "Presente" vós sois
+verb "Presente" eles/elas/vocês são
+verb "Pretérito Perfeito" eu fui
+verb "Pretérito Perfeito" tu foste
+verb "Pretérito Perfeito" ele/ela/você foi
+verb "Pretérito Perfeito" nós fomos
+verb "Pretérito Perfeito" vós fostes
+verb "Pretérito Perfeito" eles/elas/vocês foram
+verb "Pretérito Imperfeito" eu era
+verb "Pretérito Imperfeito" tu eras
+verb "Pretérito Imperfeito" ele/ela/você era
+verb "Pretérito Imperfeito" nós éramos
+verb "Pretérito Imperfeito" vós éreis
+verb "Pretérito Imperfeito" eles/elas/vocês eram
+verb "Pretérito Mais-que-Perfeito" eu fora
+verb "Pretérito Mais-que-Perfeito" tu foras
+verb "Pretérito Mais-que-Perfeito" ele/ela/você fora
+verb "Pretérito Mais-que-Perfeito" nós fôramos
+verb "Pretérito Mais-que-Perfeito" vós fôreis
+verb "Pretérito Mais-que-Perfeito" eles/elas/vocês foram
+verb "Pretérito Perfeito Composto" eu tenho sido
+verb "Pretérito Perfeito Composto" tu tens sido
+verb "Pretérito Perfeito Composto" ele/ela/você tem sido
+verb "Pretérito Perfeito Composto" nós temos sido
+verb "Pretérito Perfeito Composto" vós tendes sido
+verb "Pretérito Perfeito Composto" eles/elas/vocês têm sido
+verb "Pretérito Mais-que-Perfeito Composto" eu tinha sido
+verb "Pretérito Mais-que-Perfeito Composto" tu tinhas sido
+verb "Pretérito Mais-que-Perfeito Composto" ele/ela/você tinha sido
+verb "Pretérito Mais-que-Perfeito Composto" nós tínhamos sido
+verb "Pretérito Mais-que-Perfeito Composto" vós tínheis sido
+verb "Pretérito Mais-que-Perfeito Composto" eles/elas/vocês tinham sido
+verb "Pretérito Mais-que-Perfeito Anterior" eu tivera sido
+verb "Pretérito Mais-que-Perfeito Anterior" tu tiveras sido
+verb "Pretérito Mais-que-Perfeito Anterior" ele/ela/você tivera sido
+verb "Pretérito Mais-que-Perfeito Anterior" nós tivéramos sido
+verb "Pretérito Mais-que-Perfeito Anterior" vós tivéreis sido
+verb "Pretérito Mais-que-Perfeito Anterior" eles/elas/vocês tiveram sido
+verb "Futuro do Presente Simples" eu serei
+verb "Futuro do Presente Simples" tu serás
+verb "Futuro do Presente Simples" ele/ela/você será
+verb "Futuro do Presente Simples" nós seremos
+verb "Futuro do Presente Simples" vós sereis
+verb "Futuro do Presente Simples" eles/elas/vocês serão
+verb "Futuro do Presente Composto" eu terei sido
+verb "Futuro do Presente Composto" tu terás sido
+verb "Futuro do Presente Composto" ele/ela/você terá sido
+verb "Futuro do Presente Composto" nós teremos sido
+verb "Futuro do Presente Composto" vós tereis sido
+verb "Futuro do Presente Composto" eles/elas/vocês terão sido
+verb "Presente" que eu seja
+verb "Presente" que tu sejas
+verb "Presente" que ele/ela/você seja
+verb "Presente" que nós sejamos
+verb "Presente" que vós sejais
+verb "Presente" que eles/elas/vocês sejam
+verb "Pretérito Perfeito" eu tenha sido
+verb "Pretérito Perfeito" tu tenhas sido
+verb "Pretérito Perfeito" ele/ela/você tenha sido
+verb "Pretérito Perfeito" nós tenhamos sido
+verb "Pretérito Perfeito" vós tenhais sido
+verb "Pretérito Perfeito" eles/elas/vocês tenham sido
+verb "Pretérito Imperfeito" se eu fosse
+verb "Pretérito Imperfeito" se tu fosses
+verb "Pretérito Imperfeito" se ele/ela/você fosse
+verb "Pretérito Imperfeito" se nós fôssemos
+verb "Pretérito Imperfeito" se vós fôsseis
+verb "Pretérito Imperfeito" se eles/elas/vocês fossem
+verb "Pretérito Mais-que-Perfeito Composto" eu tivesse sido
+verb "Pretérito Mais-que-Perfeito Composto" tu tivesses sido
+verb "Pretérito Mais-que-Perfeito Composto" ele/ela/você tivesse sido
+verb "Pretérito Mais-que-Perfeito Composto" nós tivéssemos sido
+verb "Pretérito Mais-que-Perfeito Composto" vós tivésseis sido
+verb "Pretérito Mais-que-Perfeito Composto" eles/elas/vocês tivessem sido
+verb "Futuro" quando eu for
+verb "Futuro" quando tu fores
+verb "Futuro" quando ele/ela/você for
+verb "Futuro" quando nós formos
+verb "Futuro" quando vós fordes
+verb "Futuro" quando eles/elas/vocês forem
+verb "Futuro Composto" eu tiver sido
+verb "Futuro Composto" tu tiveres sido
+verb "Futuro Composto" ele/ela/você tiver sido
+verb "Futuro Composto" nós tivermos sido
+verb "Futuro Composto" vós tiverdes sido
+verb "Futuro Composto" eles/elas/vocês tiverem sido
+verb "Futuro do Pretérito Simples" eu seria
+verb "Futuro do Pretérito Simples" tu serias
+verb "Futuro do Pretérito Simples" ele/ela/você seria
+verb "Futuro do Pretérito Simples" nós seríamos
+verb "Futuro do Pretérito Simples" vós seríeis
+verb "Futuro do Pretérito Simples" eles/elas/vocês seriam
+verb "Futuro do Pretérito Composto" eu teria sido
+verb "Futuro do Pretérito Composto" tu terias sido
+verb "Futuro do Pretérito Composto" ele/ela/você teria sido
+verb "Futuro do Pretérito Composto" nós teríamos sido
+verb "Futuro do Pretérito Composto" vós teríeis sido
+verb "Futuro do Pretérito Composto" eles/elas/vocês teriam sido
+ser "Gerúndio" sendo
+ser "Infinitivo" ser
+ser "Infinitivo" seres
+ser "Infinitivo" sermos
+ser "Infinitivo" serdes
+ser "Infinitivo" serem
+ser "Imperativo" sê
+ser "Imperativo" seja
+ser "Imperativo" sejamos
+ser "Imperativo" sede
+ser "Imperativo" sejam
+ser "Imperativo Negativo" não sejas
+ser "Imperativo Negativo" não seja
+ser "Imperativo Negativo" não sejamos
+ser "Imperativo Negativo" não sejais
+ser "Imperativo Negativo" não sejam
+ser "Particípio" sido
+verb "Presente" eu tenho
+verb "Presente" tu tens
+verb "Presente" ele/ela/você tem
+verb "Presente" nós temos
+verb "Presente" vós tendes
+verb "Presente" eles/elas/vocês têm
+verb "Pretérito Perfeito" eu tive
+verb "Pretérito Perfeito" tu tiveste
+verb "Pretérito Perfeito" ele/ela/você teve
+verb "Pretérito Perfeito" nós tivemos
+verb "Pretérito Perfeito" vós tivestes
+verb "Pretérito Perfeito" eles/elas/vocês tiveram
+verb "Pretérito Imperfeito" eu tinha
+verb "Pretérito Imperfeito" tu tinhas
+verb "Pretérito Imperfeito" ele/ela/você tinha
+verb "Pretérito Imperfeito" nós tínhamos
+verb "Pretérito Imperfeito" vós tínheis
+verb "Pretérito Imperfeito" eles/elas/vocês tinham
+verb "Pretérito Mais-que-Perfeito" eu tivera
+verb "Pretérito Mais-que-Perfeito" tu tiveras
+verb "Pretérito Mais-que-Perfeito" ele/ela/você tivera
+verb "Pretérito Mais-que-Perfeito" nós tivéramos
+verb "Pretérito Mais-que-Perfeito" vós tivéreis
+verb "Pretérito Mais-que-Perfeito" eles/elas/vocês tiveram
+verb "Pretérito Perfeito Composto" eu tenho tido
+verb "Pretérito Perfeito Composto" tu tens tido
+verb "Pretérito Perfeito Composto" ele/ela/você tem tido
+verb "Pretérito Perfeito Composto" nós temos tido
+verb "Pretérito Perfeito Composto" vós tendes tido
+verb "Pretérito Perfeito Composto" eles/elas/vocês têm tido
+verb "Pretérito Mais-que-Perfeito Composto" eu tinha tido
+verb "Pretérito Mais-que-Perfeito Composto" tu tinhas tido
+verb "Pretérito Mais-que-Perfeito Composto" ele/ela/você tinha tido
+verb "Pretérito Mais-que-Perfeito Composto" nós tínhamos tido
+verb "Pretérito Mais-que-Perfeito Composto" vós tínheis tido
+verb "Pretérito Mais-que-Perfeito Composto" eles/elas/vocês tinham tido
+verb "Pretérito Mais-que-Perfeito Anterior" eu tivera tido
+verb "Pretérito Mais-que-Perfeito Anterior" tu tiveras tido
+verb "Pretérito Mais-que-Perfeito Anterior" ele/ela/você tivera tido
+verb "Pretérito Mais-que-Perfeito Anterior" nós tivéramos tido
+verb "Pretérito Mais-que-Perfeito Anterior" vós tivéreis tido
+verb "Pretérito Mais-que-Perfeito Anterior" eles/elas/vocês tiveram tido
+verb "Futuro do Presente Simples" eu terei
+verb "Futuro do Presente Simples" tu terás
+verb "Futuro do Presente Simples" ele/ela/você terá
+verb "Futuro do Presente Simples" nós teremos
+verb "Futuro do Presente Simples" vós tereis
+verb "Futuro do Presente Simples" eles/elas/vocês terão
+verb "Futuro do Presente Composto" eu terei tido
+verb "Futuro do Presente Composto" tu terás tido
+verb "Futuro do Presente Composto" ele/ela/você terá tido
+verb "Futuro do Presente Composto" nós teremos tido
+verb "Futuro do Presente Composto" vós tereis tido
+verb "Futuro do Presente Composto" eles/elas/vocês terão tido
+verb "Presente" que eu tenha
+verb "Presente" que tu tenhas
+verb "Presente" que ele/ela/você tenha
+verb "Presente" que nós tenhamos
+verb "Presente" que vós tenhais
+verb "Presente" que eles/elas/vocês tenham
+verb "Pretérito Perfeito" eu tenha tido
+verb "Pretérito Perfeito" tu tenhas tido
+verb "Pretérito Perfeito" ele/ela/você tenha tido
+verb "Pretérito Perfeito" nós tenhamos tido
+verb "Pretérito Perfeito" vós tenhais tido
+verb "Pretérito Perfeito" eles/elas/vocês tenham tido
+verb "Pretérito Imperfeito" se eu tivesse
+verb "Pretérito Imperfeito" se tu tivesses
+verb "Pretérito Imperfeito" se ele/ela/você tivesse
+verb "Pretérito Imperfeito" se nós tivéssemos
+verb "Pretérito Imperfeito" se vós tivésseis
+verb "Pretérito Imperfeito" se eles/elas/vocês tivessem
+verb "Pretérito Mais-que-Perfeito Composto" eu tivesse tido
+verb "Pretérito Mais-que-Perfeito Composto" tu tivesses tido
+verb "Pretérito Mais-que-Perfeito Composto" ele/ela/você tivesse tido
+verb "Pretérito Mais-que-Perfeito Composto" nós tivéssemos tido
+verb "Pretérito Mais-que-Perfeito Composto" vós tivésseis tido
+verb "Pretérito Mais-que-Perfeito Composto" eles/elas/vocês tivessem tido
+verb "Futuro" quando eu tiver
+verb "Futuro" quando tu tiveres
+verb "Futuro" quando ele/ela/você tiver
+verb "Futuro" quando nós tivermos
+verb "Futuro" quando vós tiverdes
+verb "Futuro" quando eles/elas/vocês tiverem
+verb "Futuro Composto" eu tiver tido
+verb "Futuro Composto" tu tiveres tido
+verb "Futuro Composto" ele/ela/você tiver tido
+verb "Futuro Composto" nós tivermos tido
+verb "Futuro Composto" vós tiverdes tido
+verb "Futuro Composto" eles/elas/vocês tiverem tido
+verb "Futuro do Pretérito Simples" eu teria
+verb "Futuro do Pretérito Simples" tu terias
+verb "Futuro do Pretérito Simples" ele/ela/você teria
+verb "Futuro do Pretérito Simples" nós teríamos
+verb "Futuro do Pretérito Simples" vós teríeis
+verb "Futuro do Pretérito Simples" eles/elas/vocês teriam
+verb "Futuro do Pretérito Composto" eu teria tido
+verb "Futuro do Pretérito Composto" tu terias tido
+verb "Futuro do Pretérito Composto" ele/ela/você teria tido
+verb "Futuro do Pretérito Composto" nós teríamos tido
+verb "Futuro do Pretérito Composto" vós teríeis tido
+verb "Futuro do Pretérito Composto" eles/elas/vocês teriam tido
+ter "Gerúndio" tendo
+ter "Infinitivo" ter
+ter "Infinitivo" teres
+ter "Infinitivo" termos
+ter "Infinitivo" terdes
+ter "Infinitivo" terem
+ter "Imperativo" tem
+ter "Imperativo" tenha
+ter "Imperativo" tenhamos
+ter "Imperativo" tende
+ter "Imperativo" tenham
+ter "Imperativo Negativo" não tenhas
+ter "Imperativo Negativo" não tenha
+ter "Imperativo Negativo" não tenhamos
+ter "Imperativo Negativo" não tenhais
+ter "Imperativo Negativo" não tenham
+ter "Particípio" tido

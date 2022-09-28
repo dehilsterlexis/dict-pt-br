@@ -1,0 +1,19 @@
+###############################################
+# FILE: catTitle
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-27 11:46:3
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _headerZone
+
+@POST
+S("title") = N("title",1);
+single();
+
+@RULES
+_conjugationGroup <-
+	_paraGroup						### (1)
+	_xWILD [plus fail=(_paraGroup)]	### (2)
+	@@

@@ -1,0 +1,20 @@
+###############################################
+# FILE: hiGroup
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-27 11:5:1
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _headerZone _liGroup
+
+@POST
+"hiGroup.txt" << N("$text",2) << "\n";
+single();
+
+@RULES
+_hiGroup <-
+	_iOpen						### (1)
+	_xWILD [match=(_iGroup)]	### (2)
+	_iClose						### (3)
+	@@

@@ -1,0 +1,21 @@
+###############################################
+# FILE: labelTds
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-26 15:57:44
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _bodyZone _trZone _tdZone
+
+@POST
+X("value") = N("$text",3);
+
+@RULES
+_xNIL <-
+	_td										### (1)
+	_strong [opt]							### (2)
+	_xWILD [fail=(_tdClose _strongClose)]	### (3)
+	_strongClose [opt]						### (4)
+	_tdClose								### (5)
+	@@

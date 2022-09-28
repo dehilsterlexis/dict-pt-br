@@ -1,0 +1,20 @@
+###############################################
+# FILE: bodyZone
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-23 22:56:42
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@POST
+"zone.txt" << N("$text",2) << "\n";
+single();
+
+@RULES
+_bodyZone <-
+	_tbody						### (1)
+	_xWILD [fail=(_tbodyClose)]	### (2)
+	_tbodyClose					### (3)
+	@@

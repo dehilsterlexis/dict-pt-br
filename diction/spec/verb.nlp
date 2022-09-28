@@ -1,0 +1,23 @@
+###############################################
+# FILE: verb
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-26 18:0:13
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@POST
+G("verb") = N("$text",5);
+"debug.txt" << "verb: " << G("verb") << "\n";
+singler(5,5);
+
+@RULES
+_verb <-
+	\<			### (1)
+	title		### (2)
+	\>			### (3)
+	Conjugation	### (4)
+	_xALPHA		### (5)
+	@@

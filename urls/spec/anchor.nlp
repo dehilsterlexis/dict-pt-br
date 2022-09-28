@@ -1,0 +1,26 @@
+###############################################
+# FILE: anchor
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-27 14:27:44
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@POST
+L("url") = N("$text",6);
+if (strstartswith(L("url"),"conjugation-portuguese")) {
+	"urls.txt" << "https://conjugator.reverso.net/" << N("$text",6) << "\n";
+}
+
+@RULES
+_xNIL <-
+	\<					### (1)
+	a					### (2)
+	href				### (3)
+	\=					### (4)
+	\"					### (5)
+	_xWILD [fail=(\")]	### (6)
+	\"					### (7)
+	@@

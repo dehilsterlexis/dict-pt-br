@@ -1,0 +1,21 @@
+###############################################
+# FILE: header
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-26 16:59:59
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@POST
+"header.txt" << N("$text",2) << "\n\n";
+S("text") = N("$text",2);
+single();
+
+@RULES
+_header <-
+	_headerOpen						### (1)
+	_xWILD [fail=(_headerClose)]	### (2)
+	_headerClose					### (3)
+	@@

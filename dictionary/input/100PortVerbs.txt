@@ -1,0 +1,2328 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9 ]><html class="ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+  
+
+
+
+
+
+
+
+  <!-- Basic page needs ================================================== -->
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  
+    <link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0004/2391/9677/files/poster1_32x32.png?v=1613694267" type="image/png" />
+  
+
+  <!-- Title and description ================================================== -->
+  <title>
+  The 100 Most Used Portuguese Verbs List &ndash; LanguagePosters.com
+  </title>
+
+  
+  <meta name="description" content="A list of the 100 Most Used Portuguese Verbs as seen on the 100 Most Used Portuguese Verbs Poster. Ser Conjugation (To be) Ter Conjugation (To have) Vir Conjugation (To come) Estar Conjugation (To be) Ir Conjugation (To go) Dar Conjugation (To give) Haver Conjugation (To have) Fazer Conjugation (To do, to make) Satisfa">
+  
+  <meta name="p:domain_verify" content="b5b0c03068ce582c6215dbc59022e435"/>
+  <!-- Helpers ================================================== -->
+  <!-- /snippets/social-meta-tags.liquid -->
+
+
+
+
+<meta property="og:site_name" content="LanguagePosters.com">
+<meta property="og:url" content="https://languageposters.com/pages/portuguese-verbs">
+<meta property="og:title" content="The 100 Most Used Portuguese Verbs List">
+<meta property="og:type" content="website">
+<meta property="og:description" content="A list of the 100 Most Used Portuguese Verbs as seen on the 100 Most Used Portuguese Verbs Poster. Ser Conjugation (To be) Ter Conjugation (To have) Vir Conjugation (To come) Estar Conjugation (To be) Ir Conjugation (To go) Dar Conjugation (To give) Haver Conjugation (To have) Fazer Conjugation (To do, to make) Satisfa">
+
+<meta property="og:image" content="http://cdn.shopify.com/s/files/1/0004/2391/9677/files/100_Spanish_Verbs_2_1200x1200.png?v=1613697949">
+<meta property="og:image:secure_url" content="https://cdn.shopify.com/s/files/1/0004/2391/9677/files/100_Spanish_Verbs_2_1200x1200.png?v=1613697949">
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="The 100 Most Used Portuguese Verbs List">
+<meta name="twitter:description" content="A list of the 100 Most Used Portuguese Verbs as seen on the 100 Most Used Portuguese Verbs Poster. Ser Conjugation (To be) Ter Conjugation (To have) Vir Conjugation (To come) Estar Conjugation (To be) Ir Conjugation (To go) Dar Conjugation (To give) Haver Conjugation (To have) Fazer Conjugation (To do, to make) Satisfa">
+
+  <link rel="canonical" href="https://languageposters.com/pages/portuguese-verbs">
+  <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
+  <meta name="theme-color" content="#1c1d1d">
+
+  <!-- CSS ================================================== -->
+  <link href="//cdn.shopify.com/s/files/1/0004/2391/9677/t/3/assets/timber.scss.css?v=56098855095815461491583930252" rel="stylesheet" type="text/css" media="all" />
+  <link href="//cdn.shopify.com/s/files/1/0004/2391/9677/t/3/assets/theme.scss.css?v=171149798997378364271625584642" rel="stylesheet" type="text/css" media="all" />
+    
+  <link rel="preload" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.css"></noscript>
+
+  <!-- Sections ================================================== -->
+  <script>
+    window.theme = window.theme || {};
+    theme.strings = {
+      zoomClose: "Close (Esc)",
+      zoomPrev: "Previous (Left arrow key)",
+      zoomNext: "Next (Right arrow key)",
+      moneyFormat: "\u003cspan class=money\u003e${{amount}}\u003c\/span\u003e",
+      addressError: "Error looking up that address",
+      addressNoResults: "No results for that address",
+      addressQueryLimit: "You have exceeded the Google API usage limit. Consider upgrading to a \u003ca href=\"https:\/\/developers.google.com\/maps\/premium\/usage-limits\"\u003ePremium Plan\u003c\/a\u003e.",
+      authError: "There was a problem authenticating your Google Maps account.",
+      cartEmpty: "Your cart is currently empty.",
+      cartCookie: "Enable cookies to use the shopping cart",
+      cartSavings: "-"
+    };
+    theme.settings = {
+      cartType: "drawer",
+      gridType: "collage"
+    };
+  </script>
+
+  <script src="//cdn.shopify.com/s/files/1/0004/2391/9677/t/3/assets/jquery-2.2.3.min.js?v=58211863146907186831548119721" type="text/javascript"></script>
+
+  <!--[if (gt IE 9)|!(IE)]><!--><script src="//cdn.shopify.com/s/files/1/0004/2391/9677/t/3/assets/lazysizes.min.js?v=37531750901115495291519234985" async="async"></script><!--<![endif]-->
+  <!--[if lte IE 9]><script src="//cdn.shopify.com/s/files/1/0004/2391/9677/t/3/assets/lazysizes.min.js?v=37531750901115495291519234985"></script><![endif]-->
+
+  <!--[if (gt IE 9)|!(IE)]><!--><script src="//cdn.shopify.com/s/files/1/0004/2391/9677/t/3/assets/theme.js?v=62427237253807313021616704707" defer="defer"></script><!--<![endif]-->
+  <!--[if lte IE 9]><script src="//cdn.shopify.com/s/files/1/0004/2391/9677/t/3/assets/theme.js?v=62427237253807313021616704707"></script><![endif]-->
+  
+  <script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.6/dist/jquery.fancybox.min.js" defer="defer"></script>
+  <script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+
+  <!-- Header hook for plugins ================================================== -->
+  <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta name="google-site-verification" content="mjQwOEk_Ugnm9h3f9rknhuLB0bbFaGzkHn1tbgFDhYQ">
+<meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/423919677/digital_wallets/dialog">
+<meta name="shopify-checkout-api-token" content="294bffddb6a82ec1b71d5fb4b032a6ec">
+<meta id="in-context-paypal-metadata" data-shop-id="423919677" data-venmo-supported="true" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="USD">
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":423919677,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/423919677","merchantName":"LanguagePosters.com","requiredBillingContactFields":["postalAddress","email"],"requiredShippingContactFields":["postalAddress","email"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex","discover","elo","jcb","chinaUnionPay"],"total":{"type":"pending","label":"LanguagePosters.com","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":true}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"294bffddb6a82ec1b71d5fb4b032a6ec","betas":["rich-media-storefront-analytics"],"domain":"languageposters.com","predictiveSearch":true,"shopId":423919677,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js?v=2","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js?v=2","locale":"en"}</script>
+<script>var Shopify = Shopify || {};
+Shopify.shop = "languageposters-com.myshopify.com";
+Shopify.locale = "en";
+Shopify.currency = {"active":"USD","rate":"1.0"};
+Shopify.country = "US";
+Shopify.theme = {"name":"Brooklyn","id":11208884285,"theme_store_id":730,"role":"main"};
+Shopify.theme.handle = "null";
+Shopify.theme.style = {"id":null,"handle":null};
+Shopify.cdnHost = "cdn.shopify.com";
+Shopify.routes = Shopify.routes || {};
+Shopify.routes.root = "/";</script>
+<script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
+<script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
+<script>(function() {
+  function asyncLoad() {
+    var urls = ["\/\/productreviews.shopifycdn.com\/embed\/loader.js?shop=languageposters-com.myshopify.com","https:\/\/chimpstatic.com\/mcjs-connected\/js\/users\/34b665e67c47a9bd1af807a89\/484a1872b2d79b15fd712dfdf.js?shop=languageposters-com.myshopify.com","https:\/\/assets1.adroll.com\/shopify\/latest\/j\/shopify_rolling_bootstrap_v2.js?adroll_adv_id=RUEM2LFPLZDALL3PUI5EW5\u0026adroll_pix_id=X67CHHOJLZFMZOTLYPRIQL\u0026shop=languageposters-com.myshopify.com","https:\/\/mpop.pxucdn.com\/apps.pixelunion.net\/scripts\/js\/countdown\/bundle.min.js?shop=languageposters-com.myshopify.com","https:\/\/bsp.pxucdn.com\/recent-sales\/443cc362e8c5777d9675ef5b44161724\/bootstrap.js?v=202002131581623026\u0026shop=languageposters-com.myshopify.com","https:\/\/plugin.socital.com\/static\/v1\/socital.js?userID=60479e621fe2ad079e51ee82\u0026shop=languageposters-com.myshopify.com","https:\/\/static.cdn.printful.com\/static\/js\/external\/shopify-product-customizer.js?v=0.25\u0026shop=languageposters-com.myshopify.com"];
+    for (var i = 0; i < urls.length; i++) {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = urls[i];
+      var x = document.getElementsByTagName('script')[0];
+      x.parentNode.insertBefore(s, x);
+    }
+  };
+  if(window.attachEvent) {
+    window.attachEvent('onload', asyncLoad);
+  } else {
+    window.addEventListener('load', asyncLoad, false);
+  }
+})();</script>
+<script id="__st">var __st={"a":423919677,"offset":7200,"reqid":"593b5e21-c5e7-4787-9513-70331e991e49","pageurl":"languageposters.com\/pages\/portuguese-verbs","s":"pages-70934954045","u":"30057a753c9a","p":"page","rtyp":"page","rid":70934954045};</script>
+<script>window.ShopifyPaypalV4VisibilityTracking = true;</script>
+<script>!function(o){o.addEventListener("DOMContentLoaded",function(){window.Shopify=window.Shopify||{},window.Shopify.recaptchaV3=window.Shopify.recaptchaV3||{siteKey:"6LcCR2cUAAAAANS1Gpq_mDIJ2pQuJphsSQaUEuc9"};var t=['form[action*="/contact"] input[name="form_type"][value="contact"]','form[action*="/comments"] input[name="form_type"][value="new_comment"]','form[action*="/account"] input[name="form_type"][value="customer_login"]','form[action*="/account"] input[name="form_type"][value="recover_customer_password"]','form[action*="/account"] input[name="form_type"][value="create_customer"]','form[action*="/contact"] input[name="form_type"][value="customer"]'].join(",");function n(e){e=e.target;null==e||null!=(e=function e(t,n){if(null==t.parentElement)return null;if("FORM"!=t.parentElement.tagName)return e(t.parentElement,n);for(var o=t.parentElement.action,r=0;r<n.length;r++)if(-1!==o.indexOf(n[r]))return t.parentElement;return null}(e,["/contact","/comments","/account"]))&&null!=e.querySelector(t)&&((e=o.createElement("script")).setAttribute("src","https://cdn.shopify.com/shopifycloud/storefront-recaptcha-v3/v0.6/index.js"),o.body.appendChild(e),o.removeEventListener("focus",n,!0),o.removeEventListener("change",n,!0),o.removeEventListener("click",n,!0))}o.addEventListener("click",n,!0),o.addEventListener("change",n,!0),o.addEventListener("focus",n,!0)})}(document);</script>
+<script integrity="sha256-qzgBevPPdZ2wrwu9HnUin2oYn1vx8ttCFpYwmYuWkCE=" data-source-attribution="shopify.loadfeatures" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/load_feature-ab38017af3cf759db0af0bbd1e75229f6a189f5bf1f2db42169630998b969021.js" crossorigin="anonymous"></script>
+<script integrity="sha256-h+g5mYiIAULyxidxudjy/2wpCz/3Rd1CbrDf4NudHa4=" data-source-attribution="shopify.dynamic-checkout" defer="defer" src="//cdn.shopify.com/shopifycloud/shopify/assets/storefront/features-87e8399988880142f2c62771b9d8f2ff6c290b3ff745dd426eb0dfe0db9d1dae.js" crossorigin="anonymous"></script>
+
+
+<style id="shopify-dynamic-checkout-cart">@media screen and (min-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 50px;
+  }
+}
+
+@media screen and (max-width: 750px) {
+  #dynamic-checkout-cart {
+    min-height: 240px;
+  }
+}
+</style><script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.end');</script>
+  <!-- /snippets/oldIE-js.liquid -->
+
+
+<!--[if lt IE 9]>
+<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/0004/2391/9677/t/3/assets/respond.min.js?v=52248677837542619231519234985" type="text/javascript"></script>
+<link href="//cdn.shopify.com/s/files/1/0004/2391/9677/t/3/assets/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+<link href="//languageposters.com/search?q=ae776b1b09e6daa5165d79c4b21900c7" id="respond-redirect" rel="respond-redirect" />
+<script src="//languageposters.com/search?q=ae776b1b09e6daa5165d79c4b21900c7" type="text/javascript"></script>
+<![endif]-->
+
+
+<!--[if (lte IE 9) ]><script src="//cdn.shopify.com/s/files/1/0004/2391/9677/t/3/assets/match-media.min.js?v=159635276924582161481519234985" type="text/javascript"></script><![endif]-->
+
+
+  <script src="//cdn.shopify.com/s/files/1/0004/2391/9677/t/3/assets/modernizr.min.js?v=21391054748206432451519234985" type="text/javascript"></script>
+
+  
+  
+  <!-- Global site tag (gtag.js) - Google Ads: 745975003 -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=AW-745975003"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'AW-745975003');
+  </script>
+
+  <script type="text/javascript">
+  !function(e){if(!window.pintrk){window.pintrk=function()
+  {window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var
+  n=window.pintrk;n.queue=[],n.version="3.0";var
+  t=document.createElement("script");t.async=!0,t.src=e;var
+  r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(t,r)}}
+  ("https://s.pinimg.com/ct/core.js"); 
+
+  pintrk('load','2613203526084', { em: '', });
+  pintrk('page');
+  </script> 
+  <noscript> 
+  <img height="1" width="1" style="display:none;" alt=""
+  src="https://ct.pinterest.com/v3/?tid=2613203526084&noscript=1" /> 
+  </noscript>
+  
+  <!-- DO NOT MODIFY -->
+<!-- Quora Pixel Code (JS Helper) -->
+<script>
+!function(q,e,v,n,t,s){if(q.qp) return; n=q.qp=function(){n.qp?n.qp.apply(n,arguments):n.queue.push(arguments);}; n.queue=[];t=document.createElement(e);t.async=!0;t.src=v; s=document.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t,s);}(window, 'script', 'https://a.quora.com/qevents.js');
+qp('init', '7bb8441396c449199300161ccbc8f8f4');
+qp('track', 'ViewContent');
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://q.quora.com/_/ad/7bb8441396c449199300161ccbc8f8f4/pixel?tag=ViewContent&noscript=1"/></noscript>
+<!-- End of Quora Pixel Code -->
+  
+  <script type="application/ld+json">
+   { "@context": "https://schema.org",
+   "@type": "Organization",
+   "name": "LanguagePosters.com",
+   "legalName" : "LanguagePosters.com",
+   "url": "https://languageposters.com",
+   "logo": "https://cdn.shopify.com/s/files/1/0004/2391/9677/files/logo-bw.png",
+   "foundingDate": "2017",
+   "foundingLocation": "Barcelona, Spain",
+   "address": {
+   "@type": "PostalAddress",
+   "streetAddress": "1887 Whitney Mesa Dr. #5972",
+   "addressLocality": "Henderson",
+   "addressRegion": "NV",
+   "postalCode": "89014 ",
+   "addressCountry": "USA"
+   },
+   "contactPoint": {
+   "@type": "ContactPoint",
+   "contactType": "customer support",
+   "url": "https://languageposters.com/pages/contact-us",
+   "email": "hello@languageposters.com"
+   },
+   "sameAs": [ 
+   "https://www.facebook.com/languageposters/",
+   "https://www.pinterest.com/LanguagePosters/",
+   "https://www.instagram.com/languageposters/"
+   ]}
+  </script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4098424821515831"
+     crossorigin="anonymous"></script>
+<link href="https://monorail-edge.shopifysvc.com" rel="dns-prefetch">
+<script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 423919677,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "page"};window.navigator.sendBeacon("https://monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
+<script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+window.ShopifyAnalytics.meta.currency = 'USD';
+var meta = {"page":{"pageType":"page","resourceType":"page","resourceId":70934954045}};
+for (var attr in meta) {
+  window.ShopifyAnalytics.meta[attr] = meta[attr];
+}</script>
+<script>window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+  ga('require', 'GTM-NRQRDD2');
+};
+</script>
+<script class="analytics">(window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+
+
+(function () {
+  var customDocumentWrite = function(content) {
+    var jquery = null;
+
+    if (window.jQuery) {
+      jquery = window.jQuery;
+    } else if (window.Checkout && window.Checkout.$) {
+      jquery = window.Checkout.$;
+    }
+
+    if (jquery) {
+      jquery('body').append(content);
+    }
+  };
+
+  var hasLoggedConversion = function(token) {
+    if (token) {
+      return document.cookie.indexOf('loggedConversion=' + token) !== -1;
+    }
+    return false;
+  }
+
+  var setCookieIfConversion = function(token) {
+    if (token) {
+      var twoMonthsFromNow = new Date(Date.now());
+      twoMonthsFromNow.setMonth(twoMonthsFromNow.getMonth() + 2);
+
+      document.cookie = 'loggedConversion=' + token + '; expires=' + twoMonthsFromNow;
+    }
+  }
+
+  var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+  if (trekkie.integrations) {
+    return;
+  }
+  trekkie.methods = [
+    'identify',
+    'page',
+    'ready',
+    'track',
+    'trackForm',
+    'trackLink'
+  ];
+  trekkie.factory = function(method) {
+    return function() {
+      var args = Array.prototype.slice.call(arguments);
+      args.unshift(method);
+      trekkie.push(args);
+      return trekkie;
+    };
+  };
+  for (var i = 0; i < trekkie.methods.length; i++) {
+    var key = trekkie.methods[i];
+    trekkie[key] = trekkie.factory(key);
+  }
+  trekkie.load = function(config) {
+    trekkie.config = config || {};
+    trekkie.config.initialDocumentCookie = document.cookie;
+    var first = document.getElementsByTagName('script')[0];
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.onerror = function(e) {
+      var scriptFallback = document.createElement('script');
+      scriptFallback.type = 'text/javascript';
+      scriptFallback.onerror = function(error) {
+              var Monorail = {
+      produce: function produce(monorailDomain, schemaId, payload) {
+        var currentMs = new Date().getTime();
+        var event = {
+          schema_id: schemaId,
+          payload: payload,
+          metadata: {
+            event_created_at_ms: currentMs,
+            event_sent_at_ms: currentMs
+          }
+        };
+        return Monorail.sendRequest("https://" + monorailDomain + "/v1/produce", JSON.stringify(event));
+      },
+      sendRequest: function sendRequest(endpointUrl, payload) {
+        // Try the sendBeacon API
+        if (window && window.navigator && typeof window.navigator.sendBeacon === 'function' && typeof window.Blob === 'function' && !Monorail.isIos12()) {
+          var blobData = new window.Blob([payload], {
+            type: 'text/plain'
+          });
+    
+          if (window.navigator.sendBeacon(endpointUrl, blobData)) {
+            return true;
+          } // sendBeacon was not successful
+    
+        } // XHR beacon   
+    
+        var xhr = new XMLHttpRequest();
+    
+        try {
+          xhr.open('POST', endpointUrl);
+          xhr.setRequestHeader('Content-Type', 'text/plain');
+          xhr.send(payload);
+        } catch (e) {
+          console.log(e);
+        }
+    
+        return false;
+      },
+      isIos12: function isIos12() {
+        return window.navigator.userAgent.lastIndexOf('iPhone; CPU iPhone OS 12_') !== -1 || window.navigator.userAgent.lastIndexOf('iPad; CPU OS 12_') !== -1;
+      }
+    };
+    Monorail.produce('monorail-edge.shopifysvc.com',
+      'trekkie_storefront_load_errors/1.1',
+      {shop_id: 423919677,
+      theme_id: 11208884285,
+      app_name: "storefront",
+      context_url: window.location.href,
+      source_url: "https://cdn.shopify.com/s/trekkie.storefront.e695302c3cd17296c85e559451c496db44e32e17.min.js"});
+
+      };
+      scriptFallback.async = true;
+      scriptFallback.src = 'https://cdn.shopify.com/s/trekkie.storefront.e695302c3cd17296c85e559451c496db44e32e17.min.js';
+      first.parentNode.insertBefore(scriptFallback, first);
+    };
+    script.async = true;
+    script.src = 'https://cdn.shopify.com/s/trekkie.storefront.e695302c3cd17296c85e559451c496db44e32e17.min.js';
+    first.parentNode.insertBefore(script, first);
+  };
+  trekkie.load(
+    {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":423919677,"isMerchantRequest":null,"themeId":11208884285,"themeCityHash":"1520066580785150242","contentLanguage":"en","currency":"USD"},"isServerSideCookieWritingEnabled":true},"Google Analytics":{"trackingId":"UA-921724-8","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["1257476414386638"],"agent":"plshopify1.2"},"Google Gtag Pixel":{"conversionId":"AW-0","eventLabels":[{"type":"page_view","action_label":"AW-745975003\/kWA0CL20_ZoBENvZ2uMC"},{"type":"purchase","action_label":"AW-745975003\/qlp1CMC0_ZoBENvZ2uMC"},{"type":"view_item","action_label":"AW-745975003\/XHJMCMO0_ZoBENvZ2uMC"},{"type":"add_to_cart","action_label":"AW-745975003\/Yk23CMa0_ZoBENvZ2uMC"},{"type":"begin_checkout","action_label":"AW-745975003\/_hPbCMm0_ZoBENvZ2uMC"},{"type":"search","action_label":"AW-745975003\/rRrfCMy0_ZoBENvZ2uMC"},{"type":"add_payment_info","action_label":"AW-745975003\/tAudCM-0_ZoBENvZ2uMC"}],"targetCountry":"US"},"Session Attribution":{},"S2S":{"facebookCapiEnabled":true,"facebookAppPixelId":"1257476414386638","source":"trekkie-storefront-renderer"}}
+  );
+
+  var loaded = false;
+  trekkie.ready(function() {
+    if (loaded) return;
+    loaded = true;
+
+    window.ShopifyAnalytics.lib = window.trekkie;
+    
+      ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+    var originalDocumentWrite = document.write;
+    document.write = customDocumentWrite;
+    try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+    document.write = originalDocumentWrite;
+
+    window.ShopifyAnalytics.lib.page(null,{"pageType":"page","resourceType":"page","resourceId":70934954045});
+
+    var match = window.location.pathname.match(/checkouts\/(.+)\/(thank_you|post_purchase)/)
+    var token = match? match[1]: undefined;
+    if (!hasLoggedConversion(token)) {
+      setCookieIfConversion(token);
+      
+    }
+  });
+
+  
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/shopifycloud/shopify/assets/shop_events_listener-65cd0ba3fcd81a1df33f2510ec5bcf8c0e0958653b50e3965ec972dd638ee13f.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+})();</script>
+<script class="boomerang">
+(function () {
+  if (window.BOOMR && (window.BOOMR.version || window.BOOMR.snippetExecuted)) {
+    return;
+  }
+  window.BOOMR = window.BOOMR || {};
+  window.BOOMR.snippetStart = new Date().getTime();
+  window.BOOMR.snippetExecuted = true;
+  window.BOOMR.snippetVersion = 12;
+  window.BOOMR.application = "storefront-renderer";
+  window.BOOMR.themeName = "Brooklyn";
+  window.BOOMR.themeVersion = "5.1.1";
+  window.BOOMR.shopId = 423919677;
+  window.BOOMR.themeId = 11208884285;
+  window.BOOMR.url =
+    "https://cdn.shopify.com/shopifycloud/boomerang/shopify-boomerang-1.0.0.min.js";
+  var where = document.currentScript || document.getElementsByTagName("script")[0];
+  var parentNode = where.parentNode;
+  var promoted = false;
+  var LOADER_TIMEOUT = 3000;
+  function promote() {
+    if (promoted) {
+      return;
+    }
+    var script = document.createElement("script");
+    script.id = "boomr-scr-as";
+    script.src = window.BOOMR.url;
+    script.async = true;
+    parentNode.appendChild(script);
+    promoted = true;
+  }
+  function iframeLoader(wasFallback) {
+    promoted = true;
+    var dom, bootstrap, iframe, iframeStyle;
+    var doc = document;
+    var win = window;
+    window.BOOMR.snippetMethod = wasFallback ? "if" : "i";
+    bootstrap = function(parent, scriptId) {
+      var script = doc.createElement("script");
+      script.id = scriptId || "boomr-if-as";
+      script.src = window.BOOMR.url;
+      BOOMR_lstart = new Date().getTime();
+      parent = parent || doc.body;
+      parent.appendChild(script);
+    };
+    if (!window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]./)) {
+      window.BOOMR.snippetMethod = "s";
+      bootstrap(parentNode, "boomr-async");
+      return;
+    }
+    iframe = document.createElement("IFRAME");
+    iframe.src = "about:blank";
+    iframe.title = "";
+    iframe.role = "presentation";
+    iframe.loading = "eager";
+    iframeStyle = (iframe.frameElement || iframe).style;
+    iframeStyle.width = 0;
+    iframeStyle.height = 0;
+    iframeStyle.border = 0;
+    iframeStyle.display = "none";
+    parentNode.appendChild(iframe);
+    try {
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    } catch (e) {
+      dom = document.domain;
+      iframe.src = "javascript:var d=document.open();d.domain='" + dom + "';void(0);";
+      win = iframe.contentWindow;
+      doc = win.document.open();
+    }
+    if (dom) {
+      doc._boomrl = function() {
+        this.domain = dom;
+        bootstrap();
+      };
+      doc.write("<body onload='document._boomrl();'>");
+    } else {
+      win._boomrl = function() {
+        bootstrap();
+      };
+      if (win.addEventListener) {
+        win.addEventListener("load", win._boomrl, false);
+      } else if (win.attachEvent) {
+        win.attachEvent("onload", win._boomrl);
+      }
+    }
+    doc.close();
+  }
+  var link = document.createElement("link");
+  if (link.relList &&
+    typeof link.relList.supports === "function" &&
+    link.relList.supports("preload") &&
+    ("as" in link)) {
+    window.BOOMR.snippetMethod = "p";
+    link.href = window.BOOMR.url;
+    link.rel = "preload";
+    link.as = "script";
+    link.addEventListener("load", promote);
+    link.addEventListener("error", function() {
+      iframeLoader(true);
+    });
+    setTimeout(function() {
+      if (!promoted) {
+        iframeLoader(true);
+      }
+    }, LOADER_TIMEOUT);
+    BOOMR_lstart = new Date().getTime();
+    parentNode.appendChild(link);
+  } else {
+    iframeLoader(false);
+  }
+  function boomerangSaveLoadTime(e) {
+    window.BOOMR_onload = (e && e.timeStamp) || new Date().getTime();
+  }
+  if (window.addEventListener) {
+    window.addEventListener("load", boomerangSaveLoadTime, false);
+  } else if (window.attachEvent) {
+    window.attachEvent("onload", boomerangSaveLoadTime);
+  }
+  if (document.addEventListener) {
+    document.addEventListener("onBoomerangLoaded", function(e) {
+      e.detail.BOOMR.init({
+        producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+        ResourceTiming: {
+          enabled: true,
+          trackedResourceTypes: ["script", "img", "css"]
+        },
+      });
+      e.detail.BOOMR.t_end = new Date().getTime();
+    });
+  } else if (document.attachEvent) {
+    document.attachEvent("onpropertychange", function(e) {
+      if (!e) e=event;
+      if (e.propertyName === "onBoomerangLoaded") {
+        e.detail.BOOMR.init({
+          producer_url: "https://monorail-edge.shopifysvc.com/v1/produce",
+          ResourceTiming: {
+            enabled: true,
+            trackedResourceTypes: ["script", "img", "css"]
+          },
+        });
+        e.detail.BOOMR.t_end = new Date().getTime();
+      }
+    });
+  }
+})();</script>
+</head>
+
+
+<body id="the-100-most-used-portuguese-verbs-list" class="template-page">
+
+  <div id="NavDrawer" class="drawer drawer--left">
+    <div id="shopify-section-drawer-menu" class="shopify-section"><div data-section-id="drawer-menu" data-section-type="drawer-menu-section">
+  <div class="drawer__inner drawer-left__inner">
+
+    
+
+    <ul class="mobile-nav">
+      
+        
+
+          <li class="mobile-nav__item">
+            <a
+              href="/"
+              class="mobile-nav__link"
+              >
+                Home
+            </a>
+          </li>
+
+        
+      
+        
+
+          <li class="mobile-nav__item">
+            <a
+              href="/pages/how-it-works"
+              class="mobile-nav__link"
+              >
+                How It Works
+            </a>
+          </li>
+
+        
+      
+        
+          <li class="mobile-nav__item">
+            <div class="mobile-nav__has-sublist">
+              <a
+                href="/collections/posters"
+                class="mobile-nav__link"
+                id="Label-3"
+                >Languages</a>
+              <div class="mobile-nav__toggle">
+                <button type="button" class="mobile-nav__toggle-btn icon-fallback-text" aria-controls="Linklist-3" aria-expanded="false">
+                  <span class="icon-fallback-text mobile-nav__toggle-open">
+                    <span class="icon icon-plus" aria-hidden="true"></span>
+                    <span class="fallback-text">Expand submenu Languages</span>
+                  </span>
+                  <span class="icon-fallback-text mobile-nav__toggle-close">
+                    <span class="icon icon-minus" aria-hidden="true"></span>
+                    <span class="fallback-text">Collapse submenu Languages</span>
+                  </span>
+                </button>
+              </div>
+            </div>
+            <ul class="mobile-nav__sublist" id="Linklist-3" aria-labelledby="Label-3" role="navigation">
+              
+              
+                
+                <li class="mobile-nav__item">
+                  <div class="mobile-nav__has-sublist">
+                    <a
+                      href="/collections/spanish"
+                      class="mobile-nav__link"
+                      id="Label-3-1"
+                      >
+                        Spanish
+                    </a>
+                    <div class="mobile-nav__toggle">
+                      <button type="button" class="mobile-nav__toggle-btn icon-fallback-text" aria-controls="Linklist-3-1" aria-expanded="false">
+                        <span class="icon-fallback-text mobile-nav__toggle-open">
+                          <span class="icon icon-plus" aria-hidden="true"></span>
+                          <span class="fallback-text">Expand submenu Languages</span>
+                        </span>
+                        <span class="icon-fallback-text mobile-nav__toggle-close">
+                          <span class="icon icon-minus" aria-hidden="true"></span>
+                          <span class="fallback-text">Collapse submenu Languages</span>
+                        </span>
+                      </button>
+                    </div>
+                  </div>
+                  <ul class="mobile-nav__sublist mobile-nav__subsublist" id="Linklist-3-1" aria-labelledby="Label-3-1" role="navigation">
+                    
+                      <li class="mobile-nav__item">
+                        <a
+                          href="/products/100-most-used-spanish-verbs"
+                          class="mobile-nav__link"
+                          >
+                            Spanish Verbs - Present Tense
+                        </a>
+                      </li>
+                    
+                      <li class="mobile-nav__item">
+                        <a
+                          href="/products/100-most-used-spanish-preterite-tense-verbs-poster"
+                          class="mobile-nav__link"
+                          >
+                            Spanish Verbs - Preterite Tense
+                        </a>
+                      </li>
+                    
+                      <li class="mobile-nav__item">
+                        <a
+                          href="/products/how-to-eat-play-and-live-in-spanish-poster"
+                          class="mobile-nav__link"
+                          >
+                            How to Eat, Play, and Live in Spanish
+                        </a>
+                      </li>
+                    
+                      <li class="mobile-nav__item">
+                        <a
+                          href="/products/100-most-used-verbs-spanish-bundle"
+                          class="mobile-nav__link"
+                          >
+                            Spanish Bundle!
+                        </a>
+                      </li>
+                    
+                  </ul>
+                </li>
+                
+              
+                
+                <li class="mobile-nav__item">
+                  <div class="mobile-nav__has-sublist">
+                    <a
+                      href="/collections/french"
+                      class="mobile-nav__link"
+                      id="Label-3-2"
+                      >
+                        French
+                    </a>
+                    <div class="mobile-nav__toggle">
+                      <button type="button" class="mobile-nav__toggle-btn icon-fallback-text" aria-controls="Linklist-3-2" aria-expanded="false">
+                        <span class="icon-fallback-text mobile-nav__toggle-open">
+                          <span class="icon icon-plus" aria-hidden="true"></span>
+                          <span class="fallback-text">Expand submenu Languages</span>
+                        </span>
+                        <span class="icon-fallback-text mobile-nav__toggle-close">
+                          <span class="icon icon-minus" aria-hidden="true"></span>
+                          <span class="fallback-text">Collapse submenu Languages</span>
+                        </span>
+                      </button>
+                    </div>
+                  </div>
+                  <ul class="mobile-nav__sublist mobile-nav__subsublist" id="Linklist-3-2" aria-labelledby="Label-3-2" role="navigation">
+                    
+                      <li class="mobile-nav__item">
+                        <a
+                          href="/products/100-most-used-french-verbs-poster"
+                          class="mobile-nav__link"
+                          >
+                            French Verbs
+                        </a>
+                      </li>
+                    
+                      <li class="mobile-nav__item">
+                        <a
+                          href="/products/how-to-eat-play-and-live-in-french-poster"
+                          class="mobile-nav__link"
+                          >
+                            How to Eat, Play, and Live in French
+                        </a>
+                      </li>
+                    
+                  </ul>
+                </li>
+                
+              
+                
+                <li class="mobile-nav__item">
+                  <div class="mobile-nav__has-sublist">
+                    <a
+                      href="/collections/italian"
+                      class="mobile-nav__link"
+                      id="Label-3-3"
+                      >
+                        Italian
+                    </a>
+                    <div class="mobile-nav__toggle">
+                      <button type="button" class="mobile-nav__toggle-btn icon-fallback-text" aria-controls="Linklist-3-3" aria-expanded="false">
+                        <span class="icon-fallback-text mobile-nav__toggle-open">
+                          <span class="icon icon-plus" aria-hidden="true"></span>
+                          <span class="fallback-text">Expand submenu Languages</span>
+                        </span>
+                        <span class="icon-fallback-text mobile-nav__toggle-close">
+                          <span class="icon icon-minus" aria-hidden="true"></span>
+                          <span class="fallback-text">Collapse submenu Languages</span>
+                        </span>
+                      </button>
+                    </div>
+                  </div>
+                  <ul class="mobile-nav__sublist mobile-nav__subsublist" id="Linklist-3-3" aria-labelledby="Label-3-3" role="navigation">
+                    
+                      <li class="mobile-nav__item">
+                        <a
+                          href="/products/100-most-used-italian-verbs-poster"
+                          class="mobile-nav__link"
+                          >
+                            Italian Verbs
+                        </a>
+                      </li>
+                    
+                      <li class="mobile-nav__item">
+                        <a
+                          href="/products/how-to-eat-play-and-live-in-italian-poster"
+                          class="mobile-nav__link"
+                          >
+                            How to Eat, Play, and Live in Italian
+                        </a>
+                      </li>
+                    
+                  </ul>
+                </li>
+                
+              
+                
+                <li class="mobile-nav__item">
+                  <a
+                    href="/products/100-most-used-portuguese-verbs-poster"
+                    class="mobile-nav__link"
+                    >
+                      Portuguese
+                  </a>
+                </li>
+                
+              
+                
+                <li class="mobile-nav__item">
+                  <a
+                    href="/products/100-most-used-german-verbs-poster"
+                    class="mobile-nav__link"
+                    >
+                      German
+                  </a>
+                </li>
+                
+              
+                
+                <li class="mobile-nav__item">
+                  <a
+                    href="/products/100-most-used-english-verbs-poster"
+                    class="mobile-nav__link"
+                    >
+                      English
+                  </a>
+                </li>
+                
+              
+                
+                <li class="mobile-nav__item">
+                  <a
+                    href="/products/100-most-used-mandarin-chinese-verbs-poster"
+                    class="mobile-nav__link"
+                    >
+                      Mandarin Chinese
+                  </a>
+                </li>
+                
+              
+                
+                <li class="mobile-nav__item">
+                  <a
+                    href="/products/100-most-used-catalan-verbs-poster"
+                    class="mobile-nav__link"
+                    >
+                      Catalan
+                  </a>
+                </li>
+                
+              
+                
+                <li class="mobile-nav__item">
+                  <a
+                    href="/products/100-most-used-verbs-bilingual-bundle"
+                    class="mobile-nav__link"
+                    >
+                      Bilingual Bundle!
+                  </a>
+                </li>
+                
+              
+                
+                <li class="mobile-nav__item">
+                  <a
+                    href="/products/100-most-used-verbs-trilingual-bundle"
+                    class="mobile-nav__link"
+                    >
+                      Trilingual Bundle!!!
+                  </a>
+                </li>
+                
+              
+            </ul>
+          </li>
+
+          
+      
+        
+          <li class="mobile-nav__item">
+            <div class="mobile-nav__has-sublist">
+              <a
+                href="/pages/about-us"
+                class="mobile-nav__link"
+                id="Label-4"
+                >About</a>
+              <div class="mobile-nav__toggle">
+                <button type="button" class="mobile-nav__toggle-btn icon-fallback-text" aria-controls="Linklist-4" aria-expanded="false">
+                  <span class="icon-fallback-text mobile-nav__toggle-open">
+                    <span class="icon icon-plus" aria-hidden="true"></span>
+                    <span class="fallback-text">Expand submenu About</span>
+                  </span>
+                  <span class="icon-fallback-text mobile-nav__toggle-close">
+                    <span class="icon icon-minus" aria-hidden="true"></span>
+                    <span class="fallback-text">Collapse submenu About</span>
+                  </span>
+                </button>
+              </div>
+            </div>
+            <ul class="mobile-nav__sublist" id="Linklist-4" aria-labelledby="Label-4" role="navigation">
+              
+              
+                
+                <li class="mobile-nav__item">
+                  <a
+                    href="/pages/faq"
+                    class="mobile-nav__link"
+                    >
+                      FAQ
+                  </a>
+                </li>
+                
+              
+                
+                <li class="mobile-nav__item">
+                  <a
+                    href="/pages/outreach"
+                    class="mobile-nav__link"
+                    >
+                      Outreach
+                  </a>
+                </li>
+                
+              
+                
+                <li class="mobile-nav__item">
+                  <a
+                    href="/pages/affiliate-program"
+                    class="mobile-nav__link"
+                    >
+                      Affiliates
+                  </a>
+                </li>
+                
+              
+                
+                <li class="mobile-nav__item">
+                  <a
+                    href="/pages/contact-us"
+                    class="mobile-nav__link"
+                    >
+                      Contact Us
+                  </a>
+                </li>
+                
+              
+                
+                <li class="mobile-nav__item">
+                  <a
+                    href="/blogs/news"
+                    class="mobile-nav__link"
+                    >
+                      Blog
+                  </a>
+                </li>
+                
+              
+            </ul>
+          </li>
+
+          
+      
+      
+      <li class="mobile-nav__spacer"></li>
+
+      
+      
+      
+        <li class="mobile-nav__item mobile-nav__item--secondary"><a href="/products/100-most-used-spanish-verbs">Spanish Conjugation Chart</a></li>
+      
+        <li class="mobile-nav__item mobile-nav__item--secondary"><a href="/products/100-most-used-spanish-preterite-tense-verbs-poster">Spanish Preterite Tense Conjugation Chart</a></li>
+      
+        <li class="mobile-nav__item mobile-nav__item--secondary"><a href="/products/how-to-eat-play-and-live-in-spanish-poster">How to Learn Spanish Poster</a></li>
+      
+        <li class="mobile-nav__item mobile-nav__item--secondary"><a href="/products/how-to-eat-play-and-live-in-french-poster">How to Learn French Poster</a></li>
+      
+        <li class="mobile-nav__item mobile-nav__item--secondary"><a href="/products/100-most-used-french-verbs-poster">French Conjugation Chart</a></li>
+      
+        <li class="mobile-nav__item mobile-nav__item--secondary"><a href="/products/how-to-eat-play-and-live-in-italian-poster">How to Learn Italian Poster</a></li>
+      
+        <li class="mobile-nav__item mobile-nav__item--secondary"><a href="/products/100-most-used-italian-verbs-poster">Italian Conjugation Chart</a></li>
+      
+        <li class="mobile-nav__item mobile-nav__item--secondary"><a href="/products/100-most-used-german-verbs-poster">German Conjugation Chart</a></li>
+      
+        <li class="mobile-nav__item mobile-nav__item--secondary"><a href="/products/100-most-used-portuguese-verbs-poster">Portuguese Conjugation Chart</a></li>
+      
+        <li class="mobile-nav__item mobile-nav__item--secondary"><a href="/products/100-most-used-catalan-verbs-poster">Catalan Conjugation Chart</a></li>
+      
+        <li class="mobile-nav__item mobile-nav__item--secondary"><a href="/products/100-most-used-english-verbs-poster">English Verb Conjugation Chart</a></li>
+      
+        <li class="mobile-nav__item mobile-nav__item--secondary"><a href="/products/100-most-used-mandarin-chinese-verbs-poster">Learn Chinese in 5 Minutes</a></li>
+      
+    </ul>
+    <!-- //mobile-nav -->
+  </div>
+</div>
+
+
+</div>
+  </div>
+  <div id="CartDrawer" class="drawer drawer--right drawer--has-fixed-footer">
+    <div class="drawer__fixed-header">
+      <div class="drawer__header">
+        <div class="drawer__title">Your cart</div>
+        <div class="drawer__close">
+          <button type="button" class="icon-fallback-text drawer__close-button js-drawer-close">
+            <span class="icon icon-x" aria-hidden="true"></span>
+            <span class="fallback-text">Close Cart</span>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div class="drawer__inner">
+      <div id="CartContainer" class="drawer__cart"></div>
+    </div>
+  </div>
+
+  <div id="PageContainer" class="page-container">
+
+    <div id="shopify-section-header" class="shopify-section"><style>
+  .site-header__logo img {
+    max-width: 260px;
+  }
+
+  @media screen and (max-width: 768px) {
+    .site-header__logo img {
+      max-width: 100%;
+    }
+  }
+</style>
+
+
+<div data-section-id="header" data-section-type="header-section" data-template="page">
+  <div class="header-container">
+    <div class="header-wrapper">
+      
+        
+          <style>
+            .announcement-bar {
+              background-color: #f31300;
+            }
+
+            .announcement-bar--link:hover {
+              
+
+              
+                
+                background-color: #ff3b2b;
+              
+            }
+
+            .announcement-bar__message {
+              color: #ffffff;
+            }
+          </style>
+
+          
+            <a href="/collections/posters" class="announcement-bar announcement-bar--link">
+          
+
+            <p class="announcement-bar__message">BUY 1 POSTER, GET ONE 50% OFF!</p>
+
+          
+            </a>
+			<!--<a style="background-color:#ff6363;" href="/pages/outreach" class="announcement-bar announcement-bar--link">
+              <p class="announcement-bar__message" style="color:#fff;font-weight:600;">COVID-19: Discounts for Students, Teachers, Doctors, and Nurses.</p>
+      		</a>-->
+      		<a id="lp_review_bar_link" style="display:none;background-color:#73ffc5;" href="#" onclick="$('.spr-form').show();$('html, body').animate({scrollTop: $('#shopify-product-reviews').offset().top,}, 500, 'linear');return false;" class="announcement-bar announcement-bar--link">
+              <p class="announcement-bar__message" style="color:#000;font-weight:400;">Thank you for your purchase! Click here to leave a review.</p>
+      		</a>
+          
+
+        
+      
+
+      <header class="site-header" role="banner">
+        <div class="wrapper">
+          <div class="grid--full grid--table">
+            <div class="grid__item large--hide large--one-sixth one-quarter">
+              <div class="site-nav--open site-nav--mobile">
+                <button type="button" class="icon-fallback-text site-nav__link site-nav__link--burger js-drawer-open-button-left" aria-controls="NavDrawer">
+                  <span class="burger-icon burger-icon--top"></span>
+                  <span class="burger-icon burger-icon--mid"></span>
+                  <span class="burger-icon burger-icon--bottom"></span>
+                  <span class="fallback-text">Site navigation</span>
+                </button>
+              </div>
+            </div>
+            <div class="grid__item large--one-third medium-down--one-half">
+              
+              
+                <div class="h1 site-header__logo large--left">
+              
+                
+
+                
+                  <a href="/" class="site-header__logo-link">
+                     <img src="//cdn.shopify.com/s/files/1/0004/2391/9677/files/logo-bw_260x.png?v=1613694266"
+                     srcset="//cdn.shopify.com/s/files/1/0004/2391/9677/files/logo-bw_260x.png?v=1613694266 1x, //cdn.shopify.com/s/files/1/0004/2391/9677/files/logo-bw_260x@2x.png?v=1613694266 2x"
+                     alt="LanguagePosters.com"
+                     >
+                  </a>
+                
+              
+                </div>
+              
+            </div>
+            <nav class="grid__item large--two-thirds large--text-right medium-down--hide" role="navigation">
+              
+              <!-- begin site-nav -->
+              <ul class="site-nav" id="AccessibleNav">
+                
+
+                
+                  
+                    <li class="site-nav__item">
+                      <a
+                        href="/"
+                        class="site-nav__link"
+                        data-meganav-type="child"
+                        >
+                          Home
+                      </a>
+                    </li>
+                  
+                
+                  
+                    <li class="site-nav__item">
+                      <a
+                        href="/pages/how-it-works"
+                        class="site-nav__link"
+                        data-meganav-type="child"
+                        >
+                          How It Works
+                      </a>
+                    </li>
+                  
+                
+                  
+                  
+                    <li
+                      class="site-nav__item site-nav--has-dropdown "
+                      aria-haspopup="true"
+                      data-meganav-type="parent">
+                      <a
+                        href="/collections/posters"
+                        class="site-nav__link"
+                        data-meganav-type="parent"
+                        aria-controls="MenuParent-3"
+                        aria-expanded="false"
+                        >
+                          Languages
+                          <span class="icon icon-arrow-down" aria-hidden="true"></span>
+                      </a>
+                      <ul
+                        id="MenuParent-3"
+                        class="site-nav__dropdown site-nav--has-grandchildren"
+                        data-meganav-dropdown>
+                        
+                          
+                          
+                            <li
+                              class="site-nav__item site-nav--has-dropdown site-nav--has-dropdown-grandchild "
+                              aria-haspopup="true">
+                              <a
+                                href="/collections/spanish"
+                                class="site-nav__dropdown-link"
+                                aria-controls="MenuChildren-3-1"
+                                data-meganav-type="parent"
+                                
+                                tabindex="-1">
+                                  Spanish
+                                  <span class="icon icon-arrow-down" aria-hidden="true"></span>
+                              </a>
+                              <div class="site-nav__dropdown-grandchild">
+                                <ul
+                                  id="MenuChildren-3-1"
+                                  data-meganav-dropdown>
+                                  
+                                    <li>
+                                      <a
+                                        href="/products/100-most-used-spanish-verbs"
+                                        class="site-nav__dropdown-link"
+                                        data-meganav-type="child"
+                                        
+                                        tabindex="-1">
+                                          Spanish Verbs - Present Tense
+                                        </a>
+                                    </li>
+                                  
+                                    <li>
+                                      <a
+                                        href="/products/100-most-used-spanish-preterite-tense-verbs-poster"
+                                        class="site-nav__dropdown-link"
+                                        data-meganav-type="child"
+                                        
+                                        tabindex="-1">
+                                          Spanish Verbs - Preterite Tense
+                                        </a>
+                                    </li>
+                                  
+                                    <li>
+                                      <a
+                                        href="/products/how-to-eat-play-and-live-in-spanish-poster"
+                                        class="site-nav__dropdown-link"
+                                        data-meganav-type="child"
+                                        
+                                        tabindex="-1">
+                                          How to Eat, Play, and Live in Spanish
+                                        </a>
+                                    </li>
+                                  
+                                    <li>
+                                      <a
+                                        href="/products/100-most-used-verbs-spanish-bundle"
+                                        class="site-nav__dropdown-link"
+                                        data-meganav-type="child"
+                                        
+                                        tabindex="-1">
+                                          Spanish Bundle!
+                                        </a>
+                                    </li>
+                                  
+                                </ul>
+                              </div>
+                            </li>
+                          
+                        
+                          
+                          
+                            <li
+                              class="site-nav__item site-nav--has-dropdown site-nav--has-dropdown-grandchild "
+                              aria-haspopup="true">
+                              <a
+                                href="/collections/french"
+                                class="site-nav__dropdown-link"
+                                aria-controls="MenuChildren-3-2"
+                                data-meganav-type="parent"
+                                
+                                tabindex="-1">
+                                  French
+                                  <span class="icon icon-arrow-down" aria-hidden="true"></span>
+                              </a>
+                              <div class="site-nav__dropdown-grandchild">
+                                <ul
+                                  id="MenuChildren-3-2"
+                                  data-meganav-dropdown>
+                                  
+                                    <li>
+                                      <a
+                                        href="/products/100-most-used-french-verbs-poster"
+                                        class="site-nav__dropdown-link"
+                                        data-meganav-type="child"
+                                        
+                                        tabindex="-1">
+                                          French Verbs
+                                        </a>
+                                    </li>
+                                  
+                                    <li>
+                                      <a
+                                        href="/products/how-to-eat-play-and-live-in-french-poster"
+                                        class="site-nav__dropdown-link"
+                                        data-meganav-type="child"
+                                        
+                                        tabindex="-1">
+                                          How to Eat, Play, and Live in French
+                                        </a>
+                                    </li>
+                                  
+                                </ul>
+                              </div>
+                            </li>
+                          
+                        
+                          
+                          
+                            <li
+                              class="site-nav__item site-nav--has-dropdown site-nav--has-dropdown-grandchild "
+                              aria-haspopup="true">
+                              <a
+                                href="/collections/italian"
+                                class="site-nav__dropdown-link"
+                                aria-controls="MenuChildren-3-3"
+                                data-meganav-type="parent"
+                                
+                                tabindex="-1">
+                                  Italian
+                                  <span class="icon icon-arrow-down" aria-hidden="true"></span>
+                              </a>
+                              <div class="site-nav__dropdown-grandchild">
+                                <ul
+                                  id="MenuChildren-3-3"
+                                  data-meganav-dropdown>
+                                  
+                                    <li>
+                                      <a
+                                        href="/products/100-most-used-italian-verbs-poster"
+                                        class="site-nav__dropdown-link"
+                                        data-meganav-type="child"
+                                        
+                                        tabindex="-1">
+                                          Italian Verbs
+                                        </a>
+                                    </li>
+                                  
+                                    <li>
+                                      <a
+                                        href="/products/how-to-eat-play-and-live-in-italian-poster"
+                                        class="site-nav__dropdown-link"
+                                        data-meganav-type="child"
+                                        
+                                        tabindex="-1">
+                                          How to Eat, Play, and Live in Italian
+                                        </a>
+                                    </li>
+                                  
+                                </ul>
+                              </div>
+                            </li>
+                          
+                        
+                          
+                            <li>
+                              <a
+                                href="/products/100-most-used-portuguese-verbs-poster"
+                                class="site-nav__dropdown-link"
+                                data-meganav-type="child"
+                                
+                                tabindex="-1">
+                                  Portuguese
+                              </a>
+                            </li>
+                          
+                        
+                          
+                            <li>
+                              <a
+                                href="/products/100-most-used-german-verbs-poster"
+                                class="site-nav__dropdown-link"
+                                data-meganav-type="child"
+                                
+                                tabindex="-1">
+                                  German
+                              </a>
+                            </li>
+                          
+                        
+                          
+                            <li>
+                              <a
+                                href="/products/100-most-used-english-verbs-poster"
+                                class="site-nav__dropdown-link"
+                                data-meganav-type="child"
+                                
+                                tabindex="-1">
+                                  English
+                              </a>
+                            </li>
+                          
+                        
+                          
+                            <li>
+                              <a
+                                href="/products/100-most-used-mandarin-chinese-verbs-poster"
+                                class="site-nav__dropdown-link"
+                                data-meganav-type="child"
+                                
+                                tabindex="-1">
+                                  Mandarin Chinese
+                              </a>
+                            </li>
+                          
+                        
+                          
+                            <li>
+                              <a
+                                href="/products/100-most-used-catalan-verbs-poster"
+                                class="site-nav__dropdown-link"
+                                data-meganav-type="child"
+                                
+                                tabindex="-1">
+                                  Catalan
+                              </a>
+                            </li>
+                          
+                        
+                          
+                            <li>
+                              <a
+                                href="/products/100-most-used-verbs-bilingual-bundle"
+                                class="site-nav__dropdown-link"
+                                data-meganav-type="child"
+                                
+                                tabindex="-1">
+                                  Bilingual Bundle!
+                              </a>
+                            </li>
+                          
+                        
+                          
+                            <li>
+                              <a
+                                href="/products/100-most-used-verbs-trilingual-bundle"
+                                class="site-nav__dropdown-link"
+                                data-meganav-type="child"
+                                
+                                tabindex="-1">
+                                  Trilingual Bundle!!!
+                              </a>
+                            </li>
+                          
+                        
+                      </ul>
+                    </li>
+                  
+                
+                  
+                  
+                    <li
+                      class="site-nav__item site-nav--has-dropdown "
+                      aria-haspopup="true"
+                      data-meganav-type="parent">
+                      <a
+                        href="/pages/about-us"
+                        class="site-nav__link"
+                        data-meganav-type="parent"
+                        aria-controls="MenuParent-4"
+                        aria-expanded="false"
+                        >
+                          About
+                          <span class="icon icon-arrow-down" aria-hidden="true"></span>
+                      </a>
+                      <ul
+                        id="MenuParent-4"
+                        class="site-nav__dropdown "
+                        data-meganav-dropdown>
+                        
+                          
+                            <li>
+                              <a
+                                href="/pages/faq"
+                                class="site-nav__dropdown-link"
+                                data-meganav-type="child"
+                                
+                                tabindex="-1">
+                                  FAQ
+                              </a>
+                            </li>
+                          
+                        
+                          
+                            <li>
+                              <a
+                                href="/pages/outreach"
+                                class="site-nav__dropdown-link"
+                                data-meganav-type="child"
+                                
+                                tabindex="-1">
+                                  Outreach
+                              </a>
+                            </li>
+                          
+                        
+                          
+                            <li>
+                              <a
+                                href="/pages/affiliate-program"
+                                class="site-nav__dropdown-link"
+                                data-meganav-type="child"
+                                
+                                tabindex="-1">
+                                  Affiliates
+                              </a>
+                            </li>
+                          
+                        
+                          
+                            <li>
+                              <a
+                                href="/pages/contact-us"
+                                class="site-nav__dropdown-link"
+                                data-meganav-type="child"
+                                
+                                tabindex="-1">
+                                  Contact Us
+                              </a>
+                            </li>
+                          
+                        
+                          
+                            <li>
+                              <a
+                                href="/blogs/news"
+                                class="site-nav__dropdown-link"
+                                data-meganav-type="child"
+                                
+                                tabindex="-1">
+                                  Blog
+                              </a>
+                            </li>
+                          
+                        
+                      </ul>
+                    </li>
+                  
+                
+
+                
+
+                
+                  
+                  
+                  <li class="site-nav__item site-nav__item--compressed">
+                    <a href="/search" class="site-nav__link site-nav__link--icon js-toggle-search-modal" data-mfp-src="#SearchModal">
+                      <span class="icon-fallback-text">
+                        <span class="icon icon-search" aria-hidden="true"></span>
+                        <span class="fallback-text">Search</span>
+                      </span>
+                    </a>
+                  </li>
+                
+
+                <li class="site-nav__item site-nav__item--compressed">
+                  <a href="/cart" class="site-nav__link site-nav__link--icon cart-link js-drawer-open-button-right" aria-controls="CartDrawer">
+                    <span class="icon-fallback-text">
+                      <span class="icon icon-cart" aria-hidden="true"></span>
+                      <span class="fallback-text">Cart</span>
+                    </span>
+                    <span class="cart-link__bubble"></span>
+                  </a>
+                </li>
+                <li class="site-nav__item site-nav__item--compressed">
+                  <form method="post" action="/cart/update" id="currency_form" accept-charset="UTF-8" class="shopify-currency-form" enctype="multipart/form-data"><input type="hidden" name="form_type" value="currency" /><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="return_to" value="/pages/portuguese-verbs" />
+                   <select name="currency"><option value="AED">AED د.إ</option><option value="AFN">AFN ؋</option><option value="ALL">ALL L</option><option value="AMD">AMD դր.</option><option value="ANG">ANG ƒ</option><option value="AUD">AUD $</option><option value="AWG">AWG ƒ</option><option value="AZN">AZN ₼</option><option value="BAM">BAM КМ</option><option value="BBD">BBD $</option><option value="BDT">BDT ৳</option><option value="BGN">BGN лв.</option><option value="BIF">BIF Fr</option><option value="BND">BND $</option><option value="BOB">BOB Bs.</option><option value="BSD">BSD $</option><option value="BWP">BWP P</option><option value="BZD">BZD $</option><option value="CAD">CAD $</option><option value="CDF">CDF Fr</option><option value="CHF">CHF CHF</option><option value="CNY">CNY ¥</option><option value="CRC">CRC ₡</option><option value="CVE">CVE $</option><option value="CZK">CZK Kč</option><option value="DJF">DJF Fdj</option><option value="DKK">DKK kr.</option><option value="DOP">DOP $</option><option value="DZD">DZD د.ج</option><option value="EGP">EGP ج.م</option><option value="ETB">ETB Br</option><option value="EUR">EUR €</option><option value="FJD">FJD $</option><option value="FKP">FKP £</option><option value="GBP">GBP £</option><option value="GMD">GMD D</option><option value="GNF">GNF Fr</option><option value="GTQ">GTQ Q</option><option value="GYD">GYD $</option><option value="HKD">HKD $</option><option value="HNL">HNL L</option><option value="HRK">HRK kn</option><option value="HUF">HUF Ft</option><option value="IDR">IDR Rp</option><option value="ILS">ILS ₪</option><option value="INR">INR ₹</option><option value="ISK">ISK kr</option><option value="JMD">JMD $</option><option value="JPY">JPY ¥</option><option value="KES">KES KSh</option><option value="KGS">KGS som</option><option value="KHR">KHR ៛</option><option value="KMF">KMF Fr</option><option value="KRW">KRW ₩</option><option value="KYD">KYD $</option><option value="KZT">KZT 〒</option><option value="LAK">LAK ₭</option><option value="LBP">LBP ل.ل</option><option value="LKR">LKR ₨</option><option value="MAD">MAD د.م.</option><option value="MDL">MDL L</option><option value="MKD">MKD ден</option><option value="MMK">MMK K</option><option value="MNT">MNT ₮</option><option value="MOP">MOP P</option><option value="MUR">MUR ₨</option><option value="MVR">MVR MVR</option><option value="MWK">MWK MK</option><option value="MYR">MYR RM</option><option value="NGN">NGN ₦</option><option value="NIO">NIO C$</option><option value="NPR">NPR ₨</option><option value="NZD">NZD $</option><option value="PEN">PEN S/.</option><option value="PGK">PGK K</option><option value="PHP">PHP ₱</option><option value="PKR">PKR ₨</option><option value="PLN">PLN zł</option><option value="PYG">PYG ₲</option><option value="QAR">QAR ر.ق</option><option value="RON">RON Lei</option><option value="RSD">RSD РСД</option><option value="RWF">RWF FRw</option><option value="SAR">SAR ر.س</option><option value="SBD">SBD $</option><option value="SEK">SEK kr</option><option value="SGD">SGD $</option><option value="SHP">SHP £</option><option value="SLL">SLL Le</option><option value="STD">STD Db</option><option value="THB">THB ฿</option><option value="TJS">TJS ЅМ</option><option value="TOP">TOP T$</option><option value="TTD">TTD $</option><option value="TWD">TWD $</option><option value="TZS">TZS Sh</option><option value="UAH">UAH ₴</option><option value="UGX">UGX USh</option><option value="USD" selected="selected">USD $</option><option value="UYU">UYU $</option><option value="UZS">UZS </option><option value="VND">VND ₫</option><option value="VUV">VUV Vt</option><option value="WST">WST T</option><option value="XAF">XAF Fr</option><option value="XCD">XCD $</option><option value="XOF">XOF Fr</option><option value="XPF">XPF Fr</option><option value="YER">YER ﷼</option></select>
+                  </form>
+                </li>
+                <li class="site-nav__item doubly-wrapper" style="margin-left:5px;float:none;"></li>
+              </ul>
+              <!-- //site-nav -->
+            </nav>
+            <div class="grid__item large--hide one-quarter">
+              <div class="site-nav--mobile text-right">
+                <a href="/cart" class="site-nav__link cart-link js-drawer-open-button-right" aria-controls="CartDrawer">
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-cart" aria-hidden="true"></span>
+                    <span class="fallback-text">Cart</span>
+                  </span>
+                  <span class="cart-link__bubble"></span>
+                </a>
+              </div>
+            </div>
+            <div class="grid__item large--hide one-quarter">
+              <div class="site-nav--mobile text-right">
+                <form method="post" action="/cart/update" id="currency_form" accept-charset="UTF-8" class="shopify-currency-form" enctype="multipart/form-data"><input type="hidden" name="form_type" value="currency" /><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="return_to" value="/pages/portuguese-verbs" />
+                <select name="currency"><option value="AED">AED د.إ</option><option value="AFN">AFN ؋</option><option value="ALL">ALL L</option><option value="AMD">AMD դր.</option><option value="ANG">ANG ƒ</option><option value="AUD">AUD $</option><option value="AWG">AWG ƒ</option><option value="AZN">AZN ₼</option><option value="BAM">BAM КМ</option><option value="BBD">BBD $</option><option value="BDT">BDT ৳</option><option value="BGN">BGN лв.</option><option value="BIF">BIF Fr</option><option value="BND">BND $</option><option value="BOB">BOB Bs.</option><option value="BSD">BSD $</option><option value="BWP">BWP P</option><option value="BZD">BZD $</option><option value="CAD">CAD $</option><option value="CDF">CDF Fr</option><option value="CHF">CHF CHF</option><option value="CNY">CNY ¥</option><option value="CRC">CRC ₡</option><option value="CVE">CVE $</option><option value="CZK">CZK Kč</option><option value="DJF">DJF Fdj</option><option value="DKK">DKK kr.</option><option value="DOP">DOP $</option><option value="DZD">DZD د.ج</option><option value="EGP">EGP ج.م</option><option value="ETB">ETB Br</option><option value="EUR">EUR €</option><option value="FJD">FJD $</option><option value="FKP">FKP £</option><option value="GBP">GBP £</option><option value="GMD">GMD D</option><option value="GNF">GNF Fr</option><option value="GTQ">GTQ Q</option><option value="GYD">GYD $</option><option value="HKD">HKD $</option><option value="HNL">HNL L</option><option value="HRK">HRK kn</option><option value="HUF">HUF Ft</option><option value="IDR">IDR Rp</option><option value="ILS">ILS ₪</option><option value="INR">INR ₹</option><option value="ISK">ISK kr</option><option value="JMD">JMD $</option><option value="JPY">JPY ¥</option><option value="KES">KES KSh</option><option value="KGS">KGS som</option><option value="KHR">KHR ៛</option><option value="KMF">KMF Fr</option><option value="KRW">KRW ₩</option><option value="KYD">KYD $</option><option value="KZT">KZT 〒</option><option value="LAK">LAK ₭</option><option value="LBP">LBP ل.ل</option><option value="LKR">LKR ₨</option><option value="MAD">MAD د.م.</option><option value="MDL">MDL L</option><option value="MKD">MKD ден</option><option value="MMK">MMK K</option><option value="MNT">MNT ₮</option><option value="MOP">MOP P</option><option value="MUR">MUR ₨</option><option value="MVR">MVR MVR</option><option value="MWK">MWK MK</option><option value="MYR">MYR RM</option><option value="NGN">NGN ₦</option><option value="NIO">NIO C$</option><option value="NPR">NPR ₨</option><option value="NZD">NZD $</option><option value="PEN">PEN S/.</option><option value="PGK">PGK K</option><option value="PHP">PHP ₱</option><option value="PKR">PKR ₨</option><option value="PLN">PLN zł</option><option value="PYG">PYG ₲</option><option value="QAR">QAR ر.ق</option><option value="RON">RON Lei</option><option value="RSD">RSD РСД</option><option value="RWF">RWF FRw</option><option value="SAR">SAR ر.س</option><option value="SBD">SBD $</option><option value="SEK">SEK kr</option><option value="SGD">SGD $</option><option value="SHP">SHP £</option><option value="SLL">SLL Le</option><option value="STD">STD Db</option><option value="THB">THB ฿</option><option value="TJS">TJS ЅМ</option><option value="TOP">TOP T$</option><option value="TTD">TTD $</option><option value="TWD">TWD $</option><option value="TZS">TZS Sh</option><option value="UAH">UAH ₴</option><option value="UGX">UGX USh</option><option value="USD" selected="selected">USD $</option><option value="UYU">UYU $</option><option value="UZS">UZS </option><option value="VND">VND ₫</option><option value="VUV">VUV Vt</option><option value="WST">WST T</option><option value="XAF">XAF Fr</option><option value="XCD">XCD $</option><option value="XOF">XOF Fr</option><option value="XPF">XPF Fr</option><option value="YER">YER ﷼</option></select>
+                </form>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </header>
+    </div>
+  </div>
+</div>
+
+
+</div>
+
+    
+
+    <main class="main-content" role="main">
+      
+        <div class="wrapper">
+      
+        <!-- /templates/page.liquid -->
+<div class="grid">
+  <div class="grid__item large--five-sixths push--large--one-twelfth">
+
+    <header class="section-header text-center">
+      <h1>The 100 Most Used Portuguese Verbs List</h1>
+      <hr class="hr--small">
+    </header>
+
+    <div class="grid">
+      <div class="grid__item large--four-fifths push--large--one-tenth">
+        <div class="rte rte--nomargin rte--indented-images">
+          <p>A list of the 100 Most Used Portuguese Verbs as seen on the <a href="https://languageposters.com/products/100-most-used-portuguese-verbs-poster" title="100 Most Used Portuguese Verbs Poster">100 Most Used Portuguese Verbs Poster</a>.</p>
+<ul>
+
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-ser-conjugation">Ser Conjugation</a> <span style="font-style: italic;">(To be)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-ter-conjugation">Ter Conjugation</a> <span style="font-style: italic;">(To have)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-vir-conjugation">Vir Conjugation</a> <span style="font-style: italic;">(To come)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-estar-conjugation">Estar Conjugation</a> <span style="font-style: italic;">(To be)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-ir-conjugation">Ir Conjugation</a> <span style="font-style: italic;">(To go)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-dar-conjugation">Dar Conjugation</a> <span style="font-style: italic;">(To give)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-haver-conjugation">Haver Conjugation</a> <span style="font-style: italic;">(To have)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-fazer-conjugation">Fazer Conjugation</a> <span style="font-style: italic;">(To do, to make)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-satisfazer-conjugation">Satisfazer Conjugation</a> <span style="font-style: italic;">(To satisfy)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-ler-conjugation">Ler Conjugation</a> <span style="font-style: italic;">(To read)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-dizer-conjugation">Dizer Conjugation</a> <span style="font-style: italic;">(To say, to tell)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-trazer-conjugation">Trazer Conjugation</a> <span style="font-style: italic;">(To bring)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-ver-conjugation">Ver Conjugation</a> <span style="font-style: italic;">(To see)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-prever-conjugation">Prever Conjugation</a> <span style="font-style: italic;">(To predict)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-conter-conjugation">Conter Conjugation</a> <span style="font-style: italic;">(To contain, to have)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-manter-conjugation">Manter Conjugation</a> <span style="font-style: italic;">(To keep)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-obter-conjugation">Obter Conjugation</a> <span style="font-style: italic;">(To get)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-querer-conjugation">Querer Conjugation</a> <span style="font-style: italic;">(To want)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-poder-conjugation">Poder Conjugation</a> <span style="font-style: italic;">(Can, to be able to)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-seguir-conjugation">Seguir Conjugation</a> <span style="font-style: italic;">(To follow)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-conseguir-conjugation">Conseguir Conjugation</a> <span style="font-style: italic;">(To get)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-perseguir-conjugation">Perseguir Conjugation</a> <span style="font-style: italic;">(To pursue, to chase)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-saber-conjugation">Saber Conjugation</a> <span style="font-style: italic;">(To know)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-por-conjugation">Pôr Conjugation</a> <span style="font-style: italic;">(To put)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-expor-conjugation">Expor Conjugation</a> <span style="font-style: italic;">(To expose, to exhibit)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-propor-conjugation">Propor Conjugation</a> <span style="font-style: italic;">(To propose)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-compor-conjugation">Compor Conjugation</a> <span style="font-style: italic;">(To fix, to write, to compose)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-conhecer-conjugation">Conhecer Conjugation</a> <span style="font-style: italic;">(To know)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-parecer-conjugation">Parecer Conjugation</a> <span style="font-style: italic;">(To look, to seem)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-acontecer-conjugation">Acontecer Conjugation</a> <span style="font-style: italic;">(To happen)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-ouvir-conjugation">Ouvir Conjugation</a> <span style="font-style: italic;">(To hear, to listen)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-pedir-conjugation">Pedir Conjugation</a> <span style="font-style: italic;">(To ask)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-despedir-conjugation">Despedir Conjugation</a> <span style="font-style: italic;">(To fire, to say goodbye)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-medir-conjugation">Medir Conjugation</a> <span style="font-style: italic;">(To measure)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-impedir-conjugation">Impedir Conjugation</a> <span style="font-style: italic;">(To prevent, to stop)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-sair-conjugation">Sair Conjugation</a> <span style="font-style: italic;">(To leave, to go out)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-cair-conjugation">Cair Conjugation</a> <span style="font-style: italic;">(To fall)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-distrair-conjugation">Distrair Conjugation</a> <span style="font-style: italic;">(To distract)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-perder-conjugation">Perder Conjugation</a> <span style="font-style: italic;">(To lose)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-valer-conjugation">Valer Conjugation</a> <span style="font-style: italic;">(To cost, to count)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-escrever-conjugation">Escrever Conjugation</a> <span style="font-style: italic;">(To write)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-caber-conjugation">Caber Conjugation</a> <span style="font-style: italic;">(To fit)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-agredir-conjugation">Agredir Conjugation</a> <span style="font-style: italic;">(To attack)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-dormir-conjugation">Dormir Conjugation</a> <span style="font-style: italic;">(To sleep)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-cobrir-conjugation">Cobrir Conjugation</a> <span style="font-style: italic;">(To cover)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-descobrir-conjugation">Descobrir Conjugation</a> <span style="font-style: italic;">(To discover)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-rir-conjugation">Rir Conjugation</a> <span style="font-style: italic;">(To laugh)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-passear-conjugation">Passear Conjugation</a> <span style="font-style: italic;">(To walk)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-subir-conjugation">Subir Conjugation</a> <span style="font-style: italic;">(To go up, to climb)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-fugir-conjugation">Fugir Conjugation</a> <span style="font-style: italic;">(To escape)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-concluir-conjugation">Concluir Conjugation</a> <span style="font-style: italic;">(To conclude)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-construir-conjugation">Construir Conjugation</a> <span style="font-style: italic;">(To build)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-destruir-conjugation">Destruir Conjugation</a> <span style="font-style: italic;">(To destroy)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-falar-conjugation">Falar Conjugation</a> <span style="font-style: italic;">(To speak)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-amar-conjugation">Amar Conjugation</a> <span style="font-style: italic;">(To love)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-deixar-conjugation">Deixar Conjugation</a> <span style="font-style: italic;">(To leave, to let)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-encontrar-conjugation">Encontrar Conjugation</a> <span style="font-style: italic;">(To find)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-levar-conjugation">Levar Conjugation</a> <span style="font-style: italic;">(To take, to bring)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-pensar-conjugation">Pensar Conjugation</a> <span style="font-style: italic;">(To think)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-olhar-conjugation">Olhar Conjugation</a> <span style="font-style: italic;">(To look)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-tornar-conjugation">Tornar Conjugation</a> <span style="font-style: italic;">(To become)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-voltar-conjugation">Voltar Conjugation</a> <span style="font-style: italic;">(To return)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-achar-conjugation">Achar Conjugation</a> <span style="font-style: italic;">(To think, to find)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-entrar-conjugation">Entrar Conjugation</a> <span style="font-style: italic;">(To enter)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-chamar-conjugation">Chamar Conjugation</a> <span style="font-style: italic;">(To call)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-tomar-conjugation">Tomar Conjugation</a> <span style="font-style: italic;">(To have, to take)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-acabar-conjugation">Acabar Conjugation</a> <span style="font-style: italic;">(To end, to finish)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-andar-conjugation">Andar Conjugation</a> <span style="font-style: italic;">(To walk)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-trabalhar-conjugation">Trabalhar Conjugation</a> <span style="font-style: italic;">(To work)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-contar-conjugation">Contar Conjugation</a> <span style="font-style: italic;">(To tell, to count)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-esperar-conjugation">Esperar Conjugation</a> <span style="font-style: italic;">(To wait)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-gostar-conjugation">Gostar Conjugation</a> <span style="font-style: italic;">(To like)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-usar-conjugation">Usar Conjugation</a> <span style="font-style: italic;">(To use)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-lembrar-conjugation">Lembrar Conjugation</a> <span style="font-style: italic;">(To remember)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-tentar-conjugation">Tentar Conjugation</a> <span style="font-style: italic;">(To try)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-ganhar-conjugation">Ganhar Conjugation</a> <span style="font-style: italic;">(To win, to earn)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-precisar-conjugation">Precisar Conjugation</a> <span style="font-style: italic;">(To need)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-perguntar-conjugation">Perguntar Conjugation</a> <span style="font-style: italic;">(To ask)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-tirar-conjugation">Tirar Conjugation</a> <span style="font-style: italic;">(To take, to remove)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-acreditar-conjugation">Acreditar Conjugation</a> <span style="font-style: italic;">(To believe)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-levantar-conjugation">Levantar Conjugation</a> <span style="font-style: italic;">(To raise, to lift)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-enviar-conjugation">Enviar Conjugation</a> <span style="font-style: italic;">(To send)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-parar-conjugation">Parar Conjugation</a> <span style="font-style: italic;">(To stop)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-fechar-conjugation">Fechar Conjugation</a> <span style="font-style: italic;">(To close)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-mudar-conjugation">Mudar Conjugation</a> <span style="font-style: italic;">(To change)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-iniciar-conjugation">Iniciar Conjugation</a> <span style="font-style: italic;">(To start, to begin)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-ajudar-conjugation">Ajudar Conjugation</a> <span style="font-style: italic;">(To help)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-comer-conjugation">Comer Conjugation</a> <span style="font-style: italic;">(To eat)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-dever-conjugation">Dever Conjugation</a> <span style="font-style: italic;">(Must)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-viver-conjugation">Viver Conjugation</a> <span style="font-style: italic;">(To live)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-receber-conjugation">Receber Conjugation</a> <span style="font-style: italic;">(To receive)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-morrer-conjugation">Morrer Conjugation</a> <span style="font-style: italic;">(To die)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-correr-conjugation">Correr Conjugation</a> <span style="font-style: italic;">(To run)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-responder-conjugation">Responder Conjugation</a> <span style="font-style: italic;">(To answer)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-bater-conjugation">Bater Conjugation</a> <span style="font-style: italic;">(To hit, to knock)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-partir-conjugation">Partir Conjugation</a> <span style="font-style: italic;">(To leave, to break)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-existir-conjugation">Existir Conjugation</a> <span style="font-style: italic;">(To exist)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-permitir-conjugation">Permitir Conjugation</a> <span style="font-style: italic;">(To allow, to let)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-dividir-conjugation">Dividir Conjugation</a> <span style="font-style: italic;">(To share, to divide)</span>
+</li>
+<li>
+<a href="https://languageposters.com/pages/portuguese-verbs-assistir-conjugation">Assistir Conjugation</a> <span style="font-style: italic;">(To watch)</span>
+</li>
+</ul>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+      
+        </div>
+      
+    </main>
+
+    <hr class="hr--large">
+
+    <div id="shopify-section-footer" class="shopify-section"><footer class="site-footer small--text-center" role="contentinfo">
+  <div class="wrapper">
+
+    <div class="grid-uniform">
+
+      
+      
+
+      
+      
+
+      
+      
+      
+
+      
+      
+
+      
+
+      
+        <div class="grid__item large--one-quarter medium--one-half">
+          <ul class="no-bullets site-footer__linklist">
+            
+
+      
+      
+
+              <li><a href="/products/100-most-used-spanish-verbs">Spanish Conjugation Chart</a></li>
+
+            
+
+      
+      
+
+              <li><a href="/products/100-most-used-spanish-preterite-tense-verbs-poster">Spanish Preterite Tense Conjugation Chart</a></li>
+
+            
+
+      
+      
+
+              <li><a href="/products/how-to-eat-play-and-live-in-spanish-poster">How to Learn Spanish Poster</a></li>
+
+            
+
+      
+      
+
+              <li><a href="/products/how-to-eat-play-and-live-in-french-poster">How to Learn French Poster</a></li>
+
+            
+
+      
+      
+
+              <li><a href="/products/100-most-used-french-verbs-poster">French Conjugation Chart</a></li>
+
+            
+
+      
+      
+
+              <li><a href="/products/how-to-eat-play-and-live-in-italian-poster">How to Learn Italian Poster</a></li>
+
+            
+
+      
+      
+          </ul>
+        </div>
+        <div class="grid__item large--one-quarter medium--one-half">
+          <ul class="no-bullets site-footer__linklist">
+      
+
+              <li><a href="/products/100-most-used-italian-verbs-poster">Italian Conjugation Chart</a></li>
+
+            
+
+      
+      
+
+              <li><a href="/products/100-most-used-german-verbs-poster">German Conjugation Chart</a></li>
+
+            
+
+      
+      
+
+              <li><a href="/products/100-most-used-portuguese-verbs-poster">Portuguese Conjugation Chart</a></li>
+
+            
+
+      
+      
+
+              <li><a href="/products/100-most-used-catalan-verbs-poster">Catalan Conjugation Chart</a></li>
+
+            
+
+      
+      
+
+              <li><a href="/products/100-most-used-english-verbs-poster">English Verb Conjugation Chart</a></li>
+
+            
+
+      
+      
+
+              <li><a href="/products/100-most-used-mandarin-chinese-verbs-poster">Learn Chinese in 5 Minutes</a></li>
+
+            
+          </ul>
+        </div>
+      
+
+      
+        <div class="grid__item large--one-quarter medium--one-half">
+            <ul class="no-bullets social-icons" style="text-align:center;">
+              
+                <li>
+                  <a href="https://www.facebook.com/languageposters/" title="LanguagePosters.com on Facebook">
+                    <span class="icon icon-facebook" aria-hidden="true"></span>
+                    Facebook
+                  </a>
+                </li>
+              
+              
+              
+              
+                <li>
+                  <a href="https://instagram.com/languageposters" title="LanguagePosters.com on Instagram">
+                    <span class="icon icon-instagram" aria-hidden="true"></span>
+                    Instagram
+                  </a>
+                </li>
+              
+              
+              
+              
+              
+              
+              
+              <li>
+                Questions/Comments?<br />
+                <strong>hello@languageposters.com</strong>
+              </li>
+              <li>
+                1887 WHITNEY MESA DR. #5972<br />
+                HENDERSON, NV 89014 USA
+              </li>
+            </ul>
+        </div>
+      
+
+      <div class="grid__item large--one-quarter medium--one-half large--text-right">
+        <p>&copy; 2022, <a href="/" title="">LanguagePosters.com</a><br><a target="_blank" rel="nofollow" href="https://www.shopify.com?utm_campaign=poweredby&amp;utm_medium=shopify&amp;utm_source=onlinestore">Powered by Shopify</a></p>
+        
+          
+          <ul class="inline-list payment-icons">
+            
+              
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-american_express" aria-hidden="true"></span>
+                    <span class="fallback-text">american express</span>
+                  </span>
+                </li>
+              
+            
+              
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-apple_pay" aria-hidden="true"></span>
+                    <span class="fallback-text">apple pay</span>
+                  </span>
+                </li>
+              
+            
+              
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-diners_club" aria-hidden="true"></span>
+                    <span class="fallback-text">diners club</span>
+                  </span>
+                </li>
+              
+            
+              
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-discover" aria-hidden="true"></span>
+                    <span class="fallback-text">discover</span>
+                  </span>
+                </li>
+              
+            
+              
+            
+              
+            
+              
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-master" aria-hidden="true"></span>
+                    <span class="fallback-text">master</span>
+                  </span>
+                </li>
+              
+            
+              
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-paypal" aria-hidden="true"></span>
+                    <span class="fallback-text">paypal</span>
+                  </span>
+                </li>
+              
+            
+              
+            
+              
+                <li>
+                  <span class="icon-fallback-text">
+                    <span class="icon icon-visa" aria-hidden="true"></span>
+                    <span class="fallback-text">visa</span>
+                  </span>
+                </li>
+              
+            
+          </ul>
+        
+      </div>
+    </div>
+
+  </div>
+</footer>
+
+</div>
+
+  </div>
+
+  
+  <script>
+    
+  </script>
+
+  
+  
+    <!-- /snippets/ajax-cart-template.liquid -->
+
+  <script id="CartTemplate" type="text/template">
+  
+    <form action="/cart" method="post" novalidate class="cart ajaxcart">
+      <div class="ajaxcart__inner ajaxcart__inner--has-fixed-footer">
+        {{#items}}
+        <div class="ajaxcart__product">
+          <div class="ajaxcart__row" data-line="{{line}}">
+            <div class="grid">
+              <div class="grid__item one-quarter">
+                <a href="{{url}}" class="ajaxcart__product-image"><img src="{{img}}" alt="{{name}}"></a>
+              </div>
+              <div class="grid__item three-quarters">
+                <div class="ajaxcart__product-name--wrapper">
+                  <a href="{{url}}" class="ajaxcart__product-name">{{{name}}}</a>
+                  {{#if variation}}
+                    <span class="ajaxcart__product-meta">{{variation}}</span>
+                  {{/if}}
+                  {{#properties}}
+                    {{#each this}}
+                      {{#if this}}
+                        <span class="ajaxcart__product-meta">{{@key}}: {{this}}</span>
+                      {{/if}}
+                    {{/each}}
+                  {{/properties}}
+                </div>
+
+                <div class="grid--full display-table">
+                  <div class="grid__item display-table-cell one-half">
+                    <div class="ajaxcart__qty">
+                      <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--minus icon-fallback-text" data-id="{{key}}" data-qty="{{itemMinus}}" data-line="{{line}}" aria-label="Reduce item quantity by one">
+                        <span class="icon icon-minus" aria-hidden="true"></span>
+                        <span class="fallback-text" aria-hidden="true">&minus;</span>
+                      </button>
+                      <input type="text" name="updates[]" class="ajaxcart__qty-num" value="{{itemQty}}" min="0" data-id="{{key}}" data-line="{{line}}" aria-label="quantity" pattern="[0-9]*">
+                      <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--plus icon-fallback-text" data-id="{{key}}" data-line="{{line}}" data-qty="{{itemAdd}}" aria-label="Increase item quantity by one">
+                        <span class="icon icon-plus" aria-hidden="true"></span>
+                        <span class="fallback-text" aria-hidden="true">+</span>
+                      </button>
+                    </div>
+                  </div>
+                  <div class="grid__item display-table-cell one-half text-right">
+                    {{#if discountsApplied}}
+                      <small class="ajaxcart__price--strikethrough">{{{price}}}</small>
+                      <span class="ajaxcart__price">
+                        {{{discountedPrice}}}
+                      </span>
+                    {{else}}
+                      <span class="ajaxcart__price">
+                        {{{price}}}
+                      </span>
+                    {{/if}}
+                  </div>
+                </div>
+                {{#if discountsApplied}}
+                  <div class="grid--full display-table">
+                    <div class="grid__item text-right">
+                      {{#each discounts}}
+                        <small class="ajaxcart__discount">{{this.title}}</small>
+                      {{/each}}
+                    </div>
+                  </div>
+                {{/if}}
+              </div>
+            </div>
+          </div>
+        </div>
+        {{/items}}
+
+        
+      </div>
+      <div class="ajaxcart__footer ajaxcart__footer--fixed">
+        <div class="grid--full">
+          <div class="grid__item two-thirds">
+            <p class="ajaxcart__subtotal">Subtotal</p>
+          </div>
+          <div class="grid__item one-third text-right">
+            <p class="ajaxcart__subtotal">{{{totalPrice}}}</p>
+          </div>
+        </div>
+        {{#if totalCartDiscount}}
+          <p class="ajaxcart__savings text-center">{{{totalCartDiscount}}}</p>
+        {{/if}}
+        <p class="ajaxcart__note text-center"></p>
+        <button type="submit" class="btn--secondary btn--full cart__checkout" name="checkout">
+          Checkout  <span class="icon icon-arrow-right" aria-hidden="true"></span>
+        </button>
+      </div>
+    </form>
+  
+  </script>
+  <script id="AjaxQty" type="text/template">
+  
+    <div class="ajaxcart__qty">
+      <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--minus icon-fallback-text" data-id="{{key}}" data-qty="{{itemMinus}}" aria-label="Reduce item quantity by one">
+        <span class="icon icon-minus" aria-hidden="true"></span>
+        <span class="fallback-text" aria-hidden="true">&minus;</span>
+      </button>
+      <input type="text" class="ajaxcart__qty-num" value="{{itemQty}}" min="0" data-id="{{key}}" aria-label="quantity" pattern="[0-9]*">
+      <button type="button" class="ajaxcart__qty-adjust ajaxcart__qty--plus icon-fallback-text" data-id="{{key}}" data-qty="{{itemAdd}}" aria-label="Increase item quantity by one">
+        <span class="icon icon-plus" aria-hidden="true"></span>
+        <span class="fallback-text" aria-hidden="true">+</span>
+      </button>
+    </div>
+  
+  </script>
+  <script id="JsQty" type="text/template">
+  
+    <div class="js-qty">
+      <button type="button" class="js-qty__adjust js-qty__adjust--minus icon-fallback-text" data-id="{{key}}" data-qty="{{itemMinus}}" aria-label="Reduce item quantity by one">
+        <span class="icon icon-minus" aria-hidden="true"></span>
+        <span class="fallback-text" aria-hidden="true">&minus;</span>
+      </button>
+      <input type="text" class="js-qty__num" value="{{itemQty}}" min="1" data-id="{{key}}" aria-label="quantity" pattern="[0-9]*" name="{{inputName}}" id="{{inputId}}">
+      <button type="button" class="js-qty__adjust js-qty__adjust--plus icon-fallback-text" data-id="{{key}}" data-qty="{{itemAdd}}" aria-label="Increase item quantity by one">
+        <span class="icon icon-plus" aria-hidden="true"></span>
+        <span class="fallback-text" aria-hidden="true">+</span>
+      </button>
+    </div>
+  
+  </script>
+
+  
+
+  
+
+  <div id="SearchModal" class="mfp-hide">
+    <!-- /snippets/search-bar.liquid -->
+
+
+
+
+
+<form action="/search" method="get" class="input-group search-bar search-bar--modal" role="search">
+  
+  <input type="search" name="q" value="" placeholder="Search our store" class="input-group-field" aria-label="Search our store">
+  <span class="input-group-btn">
+    <button type="submit" class="btn icon-fallback-text">
+      <span class="icon icon-search" aria-hidden="true"></span>
+      <span class="fallback-text">Search</span>
+    </button>
+  </span>
+</form>
+
+  </div>
+
+
+
+
+  
+</body>
+</html>

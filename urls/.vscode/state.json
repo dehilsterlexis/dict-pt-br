@@ -1,0 +1,10 @@
+{
+    "visualText": [
+        {
+            "name": "Analyzer",
+            "type": "state",
+            "currentTextFile": "c:\\git\\dict-pt-br\\urls\\input\\portverbs1000.txt",
+            "currentPassFile": "c:\\git\\dict-pt-br\\urls\\spec\\anchor.nlp"
+        }
+    ]
+}

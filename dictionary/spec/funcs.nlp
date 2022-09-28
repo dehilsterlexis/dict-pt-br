@@ -1,0 +1,16 @@
+###############################################
+# FILE: funcs
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-26 16:16:16
+# MODIFIED:
+###############################################
+
+@DECL
+
+AddWord(L("person"),L("word")) {
+	"word.txt" << L("person") << " " << L("word") << "\n";
+	DictionaryWord(G("word"),"person",L("person"),"str");
+}
+
+@@DECL

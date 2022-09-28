@@ -1,0 +1,45 @@
+###############################################
+# FILE: tbody
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-23 22:52:2
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@POST
+"verb.txt" << N("$text",5) << "\n";
+single();
+@RULES
+_header <-
+	\<			### (1)
+	h			### (2)
+	2			### (3)
+	\>			### (4)
+	_xALPHA		### (5)
+	Conjugation	### (6)
+	\:			### (7)
+	Present		### (8)
+	Tense		### (9)
+	\<			### (10)
+	\/			### (11)
+	h			### (12)
+	2			### (13)
+	\>			### (14)
+@@
+
+@RULES
+_tbody <-
+	\<		### (1)
+	tbody	### (2)
+	\>		### (3)
+	@@
+
+@RULES
+_tbodyClose <-
+	\<		### (1)
+	\/		### (2)
+	tbody	### (3)
+	\>		### (4)
+	@@

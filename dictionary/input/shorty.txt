@@ -1,0 +1,30 @@
+   <div class="grid">
+      <div class="grid__item large--four-fifths push--large--one-tenth">
+        <div class="rte rte--nomargin rte--indented-images">
+          <p>Satisfazer is a Portuguese <strong>irregular</strong> verb meaning <em>to satisfy</em>. Satisfazer appears on the <a href="https://languageposters.com/products/100-most-used-portuguese-verbs-poster" target="_blank" rel="noopener noreferrer">100 Most Used Portuguese Verbs Poster</a> as the 9th most used irregular verb.</p><h2>Satisfazer Conjugation: Present Tense</h2><table width="100%" class="verb">
+      <tbody>
+      <tr>
+      <td style="text-align: right;">eu</td>
+      <td><strong>satisfaço</strong></td>
+      </tr>
+      <tr>
+      <td style="text-align: right;">tu</td>
+      <td>satisfazes</td>
+      </tr>
+      <tr>
+      <td style="text-align: right;">ele/ela</td>
+      <td><strong>satisfaz</strong></td>
+      </tr>
+      <tr>
+      <td style="text-align: right;">nós</td>
+      <td>satisfazemos</td>
+      </tr>
+      <tr>
+      <td style="text-align: right;">vós</td>
+      <td>satisfazeis</td>
+      </tr>
+      <tr>
+      <td style="text-align: right;">eles/elas</td>
+      <td>satisfazem</td>
+      </tr>
+      </tbody>

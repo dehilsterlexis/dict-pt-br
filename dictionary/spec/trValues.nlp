@@ -1,0 +1,17 @@
+###############################################
+# FILE: twoTds
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-26 16:4:55
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _bodyZone 
+
+@POST
+AddWord(N("value1"),N("value2"));
+
+@RULES
+_xNIL <-
+	_trZone
+	@@

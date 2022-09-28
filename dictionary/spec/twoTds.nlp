@@ -1,0 +1,19 @@
+###############################################
+# FILE: twoTds
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-26 16:4:55
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _bodyZone _trZone
+
+@POST
+X("value1") = N("value",1);
+X("value2") = N("value",2);
+
+@RULES
+_xNIL <-
+	_tdZone
+	_tdZone
+	@@

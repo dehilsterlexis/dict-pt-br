@@ -1,0 +1,14 @@
+###############################################
+# FILE: doc
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-26 17:24:42
+# MODIFIED:
+###############################################
+
+# THIS COMES FROM:
+#     https://conjugator.reverso.net/conjugation-portuguese-verb-ser.html
+
+@CODE
+L("nothing") = 0;
+@@CODE

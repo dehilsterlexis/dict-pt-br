@@ -1,0 +1,14 @@
+###############################################
+# FILE: categoryGroup
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-26 18:6:51
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _headerZone
+
+@RULES
+_catGroup <-
+	_xWILD [plus match=(_liGroup _hiGroup)]	### (2)
+	@@

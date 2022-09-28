@@ -1,0 +1,22 @@
+###############################################
+# FILE: tagAttr
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-26 17:44:55
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _headerZone _iOpen
+
+@POST
+X("attr") = N("$text",1);
+X("value") = N("$text",4);
+
+@RULES
+_xNIL <-
+	_xALPHA				### (1)
+	\=					### (2)
+	\"					### (3)
+	_xWILD [fail=(\")]	### (4)
+	\"					### (5)
+	@@

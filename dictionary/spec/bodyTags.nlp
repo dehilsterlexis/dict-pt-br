@@ -1,0 +1,33 @@
+###############################################
+# FILE: bodyTags
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-26 14:14:15
+# MODIFIED:
+###############################################
+
+@NODES _bodyZone
+
+@POST
+L("name") = "_" + N("$text",3) + "Close";
+group(1,4,L("name"));
+
+@RULES
+_xNIL <- 
+	\<						### (1)
+	\/						### (2)
+	_xWILD [match=(tr td)]	### (3)
+	\>						### (4)
+	@@
+
+@POST
+L("name") = "_" + N("$text",2);
+group(1,4,L("name"));
+
+@RULES
+_xNIL <- 
+	\<							### (1)
+	_xWILD [one match=(tr td)]	### (2)
+	_xWILD [fail=(\>)]			### (3)
+	\>							### (4)
+	@@

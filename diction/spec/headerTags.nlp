@@ -1,0 +1,14 @@
+###############################################
+# FILE: headers
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-26 16:55:43
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@RULES
+_headerClose <- \< \/ h 4 \> @@
+_headerOpen <- \< h 4 \> @@
+_bottom <- bottom \- horizontal @@

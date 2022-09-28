@@ -1,0 +1,20 @@
+###############################################
+# FILE: headerGroup
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-26 16:59:59
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@POST
+"headerzone.txt" << N("text",1) << "\n\n";
+S("header") = N("text",1);
+single();
+
+@RULES
+_headerZone <-
+	_header									### (1)
+	_xWILD [plus fail=(_header _bottom)]	### (2)
+	@@

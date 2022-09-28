@@ -1,0 +1,36 @@
+###############################################
+# FILE: headerTags
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-26 16:55:43
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@POST
+S("level") = N("$text",4);
+"headers.txt" << N("$text",4) << " close\n";
+single();
+
+@RULES
+_headerClose <- 
+	\<		### (1)
+	\/
+	h		### (2)
+	_xNUM	### (3)
+	\>		### (4)
+	@@
+
+@POST
+S("level") = N("$text",3);
+"headers.txt" << N("$text",3) << " open\n";
+single();
+
+@RULES
+_header <- 
+	\<		### (1)
+	h		### (2)
+	_xNUM	### (3)
+	\>		### (4)
+	@@

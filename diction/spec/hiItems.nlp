@@ -1,0 +1,18 @@
+###############################################
+# FILE: hiItems
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-27 11:27:8
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _headerZone _liGroup _hiGroup
+
+@POST
+X("text") = X("text") + N("text");
+"hitext.txt" << X("text") << "\n";
+
+@RULES
+_xNIL <-
+	_iGroup
+	@@

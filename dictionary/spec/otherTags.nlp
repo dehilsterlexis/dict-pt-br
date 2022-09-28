@@ -1,0 +1,34 @@
+###############################################
+# FILE: otherTags
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-26 15:40:7
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _bodyZone _trZone _tdZone
+
+@POST
+L("name") = "_" + N("$text",3) + "Close";
+group(1,4,L("name"));
+
+@RULES
+_xNIL <- 
+	\<		### (1)
+	\/		### (2)
+	strong	### (3)
+	\>		### (4)
+	@@
+
+@POST
+L("name") = "_" + N("$text",2);
+group(1,4,L("name"));
+
+@RULES
+_xNIL <- 
+	\<					### (1)
+	strong				### (2)
+	_xWILD [fail=(\>)]	### (3)
+	\>					### (4)
+	@@
+	

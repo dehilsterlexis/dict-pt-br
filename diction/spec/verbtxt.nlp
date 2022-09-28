@@ -1,0 +1,20 @@
+###############################################
+# FILE: removeIH
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-26 17:53:3
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _headerZone
+
+@POST
+"debug.txt" << "Verbtxt: " << N("value",1) << "\n";
+if (strstartswith(N("value",1),"verbtxt")) {
+	N("verbtxt",1) = 1;
+}
+
+@RULES
+_xNIL <-
+	_iOpen	### (1)
+	@@

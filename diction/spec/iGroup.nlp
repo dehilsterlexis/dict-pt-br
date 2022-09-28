@@ -1,0 +1,46 @@
+###############################################
+# FILE: iGroup
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-26 17:40:19
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _headerZone 
+
+@POST
+if (N("attr",1) == "class") {
+	S("text") = N("$text",2);
+	single();
+}
+
+@RULES
+_iGroup <-
+	_iOpen							### (1)
+	_xWILD [fail=(_iOpen _iClose)]	### (2)
+	_iClose							### (3)
+	@@
+
+#@POST
+#S("text") = N("$text",3);
+#singler(2,4);
+
+#@RULES
+#_iGroup <-
+#	_liOpen							### (1)
+#	_iOpen							### (2)
+#	_xWILD [fail=(_iOpen _iClose)]	### (3)
+#	_iClose							### (4)
+#	@@
+
+@POST
+X("title") = N("$text",2);
+S("title") = N("$text",2);
+single();
+
+@RULES
+_paraGroup <-
+	_paraOpen					### (1)
+	_xWILD [fail=(_paraClose)]	### (2)
+	_paraClose					### (3)
+	@@

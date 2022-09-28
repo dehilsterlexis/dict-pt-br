@@ -1,0 +1,21 @@
+###############################################
+# FILE: init
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-27 15:52:4
+# MODIFIED:
+###############################################
+
+@CODE
+
+G("filepath") = G("$apppath") + "\input\portverbs.txt";
+"debug.txt" << G("filepath") << "\n";
+
+if (G("$inputname") == "file001.txt") {
+	G("file") = openfile(G("filepath"));
+}
+else {
+	G("file") = openfile(G("filepath"),"app");
+}
+
+@@CODE

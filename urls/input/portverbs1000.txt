@@ -1,0 +1,1468 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head><title>
+	Most common Portuguese verbs from implantar to coexistir | Conjugation Reverso
+</title><meta http-equiv="X-UA-Compatible" content="IE=edge" /><meta charset="utf-8" /><meta id="metaDescription" name="description" content="Most common Portuguese verbs from implantar to coexistir" /><meta name="google" value="notranslate" /><meta name="viewport" content="width=device-width, initial-scale=1" /><link rel="preconnect" crossorigin="" href="https://sdk.privacy-center.org" /><link rel="preconnect" crossorigin="" href="https://www.googletagmanager.com" /><link rel="preconnect" crossorigin="" href="https://www.google-analytics.com" /><meta name="theme-color" content="#0970ac" /><meta name="GOOGLEBOT" content="NOARCHIVE" /><base id="baseHref" href="https://conjugator.reverso.net/"></base><link rel='alternate' href="https://conjugator.reverso.net/index-portuguese-1001-1250.html" hreflang='en-US'/> <link rel='alternate' href="https://conjugueur.reverso.net/index-portugais-1001-1250.html" hreflang='fr-FR'/> <link rel='alternate' href="https://conjugador.reverso.net/index-portugues-1001-1250.html" hreflang='es-ES'/> <link rel='alternate' href="https://konjugator.reverso.net/index-portugiesisch-1001-1250.html" hreflang='de-DE'/> <link rel='alternate' href="https://coniugazione.reverso.net/index-portoghese-1001-1250.html" hreflang='it-IT'/> <link rel='alternate' href="https://pealim.reverso.net/index-%D7%A4%D7%95%D7%A8%D7%98%D7%95%D7%92%D7%96%D7%99%D7%AA-1001-1250.html" hreflang='he'/> <link rel='alternate' href="https://conjugacao.reverso.net/index-portugues-1001-1250.html" hreflang='pt-PT'/> <link rel='alternate' href="https://glagol.reverso.net/index-%D0%BF%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9-1001-1250.html" hreflang='ru-RU'/> <link rel='alternate' href="https://tasrif.reverso.net/index-%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D8%BA%D8%A7%D9%84%D9%8A%D8%A9-1001-1250.html" hreflang='ar'/> <link rel='alternate' href="https://doushi.reverso.net/index-%E3%83%9D%E3%83%AB%E3%83%88%E3%82%AC%E3%83%AB%E8%AA%9E-1001-1250.html" hreflang='ja'/><link rel='canonical' href='https://conjugator.reverso.net/index-portuguese-1001-1250.html' />
+    <link rel="ICON" type="image" href="//cdn.reverso.net/conj/v2530/IMG/ReversoFavicon.ico" />
+
+    
+
+    <link type="text/css" rel="stylesheet preload" href="//cdn.reverso.net/conj/v2530/CSS/jquery-ui.min.css" as="style">
+    
+    <link type="text/css" rel="stylesheet preload" href="//cdn.reverso.net/conj/v2530/CSS/Style.min.css" as="style">
+
+
+    
+
+    
+
+    <script type="text/javascript">
+        var cdnPath = "//cdn.reverso.net/conj/v2530/";
+    </script>
+        
+
+       <script defer type="text/javascript" src="//cdn.reverso.net/rumjs/conf/rum.config.conjugator.min.js"></script>
+       
+            <script type="text/javascript" src="//cdn.reverso.net/abp/v1/Static/JS/advertising.js?ch=1&ad_code="></script>
+            <script type="text/javascript" src="//cdn.reverso.net/abp/v1/Static/JS/advertising.js?ch=2&ad_code="></script>
+            <script defer type="text/javascript" src="//cdn.reverso.net/ramjs/conf/ram.config.conjugator.min.js"></script>
+       
+
+    <script type="text/javascript">
+        /* for header scripts */
+        window.mobilecheck = function () {
+            var check = false;
+            (function (a) {
+                if (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows ce|xda|xiino/i.test(a) || /1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0, 4)))
+                    check = true;
+            })(navigator.userAgent || navigator.vendor || window.opera);
+            return check;
+        };
+    </script>
+
+    <script type="text/javascript">
+        /* INIT RumJS */
+        var gaCustomDimensions = {};
+        
+        gaCustomDimensions['dimension1'] = typeof (adblock) == 'undefined' ? 'yes' : (typeof (abp) != 'undefined' && abp ? 'abp' : 'no');
+        
+
+        var rumjs = rumjs || {};
+        rumjs.que = rumjs.que || [];
+        rumjs.gaque = rumjs.gaque || function () {
+            (rumjs.gaque.q = rumjs.gaque.q || []).push(arguments);
+        };
+
+        rumjs.gaque('send', 'pageview', '/interf-EN/PT/index');
+        
+
+        rumjs.que.push(function () {
+            rumjs.config.init();
+            rumjs.business.init(gaCustomDimensions);
+            rumjs.fb.trackEvent('PageView');
+        });
+        /* END INIT RumJS */
+
+        /* INIT RamJS */
+        var ramjs = ramjs || {};
+        ramjs.que = ramjs.que || [];
+
+        
+        var tagsArray = ['Reverso_Conj_D_All_160x600_ATF','Conjugueur_RichMedia'];
+        var visibleTagsArray = ['Reverso_Conj_D_All_160x600_ATF','Conjugueur_RichMedia'];
+        var hasRichMedia = true;
+        //Remove rich media tag if adblocker exists. Assume that it is a last element (see code above)
+        if (typeof (abp) != 'undefined' && abp && hasRichMedia) {
+            tagsArray.length = tagsArray.length - 1;
+            visibleTagsArray.length = visibleTagsArray.length - 1;
+        }
+
+        var adTargeting = {};
+        adTargeting['Interface'] = 'en';
+        adTargeting['SourceLang'] = 'pt';
+        adTargeting['Status'] = 'prod';
+        
+
+           ramjs.que.push(function () {
+            ramjs.config.init(adTargeting);
+            ramjs.business.init(tagsArray);
+            ramjs.que.push(visibleTagsArray);
+        });
+        
+        /* END INIT RamJS */
+    </script>
+</head>
+<body class="desktop ">
+
+  
+
+    <div id="wrapper">
+    
+
+<header id="reverso-header-2020">
+    <div class="reverso-header-wrapper" data-default-size="16px">
+        <div class="reverso-header-left-wrapper" data-default-size="16px">
+            <div class="reverso-logo-wrapper" data-default-size="16px">
+                <a class="reverso-context-logo" title="Reverso Conjugation" href="https://conjugator.reverso.net/conjugation-portuguese.html" data-default-size="16px">
+                  <span class="icon rev-title">
+                      <img rel="preload" src="//cdn.reverso.net/conj/v2530/IMG/reverso-logo.svg" alt="en" style="width: 126px;">                      
+                      
+                  </span>
+                </a>
+            </div>
+            <nav class="reverso-links-wrapper" data-default-size="16px">
+                <a class="translation-link product" href="https://www.reverso.net/text-translation" data-default-size="14px">Translation</a>
+                <a class="context-link product" href="https://context.reverso.net/translation/" data-default-size="14px">Context</a>
+                <a class="speller-link product" href="https://www.reverso.net/spell-checker/english-spelling-grammar/" data-default-size="14px">Grammar Check</a>
+                <a class="synonyms-link product" href="https://synonyms.reverso.net/synonym/pt/" data-default-size="14px">Synonyms</a>
+                <a class="conjugator-link product"  data-default-size="14px" href="https://conjugator.reverso.net/conjugation-portuguese.html">Conjugation</a>
+                <div id="more-products-menu" class="selector closed nonselectable" data-default-size="14px">
+                    <div class="option front" data-default-size="14px">
+                        <!-- <span data-default-size="14px">More</span> -->
+                        <!-- <span class="icon down-arrow"></span> -->
+                        <svg _ngcontent-serverApp-c42="" width="16" height="4" viewBox="0 0 16 4" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-ellipsis"><path _ngcontent-serverApp-c42="" fill-rule="evenodd" clip-rule="evenodd" d="M3.5 1.98999C3.5 2.95649 2.7165 3.73999 1.75 3.73999C0.783502 3.73999 0 2.95649 0 1.98999C0 1.02349 0.783502 0.23999 1.75 0.23999C2.7165 0.23999 3.5 1.02349 3.5 1.98999ZM9.75 1.99999C9.75 2.96649 8.9665 3.74999 8 3.74999C7.0335 3.74999 6.25 2.96649 6.25 1.99999C6.25 1.03349 7.0335 0.24999 8 0.24999C8.9665 0.24999 9.75 1.03349 9.75 1.99999ZM14.25 3.74999C15.2165 3.74999 16 2.96649 16 1.99999C16 1.03349 15.2165 0.24999 14.25 0.24999C13.2835 0.24999 12.5 1.03349 12.5 1.99999C12.5 2.96649 13.2835 3.74999 14.25 3.74999Z" fill="#0970AC"></path></svg>
+                    </div>
+                    <div class="drop-down" data-default-size="14px">
+                        <a class="option synonyms" href="https://synonyms.reverso.net/synonym/pt/" data-default-size="14px">
+                            <span class="icon synonyms"></span>
+                            <span class="text" data-default-size="14px">Synonyms</span>
+                        </a>
+                        <a class="option document" href="https://documents.reverso.net/Default.aspx?lang=en" data-default-size="14px">
+                            <span class="icon document"></span>
+                            <span class="text" data-default-size="14px">Documents</span>
+                        </a>
+                        <a class="option dictionary" href="https://dictionary.reverso.net/" data-default-size="14px">
+                            <span class="icon dictionary"></span>
+                            <span class="text" data-default-size="14px">Dictionary</span>
+                        </a>
+                        <a class="option collabdictionary" href="https://dictionary.reverso.net/CollabDict.aspx?srcLang=-1&targLang=-1&lang=en" data-default-size="14px">
+                            <span class="icon address-book"></span>
+                            <span class="text" data-default-size="14px">Collaborative Dictionary</span>
+                        </a>
+                        <a class="option grammar" href="https://grammar.reverso.net/" data-default-size="14px">
+                            <span class="icon book"></span>
+                            <span class="text" data-default-size="14px">Grammar</span>
+                        </a>
+                        <a class="option expressio" href="https://www.expressio.fr" data-default-size="14px">
+                            <span class="icon expressio"></span>
+                            <span class="text" data-default-size="14px">Expressio</span>
+                        </a>
+                        <a class="option corporate" href="https://www.corporate-translation.reverso.com" data-default-size="14px">
+                            <span class="icon briefcase"></span>
+                            <span class="text" data-default-size="14px">Reverso for Business</span>
+                        </a>
+
+                    </div>
+                </div>
+            </nav>
+        </div>
+        <div class="reverso-header-right-wrapper" data-default-size="16px">
+            
+            <a class="dapp-dl-button" 
+               data-os="windows" 
+               data-dl="https://context.reverso.net/translation/windows-mac-app" 
+               data-default-size="14px"
+               title="Download for free<span class='newlink'>Translate text from any application or website in just one click.</span>" 
+               href="https://dl.reverso.net/desktop-app/windows?utm_source=conjweb&utm_medium=headerbutton&utm_campaign=ctxthomepage">
+                <img width="24px" height="24px" class="dapp-download" alt="Download" src="//cdn.reverso.net/conj/v2530/IMG/dapp/download.svg" data-default-size="24px">
+                <span class="text" data-default-size="14px">Download for Windows</span>
+                <img class="new-tag" alt="New" src="//cdn.reverso.net/conj/v2530/IMG/dapp/new.svg" data-default-size="14px">
+            </a>
+                
+            <!-- Login/Account menu component -->
+            
+    <!-- Anonymous user -->
+    <script type="text/javascript">
+        var _loginBoxSettings = {"facebookLoginUrl":"https://account.reverso.net/Account/ExternalLogin?provider=Facebook&handler=Challenge&lang=en&utm_source=conjugatorweb&utm_medium=usertopmenu&utm_campaign=login-login-fb&returnUrl=","googleLoginUrl":"https://account.reverso.net/Account/ExternalLogin?provider=Google&handler=Challenge&lang=en&utm_source=conjugatorweb&utm_medium=usertopmenu&utm_campaign=login-login-google&returnUrl=","appleLoginUrl":"https://account.reverso.net/Account/ExternalLogin?provider=Apple&handler=Challenge&lang=en&utm_source=conjugatorweb&utm_medium=usertopmenu&utm_campaign=login-login-apple&returnUrl="};
+    </script>
+    <div id="reverso-user-menu" class="reverso-user-menu selector closed nonselectable" data-default-size="13px">
+    <div class="option front" data-default-size="14px">
+        <span class="login" data-default-size="14px">Log in</span>
+        <span class="icon user"></span>
+    </div>
+    <div class="drop-down" data-default-size="13px">
+        <a class="option register sep-24" href="https://account.reverso.net/register/conjugator.reverso.net/en?utm_source=conjugatorweb&utm_medium=usertopmenu&utm_campaign=login-register" data-default-size="14px">
+            <span class="icon add-user"></span>
+            <span class="text" data-default-size="14px">Register</span>
+        </a>
+        <a class="option login sep-24" href="https://account.reverso.net/login/conjugator.reverso.net/en?utm_source=conjugatorweb&utm_medium=usertopmenu&utm_campaign=login-login" data-default-size="14px">
+            <span class="icon login"></span>
+            <span class="text" data-default-size="14px">Log in</span>
+        </a>
+        <span id="fb-content" class="option facebook sep-24" data-default-size="14px">
+            <span class="icon facebook"></span>
+            <span class="text" data-default-size="14px">Connect with Facebook</span>
+        </span>
+        <span id="google-content" class="option google sep-24" data-default-size="14px">
+            <span class="icon google"></span>
+            <span class="text" data-default-size="14px">Connect with Google</span>
+        </span>
+        <span id="apple-content" class="option apple sep-24" data-default-size="14px">
+            <span class="icon apple"></span>
+            <span class="text">Connect with Apple</span>
+        </span>
+        <div class="sep-full mobile-hidden" data-default-size="13px"></div>
+        <a class="option premium" href="https://documents.reverso.net/Pricing.aspx?lang=en&origin=4" data-default-size="14px">
+            <span class="icon crown-unfilled"></span>
+            <span class="text" data-default-size="14px">Reverso Premium</span>
+        </a>
+        <div class="sep-full" data-default-size="13px"></div>
+        <div class="space-filler" data-default-size="13px"></div>
+    </div>
+</div>
+
+
+            <div id="interface-lang-menu" class="selector closed nonselectable" data-default-size="13px">
+                <div class="option front" data-default-size="14px">
+                    <span class="text" data-default-size="14px">en</span>
+                    <span class="sel-arrow icon down-caret-full"></span>
+                </div>
+                <div class="drop-down language-select" data-default-size="13px">
+                  <a href="https://tasrif.reverso.net/%D8%AA%D8%B5%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D8%BA%D8%A7%D9%84%D9%8A%D8%A9.html" class="option" data-value="ar" data-default-size="14px">العربية</a>
+                  <a href="https://konjugator.reverso.net/konjugation-portugiesisch.html" class="option" data-value="de" data-default-size="14px">Deutsch</a>
+                  <a href="https://conjugator.reverso.net/conjugation-portuguese.html" class="option selected" data-value="en" data-default-size="14px">English</a>
+                  <a href="https://conjugador.reverso.net/conjugacion-portugues.html" class="option" data-value="es" data-default-size="14px">Español</a>
+                  <a href="https://conjugueur.reverso.net/conjugaison-portugais.html" class="option" data-value="fr" data-default-size="14px">Français</a>
+                  <a href="https://pealim.reverso.net/%D7%94%D7%98%D7%99%D7%95%D7%AA-%D7%A4%D7%95%D7%A8%D7%98%D7%95%D7%92%D7%96%D7%99%D7%AA.html" class="option" data-value="he" data-default-size="14px">עברית</a>
+                  <a href="https://coniugazione.reverso.net/coniugazione-portoghese.html" class="option" data-value="it" data-default-size="14px">Italiano</a>
+                  <a href="https://doushi.reverso.net/%E6%B4%BB%E7%94%A8-%E3%83%9D%E3%83%AB%E3%83%88%E3%82%AC%E3%83%AB%E8%AA%9E.html" class="option" data-value="jp" data-default-size="14px">日本語</a>
+                  <a href="https://conjugacao.reverso.net/conjugacao-portugues.html" class="option" data-value="pt" data-default-size="14px">Português</a>
+                  <a href="https://glagol.reverso.net/%D1%81%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9.html" class="option" data-value="ru" data-default-size="14px">Русский</a>
+                  </div>
+            </div>
+            <div id="additional-info-menu" class="selector closed nonselectable" data-default-size="13px">
+                <!--span class="option front icon three-dots"></span-->
+                <div class="drop-down" data-default-size="13px">
+                    <a class="option dapp-dl" data-os="windows" 
+                       data-dl="https://context.reverso.net/translation/windows-mac-app" 
+                       href="https://dl.reverso.net/desktop-app/windows?utm_source=conjweb&utm_medium=headerbutton&utm_campaign=ctxthomepage" data-default-size="14px">
+                      <span class="icon download"></span>
+                      <span class="text" data-default-size="14px">Download for Windows</span>
+                    </a>
+                          
+                    
+                    <div class="option interface-lang" data-default-size="14px">
+                        <div class="locale" data-default-size="14px">
+                            <span class="icon web"></span>
+                            <span class="text" data-default-size="14px">English</span>
+                            <span class="icon down-caret"></span>
+                        </div>
+                        <div class="interface-langs drop-down closed language-select" data-default-size="14px">
+                            <a href="https://tasrif.reverso.net/%D8%AA%D8%B5%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%A8%D8%B1%D8%AA%D8%BA%D8%A7%D9%84%D9%8A%D8%A9.html" class="option" data-value="ar" data-default-size="14px">العربية</a>
+                            <a href="https://konjugator.reverso.net/konjugation-portugiesisch.html" class="option" data-value="de" data-default-size="14px">Deutsch</a>
+                            <a href="https://conjugator.reverso.net/conjugation-portuguese.html" class="option selected" data-value="en" data-default-size="14px">English</a>
+                            <a href="https://conjugador.reverso.net/conjugacion-portugues.html" class="option" data-value="es" data-default-size="14px">Español</a>
+                            <a href="https://conjugueur.reverso.net/conjugaison-portugais.html" class="option" data-value="fr" data-default-size="14px">Français</a>
+                            <a href="https://pealim.reverso.net/%D7%94%D7%98%D7%99%D7%95%D7%AA-%D7%A4%D7%95%D7%A8%D7%98%D7%95%D7%92%D7%96%D7%99%D7%AA.html" class="option" data-value="he" data-default-size="14px">עברית</a>
+                            <a href="https://coniugazione.reverso.net/coniugazione-portoghese.html" class="option" data-value="it" data-default-size="14px">Italiano</a>
+                            <a href="https://doushi.reverso.net/%E6%B4%BB%E7%94%A8-%E3%83%9D%E3%83%AB%E3%83%88%E3%82%AC%E3%83%AB%E8%AA%9E.html" class="option" data-value="jp" data-default-size="14px">日本語</a>
+                            <a href="https://conjugacao.reverso.net/conjugacao-portugues.html" class="option" data-value="pt" data-default-size="14px">Português</a>
+                            <a href="https://glagol.reverso.net/%D1%81%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BE%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9.html" class="option" data-value="ru" data-default-size="14px">Русский</a>
+                          </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+    </div>
+</header>
+
+
+
+
+    <div class="wrapper-form active-header">
+        <div class="wrapper-form-bg1">
+            <div class="wrapper-form-bg-2">
+                <div class="wrapper-form-bg-21">
+                    <form method="post" action="./index-portuguese-1001-1250.html?lang=en&amp;language=pt&amp;start=1001&amp;end=1250" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTkwOTUwODY4NQ9kFgJmD2QWBGYPZBYKAgMPFgIeB2NvbnRlbnQFOE1vc3QgY29tbW9uIFBvcnR1Z3Vlc2UgdmVyYnMgZnJvbSBpbXBsYW50YXIgdG8gY29leGlzdGlyZAIEDxYCHgdWaXNpYmxlaGQCDA8WAh4EaHJlZgUfaHR0cHM6Ly9jb25qdWdhdG9yLnJldmVyc28ubmV0L2QCDQ8WAh4EVGV4dAWMCjxsaW5rIHJlbD0nYWx0ZXJuYXRlJyBocmVmPSJodHRwczovL2Nvbmp1Z2F0b3IucmV2ZXJzby5uZXQvaW5kZXgtcG9ydHVndWVzZS0xMDAxLTEyNTAuaHRtbCIgaHJlZmxhbmc9J2VuLVVTJy8+IDxsaW5rIHJlbD0nYWx0ZXJuYXRlJyBocmVmPSJodHRwczovL2Nvbmp1Z3VldXIucmV2ZXJzby5uZXQvaW5kZXgtcG9ydHVnYWlzLTEwMDEtMTI1MC5odG1sIiBocmVmbGFuZz0nZnItRlInLz4gPGxpbmsgcmVsPSdhbHRlcm5hdGUnIGhyZWY9Imh0dHBzOi8vY29uanVnYWRvci5yZXZlcnNvLm5ldC9pbmRleC1wb3J0dWd1ZXMtMTAwMS0xMjUwLmh0bWwiIGhyZWZsYW5nPSdlcy1FUycvPiA8bGluayByZWw9J2FsdGVybmF0ZScgaHJlZj0iaHR0cHM6Ly9rb25qdWdhdG9yLnJldmVyc28ubmV0L2luZGV4LXBvcnR1Z2llc2lzY2gtMTAwMS0xMjUwLmh0bWwiIGhyZWZsYW5nPSdkZS1ERScvPiA8bGluayByZWw9J2FsdGVybmF0ZScgaHJlZj0iaHR0cHM6Ly9jb25pdWdhemlvbmUucmV2ZXJzby5uZXQvaW5kZXgtcG9ydG9naGVzZS0xMDAxLTEyNTAuaHRtbCIgaHJlZmxhbmc9J2l0LUlUJy8+IDxsaW5rIHJlbD0nYWx0ZXJuYXRlJyBocmVmPSJodHRwczovL3BlYWxpbS5yZXZlcnNvLm5ldC9pbmRleC0lRDclQTQlRDclOTUlRDclQTglRDclOTglRDclOTUlRDclOTIlRDclOTYlRDclOTklRDclQUEtMTAwMS0xMjUwLmh0bWwiIGhyZWZsYW5nPSdoZScvPiA8bGluayByZWw9J2FsdGVybmF0ZScgaHJlZj0iaHR0cHM6Ly9jb25qdWdhY2FvLnJldmVyc28ubmV0L2luZGV4LXBvcnR1Z3Vlcy0xMDAxLTEyNTAuaHRtbCIgaHJlZmxhbmc9J3B0LVBUJy8+IDxsaW5rIHJlbD0nYWx0ZXJuYXRlJyBocmVmPSJodHRwczovL2dsYWdvbC5yZXZlcnNvLm5ldC9pbmRleC0lRDAlQkYlRDAlQkUlRDElODAlRDElODIlRDElODMlRDAlQjMlRDAlQjAlRDAlQkIlRDElOEMlRDElODElRDAlQkElRDAlQjglRDAlQjktMTAwMS0xMjUwLmh0bWwiIGhyZWZsYW5nPSdydS1SVScvPiA8bGluayByZWw9J2FsdGVybmF0ZScgaHJlZj0iaHR0cHM6Ly90YXNyaWYucmV2ZXJzby5uZXQvaW5kZXgtJUQ4JUE3JUQ5JTg0JUQ4JUE4JUQ4JUIxJUQ4JUFBJUQ4JUJBJUQ4JUE3JUQ5JTg0JUQ5JThBJUQ4JUE5LTEwMDEtMTI1MC5odG1sIiBocmVmbGFuZz0nYXInLz4gPGxpbmsgcmVsPSdhbHRlcm5hdGUnIGhyZWY9Imh0dHBzOi8vZG91c2hpLnJldmVyc28ubmV0L2luZGV4LSVFMyU4MyU5RCVFMyU4MyVBQiVFMyU4MyU4OCVFMyU4MiVBQyVFMyU4MyVBQiVFOCVBQSU5RS0xMDAxLTEyNTAuaHRtbCIgaHJlZmxhbmc9J2phJy8+ZAIODxYCHwMFXjxsaW5rIHJlbD0nY2Fub25pY2FsJyBocmVmPSdodHRwczovL2Nvbmp1Z2F0b3IucmV2ZXJzby5uZXQvaW5kZXgtcG9ydHVndWVzZS0xMDAxLTEyNTAuaHRtbCcgLz5kAgIPZBYeAgYPFgIfAwVQPGgxIGNsYXNzPSdiaWdnZXInPk1vc3QgY29tbW9uIFBvcnR1Z3Vlc2UgdmVyYnMgZnJvbSBpbXBsYW50YXIgdG8gY29leGlzdGlyPC9oMT5kAggPD2QWAh4HdG9vbHRpcAVLRW50ZXIgYW4gaW5maW5pdGl2ZSB2ZXJiIG9yIGEgY29uanVnYXRlZCBmb3JtIHRvIGhhdmUgaXRzIGNvbmp1Z2F0aW9uIHRhYmxlZAIJDw8WAh8DBQlDb25qdWdhdGVkZAIYDxYCHwIFRmh0dHBzOi8vY29uanVnYXRvci5yZXZlcnNvLm5ldC9jb25qdWdhdGlvbi1ydWxlcy1tb2RlbC1wb3J0dWd1ZXNlLmh0bWxkAhkPFgIfAmRkAhoPFgIfAmRkAhsPFgIfAmRkAhwPFgQfAgVEaHR0cHM6Ly9jb25qdWdhdG9yLnJldmVyc28ubmV0L2luZm8tcG9ydHVnYWwtYnJhemlsLWNvbmp1Z2F0aW9uLmh0bWwfAWdkAh0PFgIfAmRkAh4PFgQfAgUzaHR0cHM6Ly9jb25qdWdhdG9yLnJldmVyc28ubmV0L2luZm8tcG9ydHVndWVzZS5odG1sHwFnZAIkDxYCHwJkZAIlDxYCHwJkZAImDxYCHwJkZAInD2QWAmYPFgIfAwWJuAE8b2w+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItaW1wbGFudGFyLmh0bWwiIGlkPSJpIj5pbXBsYW50YXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItbWl0aWdhci5odG1sIiBpZD0ibSI+bWl0aWdhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1yZWxhY2lvbmFyLmh0bWwiIGlkPSJyIj5yZWxhY2lvbmFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWFiYXN0ZWNlci5odG1sIiBpZD0iYSI+YWJhc3RlY2VyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWFiZGljYXIuaHRtbCIgaWQ9ImEiPmFiZGljYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItc3VzY2l0YXIuaHRtbCIgaWQ9InMiPnN1c2NpdGFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWRpdmVyc2lmaWNhci5odG1sIiBpZD0iZCI+ZGl2ZXJzaWZpY2FyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWFsZWdhci5odG1sIiBpZD0iYSI+YWxlZ2FyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWluY2lkaXIuaHRtbCIgaWQ9ImkiPmluY2lkaXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItc3Vzc3VycmFyLmh0bWwiIGlkPSJzIj5zdXNzdXJyYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItaGVyZGFyLmh0bWwiIGlkPSJoIj5oZXJkYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZW5jZXRhci5odG1sIiBpZD0iZSI+ZW5jZXRhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1lc3BlY3VsYXIuaHRtbCIgaWQ9ImUiPmVzcGVjdWxhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1pbXByb3Zpc2FyLmh0bWwiIGlkPSJpIj5pbXByb3Zpc2FyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLXBlcmZ1cmFyLmh0bWwiIGlkPSJwIj5wZXJmdXJhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1hY2VuYXIuaHRtbCIgaWQ9ImEiPmFjZW5hcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1jYXJhY3Rlcml6YXIuaHRtbCIgaWQ9ImMiPmNhcmFjdGVyaXphcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1iYW5pci5odG1sIiBpZD0iYiI+YmFuaXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZW52ZXJnb25oYXIuaHRtbCIgaWQ9ImUiPmVudmVyZ29uaGFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWVuZm9yY2FyLmh0bWwiIGlkPSJlIj5lbmZvcmNhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1tb3ZpbWVudGFyLmh0bWwiIGlkPSJtIj5tb3ZpbWVudGFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWVzdHJhbmd1bGFyLmh0bWwiIGlkPSJlIj5lc3RyYW5ndWxhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1yYXNwYXIuaHRtbCIgaWQ9InIiPnJhc3BhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1leGVyY2l0YXIuaHRtbCIgaWQ9ImUiPmV4ZXJjaXRhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1maWd1cmFyLmh0bWwiIGlkPSJmIj5maWd1cmFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWRlc2NvbnRyYWlyLmh0bWwiIGlkPSJkIj5kZXNjb250cmFpcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1jb2luY2lkaXIuaHRtbCIgaWQ9ImMiPmNvaW5jaWRpcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1kZXNhcm1hci5odG1sIiBpZD0iZCI+ZGVzYXJtYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZXNjb3Zhci5odG1sIiBpZD0iZSI+ZXNjb3ZhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1hcHJpbW9yYXIuaHRtbCIgaWQ9ImEiPmFwcmltb3JhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1zdXByaXIuaHRtbCIgaWQ9InMiPnN1cHJpcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1mb3JqYXIuaHRtbCIgaWQ9ImYiPmZvcmphcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1wcmF6ZXIuaHRtbCIgaWQ9InAiPnByYXplcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1hcm1hci5odG1sIiBpZD0iYSI+YXJtYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItcmVpbmFyLmh0bWwiIGlkPSJyIj5yZWluYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItcXVhbGlmaWNhci5odG1sIiBpZD0icSI+cXVhbGlmaWNhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1pbmNpdGFyLmh0bWwiIGlkPSJpIj5pbmNpdGFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLXJlY29tcGVuc2FyLmh0bWwiIGlkPSJyIj5yZWNvbXBlbnNhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1zZW1lYXIuaHRtbCIgaWQ9InMiPnNlbWVhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1yZWVzY3JldmVyLmh0bWwiIGlkPSJyIj5yZWVzY3JldmVyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLXZhc2N1bGhhci5odG1sIiBpZD0idiI+dmFzY3VsaGFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWRpZmVyZW5jaWFyLmh0bWwiIGlkPSJkIj5kaWZlcmVuY2lhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1wcmVzY3JldmVyLmh0bWwiIGlkPSJwIj5wcmVzY3JldmVyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLXJlbWV0ZXIuaHRtbCIgaWQ9InIiPnJlbWV0ZXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItcmV2aXNhci5odG1sIiBpZD0iciI+cmV2aXNhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1sZWdpc2xhci5odG1sIiBpZD0ibCI+bGVnaXNsYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItYWJvcnRhci5odG1sIiBpZD0iYSI+YWJvcnRhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1pbm92YXIuaHRtbCIgaWQ9ImkiPmlub3ZhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1hdHJhcGFsaGFyLmh0bWwiIGlkPSJhIj5hdHJhcGFsaGFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLXBpc2FyLmh0bWwiIGlkPSJwIj5waXNhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1hYnJpZ2FyLmh0bWwiIGlkPSJhIj5hYnJpZ2FyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWRldG9uYXIuaHRtbCIgaWQ9ImQiPmRldG9uYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItYnJpbmRhci5odG1sIiBpZD0iYiI+YnJpbmRhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1hbHRlcm5hci5odG1sIiBpZD0iYSI+YWx0ZXJuYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZXJyYXIuaHRtbCIgaWQ9ImUiPmVycmFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLXByZXNpZGlyLmh0bWwiIGlkPSJwIj5wcmVzaWRpcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1kaWdlcmlyLmh0bWwiIGlkPSJkIj5kaWdlcmlyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWVuY3VydGFyLmh0bWwiIGlkPSJlIj5lbmN1cnRhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1zb2xldHJhci5odG1sIiBpZD0icyI+c29sZXRyYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZHJlbmFyLmh0bWwiIGlkPSJkIj5kcmVuYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZW5yb2xhci5odG1sIiBpZD0iZSI+ZW5yb2xhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1pbnRlcmVzc2FyLmh0bWwiIGlkPSJpIj5pbnRlcmVzc2FyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWFwbGF1ZGlyLmh0bWwiIGlkPSJhIj5hcGxhdWRpcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1zdW1pci5odG1sIiBpZD0icyI+c3VtaXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItcmVkaWdpci5odG1sIiBpZD0iciI+cmVkaWdpcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1yZWNpdGFyLmh0bWwiIGlkPSJyIj5yZWNpdGFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLXRhcGFyLmh0bWwiIGlkPSJ0Ij50YXBhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi10cmFmaWNhci5odG1sIiBpZD0idCI+dHJhZmljYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItYXR1cmFyLmh0bWwiIGlkPSJhIj5hdHVyYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZGVzdmVuZGFyLmh0bWwiIGlkPSJkIj5kZXN2ZW5kYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItaW5jcmltaW5hci5odG1sIiBpZD0iaSI+aW5jcmltaW5hcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1yZXNzdXNjaXRhci5odG1sIiBpZD0iciI+cmVzc3VzY2l0YXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItdmVsZWphci5odG1sIiBpZD0idiI+dmVsZWphcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1jb2xvcmlyLmh0bWwiIGlkPSJjIj5jb2xvcmlyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWZvcm1hdGFyLmh0bWwiIGlkPSJmIj5mb3JtYXRhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1hcHVyYXIuaHRtbCIgaWQ9ImEiPmFwdXJhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1lc2NvcnJlZ2FyLmh0bWwiIGlkPSJlIj5lc2NvcnJlZ2FyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLXJlY2ljbGFyLmh0bWwiIGlkPSJyIj5yZWNpY2xhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1lbmNvc3Rhci5odG1sIiBpZD0iZSI+ZW5jb3N0YXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItYm9tYmVhci5odG1sIiBpZD0iYiI+Ym9tYmVhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1lbG9naWFyLmh0bWwiIGlkPSJlIj5lbG9naWFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLXRyYW5xdWlsaXphci5odG1sIiBpZD0idCI+dHJhbnF1aWxpemFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLXBvbGlyLmh0bWwiIGlkPSJwIj5wb2xpcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1kZXNtYW50ZWxhci5odG1sIiBpZD0iZCI+ZGVzbWFudGVsYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItc2luY3Jvbml6YXIuaHRtbCIgaWQ9InMiPnNpbmNyb25pemFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWFycXVpdmFyLmh0bWwiIGlkPSJhIj5hcnF1aXZhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1wcmVtaXIuaHRtbCIgaWQ9InAiPnByZW1pcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1zZXF1ZXN0cmFyLmh0bWwiIGlkPSJzIj5zZXF1ZXN0cmFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLXZpc2FyLmh0bWwiIGlkPSJ2Ij52aXNhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1lc3RhbGFyLmh0bWwiIGlkPSJlIj5lc3RhbGFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLXJlZnJlc2Nhci5odG1sIiBpZD0iciI+cmVmcmVzY2FyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWVtYmFsYXIuaHRtbCIgaWQ9ImUiPmVtYmFsYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZXF1aXBhci5odG1sIiBpZD0iZSI+ZXF1aXBhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1kZXNlbWJhcmNhci5odG1sIiBpZD0iZCI+ZGVzZW1iYXJjYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItaWd1YWxhci5odG1sIiBpZD0iaSI+aWd1YWxhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1kaXRhci5odG1sIiBpZD0iZCI+ZGl0YXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItaW5zcGVjaW9uYXIuaHRtbCIgaWQ9ImkiPmluc3BlY2lvbmFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWZ1bmRpci5odG1sIiBpZD0iZiI+ZnVuZGlyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLXNpbGVuY2lhci5odG1sIiBpZD0icyI+c2lsZW5jaWFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLXJlb3JnYW5pemFyLmh0bWwiIGlkPSJyIj5yZW9yZ2FuaXphcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1hbHVnYXIuaHRtbCIgaWQ9ImEiPmFsdWdhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1mYWxzaWZpY2FyLmh0bWwiIGlkPSJmIj5mYWxzaWZpY2FyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLXJlY29uY2lsaWFyLmh0bWwiIGlkPSJyIj5yZWNvbmNpbGlhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1jb21wbGljYXIuaHRtbCIgaWQ9ImMiPmNvbXBsaWNhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1kZXNlbnRlcnJhci5odG1sIiBpZD0iZCI+ZGVzZW50ZXJyYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItaXNlbnRhci5odG1sIiBpZD0iaSI+aXNlbnRhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1kZXNvYmVkZWNlci5odG1sIiBpZD0iZCI+ZGVzb2JlZGVjZXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItcmVnYXIuaHRtbCIgaWQ9InIiPnJlZ2FyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWRvdGFyLmh0bWwiIGlkPSJkIj5kb3RhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1saXN0YXIuaHRtbCIgaWQ9ImwiPmxpc3RhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1kaXNjb3JkYXIuaHRtbCIgaWQ9ImQiPmRpc2NvcmRhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1jb25maXNjYXIuaHRtbCIgaWQ9ImMiPmNvbmZpc2NhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1yZWV4YW1pbmFyLmh0bWwiIGlkPSJyIj5yZWV4YW1pbmFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWNvbnNpc3Rpci5odG1sIiBpZD0iYyI+Y29uc2lzdGlyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWNvcnJvbXBlci5odG1sIiBpZD0iYyI+Y29ycm9tcGVyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLW9ic3RydWlyLmh0bWwiIGlkPSJvIj5vYnN0cnVpcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1sYWRyYXIuaHRtbCIgaWQ9ImwiPmxhZHJhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1mdW5kYXIuaHRtbCIgaWQ9ImYiPmZ1bmRhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1hYmF0ZXIuaHRtbCIgaWQ9ImEiPmFiYXRlcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1hc3NvbWJyYXIuaHRtbCIgaWQ9ImEiPmFzc29tYnJhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1kZXNlc3RhYmlsaXphci5odG1sIiBpZD0iZCI+ZGVzZXN0YWJpbGl6YXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZXNmYXF1ZWFyLmh0bWwiIGlkPSJlIj5lc2ZhcXVlYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZXNmcmlhci5odG1sIiBpZD0iZSI+ZXNmcmlhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1hbmdhcmlhci5odG1sIiBpZD0iYSI+YW5nYXJpYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZGlsdWlyLmh0bWwiIGlkPSJkIj5kaWx1aXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItcmVwcmltaXIuaHRtbCIgaWQ9InIiPnJlcHJpbWlyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWFtYWR1cmVjZXIuaHRtbCIgaWQ9ImEiPmFtYWR1cmVjZXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZGV2b3Jhci5odG1sIiBpZD0iZCI+ZGV2b3JhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1lbmNvbGhlci5odG1sIiBpZD0iZSI+ZW5jb2xoZXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItYmFuY2FyLmh0bWwiIGlkPSJiIj5iYW5jYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItcmVtYXIuaHRtbCIgaWQ9InIiPnJlbWFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLXRlY2VyLmh0bWwiIGlkPSJ0Ij50ZWNlcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1wYXRpbmFyLmh0bWwiIGlkPSJwIj5wYXRpbmFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWNvbnNwaXJhci5odG1sIiBpZD0iYyI+Y29uc3BpcmFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLXJlZXN0cnV0dXJhci5odG1sIiBpZD0iciI+cmVlc3RydXR1cmFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWFib3JyZWNlci5odG1sIiBpZD0iYSI+YWJvcnJlY2VyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWZpc2NhbGl6YXIuaHRtbCIgaWQ9ImYiPmZpc2NhbGl6YXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItc29icmVjYXJyZWdhci5odG1sIiBpZD0icyI+c29icmVjYXJyZWdhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1hcnJvbWJhci5odG1sIiBpZD0iYSI+YXJyb21iYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZGlzZmFyJUMzJUE3YXIuaHRtbCIgaWQ9ImQiPmRpc2ZhcsOnYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZGlmaWN1bHRhci5odG1sIiBpZD0iZCI+ZGlmaWN1bHRhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1saXF1aWRhci5odG1sIiBpZD0ibCI+bGlxdWlkYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZGVzbW9udGFyLmh0bWwiIGlkPSJkIj5kZXNtb250YXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItY3VtcHJpbWVudGFyLmh0bWwiIGlkPSJjIj5jdW1wcmltZW50YXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItaG9zcGVkYXIuaHRtbCIgaWQ9ImgiPmhvc3BlZGFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWZ1bmRhbWVudGFyLmh0bWwiIGlkPSJmIj5mdW5kYW1lbnRhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1uZWdsaWdlbmNpYXIuaHRtbCIgaWQ9Im4iPm5lZ2xpZ2VuY2lhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1wYXRydWxoYXIuaHRtbCIgaWQ9InAiPnBhdHJ1bGhhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1yZXBvdXNhci5odG1sIiBpZD0iciI+cmVwb3VzYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZWRpZmljYXIuaHRtbCIgaWQ9ImUiPmVkaWZpY2FyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWhvbWVuYWdlYXIuaHRtbCIgaWQ9ImgiPmhvbWVuYWdlYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZGVzcGlyLmh0bWwiIGlkPSJkIj5kZXNwaXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZXN0dXByYXIuaHRtbCIgaWQ9ImUiPmVzdHVwcmFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLXRvc3Npci5odG1sIiBpZD0idCI+dG9zc2lyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWRlc2Vucm9sYXIuaHRtbCIgaWQ9ImQiPmRlc2Vucm9sYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItcHJpdmFyLmh0bWwiIGlkPSJwIj5wcml2YXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItcmVzaWRpci5odG1sIiBpZD0iciI+cmVzaWRpcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1tYW51c2Vhci5odG1sIiBpZD0ibSI+bWFudXNlYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItYWJhaXhhci5odG1sIiBpZD0iYSI+YWJhaXhhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1kaXNzaXBhci5odG1sIiBpZD0iZCI+ZGlzc2lwYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItaW5pYmlyLmh0bWwiIGlkPSJpIj5pbmliaXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZGVzbW9yb25hci5odG1sIiBpZD0iZCI+ZGVzbW9yb25hcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1mdXJhci5odG1sIiBpZD0iZiI+ZnVyYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItcGVuYWxpemFyLmh0bWwiIGlkPSJwIj5wZW5hbGl6YXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItcmVhYmFzdGVjZXIuaHRtbCIgaWQ9InIiPnJlYWJhc3RlY2VyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLW9zdGVudGFyLmh0bWwiIGlkPSJvIj5vc3RlbnRhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1lc2NvbHRhci5odG1sIiBpZD0iZSI+ZXNjb2x0YXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZXNjdWxwaXIuaHRtbCIgaWQ9ImUiPmVzY3VscGlyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLXJldml0YWxpemFyLmh0bWwiIGlkPSJyIj5yZXZpdGFsaXphcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1hbHZvcmVjZXIuaHRtbCIgaWQ9ImEiPmFsdm9yZWNlcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1kaWFsb2dhci5odG1sIiBpZD0iZCI+ZGlhbG9nYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItaGVzaXRhci5odG1sIiBpZD0iaCI+aGVzaXRhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1yZWNlYXIuaHRtbCIgaWQ9InIiPnJlY2VhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1hbm90YXIuaHRtbCIgaWQ9ImEiPmFub3RhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1hc3BpcmFyLmh0bWwiIGlkPSJhIj5hc3BpcmFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWFwcmVlbmRlci5odG1sIiBpZD0iYSI+YXByZWVuZGVyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLW5ldmFyLmh0bWwiIGlkPSJuIj5uZXZhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1hbHZlamFyLmh0bWwiIGlkPSJhIj5hbHZlamFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWNvbnNvbGFyLmh0bWwiIGlkPSJjIj5jb25zb2xhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1kZXNjb2xhci5odG1sIiBpZD0iZCI+ZGVzY29sYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZW1wYWNvdGFyLmh0bWwiIGlkPSJlIj5lbXBhY290YXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItaW5zdHJ1aXIuaHRtbCIgaWQ9ImkiPmluc3RydWlyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLXN1Y2VkZXIuaHRtbCIgaWQ9InMiPnN1Y2VkZXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItYXNzb2JpYXIuaHRtbCIgaWQ9ImEiPmFzc29iaWFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWZyYWNhc3Nhci5odG1sIiBpZD0iZiI+ZnJhY2Fzc2FyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLXRyb3BlJUMzJUE3YXIuaHRtbCIgaWQ9InQiPnRyb3Blw6dhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1wb3Nhci5odG1sIiBpZD0icCI+cG9zYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItY29udGFtaW5hci5odG1sIiBpZD0iYyI+Y29udGFtaW5hcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1hdGVycm9yaXphci5odG1sIiBpZD0iYSI+YXRlcnJvcml6YXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItdmlicmFyLmh0bWwiIGlkPSJ2Ij52aWJyYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItY29udHJhaXIuaHRtbCIgaWQ9ImMiPmNvbnRyYWlyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWZhbHNlYXIuaHRtbCIgaWQ9ImYiPmZhbHNlYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZGVzYXBvbnRhci5odG1sIiBpZD0iZCI+ZGVzYXBvbnRhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1zYWNhci5odG1sIiBpZD0icyI+c2FjYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItcGF0cm9jaW5hci5odG1sIiBpZD0icCI+cGF0cm9jaW5hcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1yZXBsaWNhci5odG1sIiBpZD0iciI+cmVwbGljYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItYXNzaW1pbGFyLmh0bWwiIGlkPSJhIj5hc3NpbWlsYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZXZvY2FyLmh0bWwiIGlkPSJlIj5ldm9jYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItY2hvY2FyLmh0bWwiIGlkPSJjIj5jaG9jYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZGlzc3VhZGlyLmh0bWwiIGlkPSJkIj5kaXNzdWFkaXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItbWlncmFyLmh0bWwiIGlkPSJtIj5taWdyYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItaGFiaWxpdGFyLmh0bWwiIGlkPSJoIj5oYWJpbGl0YXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItY29uc3Rhci5odG1sIiBpZD0iYyI+Y29uc3RhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1lbXBhdGFyLmh0bWwiIGlkPSJlIj5lbXBhdGFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWZyZXF1ZW50YXIuaHRtbCIgaWQ9ImYiPmZyZXF1ZW50YXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItdmF6YXIuaHRtbCIgaWQ9InYiPnZhemFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWJvdGFyLmh0bWwiIGlkPSJiIj5ib3RhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1kZWNvbGFyLmh0bWwiIGlkPSJkIj5kZWNvbGFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWFnaWxpemFyLmh0bWwiIGlkPSJhIj5hZ2lsaXphcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1saWJlcmFsaXphci5odG1sIiBpZD0ibCI+bGliZXJhbGl6YXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItcmlzY2FyLmh0bWwiIGlkPSJyIj5yaXNjYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItY29udHJhYmFuZGVhci5odG1sIiBpZD0iYyI+Y29udHJhYmFuZGVhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1zdWJzaWRpYXIuaHRtbCIgaWQ9InMiPnN1YnNpZGlhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1tYW5jaGFyLmh0bWwiIGlkPSJtIj5tYW5jaGFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWFkZXF1YXIuaHRtbCIgaWQ9ImEiPmFkZXF1YXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItYWdyZWdhci5odG1sIiBpZD0iYSI+YWdyZWdhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1jb25mb3J0YXIuaHRtbCIgaWQ9ImMiPmNvbmZvcnRhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1lc2dvdGFyLmh0bWwiIGlkPSJlIj5lc2dvdGFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWV4cGlyYXIuaHRtbCIgaWQ9ImUiPmV4cGlyYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItY3VydmFyLmh0bWwiIGlkPSJjIj5jdXJ2YXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItaW51bmRhci5odG1sIiBpZD0iaSI+aW51bmRhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1wcm9wYWdhci5odG1sIiBpZD0icCI+cHJvcGFnYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZXNwcmVtZXIuaHRtbCIgaWQ9ImUiPmVzcHJlbWVyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWRlc3Jlc3BlaXRhci5odG1sIiBpZD0iZCI+ZGVzcmVzcGVpdGFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWluZmlsdHJhci5odG1sIiBpZD0iaSI+aW5maWx0cmFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWRpZmVyaXIuaHRtbCIgaWQ9ImQiPmRpZmVyaXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZGlzcGVyc2FyLmh0bWwiIGlkPSJkIj5kaXNwZXJzYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItc29sZGFyLmh0bWwiIGlkPSJzIj5zb2xkYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItcGVyc2V2ZXJhci5odG1sIiBpZD0icCI+cGVyc2V2ZXJhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1hdXRvbWF0aXphci5odG1sIiBpZD0iYSI+YXV0b21hdGl6YXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItY2FwYWNpdGFyLmh0bWwiIGlkPSJjIj5jYXBhY2l0YXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItY29kaWZpY2FyLmh0bWwiIGlkPSJjIj5jb2RpZmljYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZGlzc2VtaW5hci5odG1sIiBpZD0iZCI+ZGlzc2VtaW5hcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1pbmNsaW5hci5odG1sIiBpZD0iaSI+aW5jbGluYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItdmFndWVhci5odG1sIiBpZD0idiI+dmFndWVhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1lc3BpcnJhci5odG1sIiBpZD0iZSI+ZXNwaXJyYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItcmV0YXJkYXIuaHRtbCIgaWQ9InIiPnJldGFyZGFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLXB1bHZlcml6YXIuaHRtbCIgaWQ9InAiPnB1bHZlcml6YXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItcmVwYXJ0aXIuaHRtbCIgaWQ9InIiPnJlcGFydGlyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLXVuaWZpY2FyLmh0bWwiIGlkPSJ1Ij51bmlmaWNhcjwvYT4NCiAgPC9saT4NCiAgPGxpPg0KICAgIDxhIGhyZWY9ImNvbmp1Z2F0aW9uLXBvcnR1Z3Vlc2UtdmVyYi1lbnVtZXJhci5odG1sIiBpZD0iZSI+ZW51bWVyYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItcGVycGV0dWFyLmh0bWwiIGlkPSJwIj5wZXJwZXR1YXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItZGVzYWNyZWRpdGFyLmh0bWwiIGlkPSJkIj5kZXNhY3JlZGl0YXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItbnV0cmlyLmh0bWwiIGlkPSJuIj5udXRyaXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItc3VqYXIuaHRtbCIgaWQ9InMiPnN1amFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWF0YXIuaHRtbCIgaWQ9ImEiPmF0YXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItYXJyYW5oYXIuaHRtbCIgaWQ9ImEiPmFycmFuaGFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWNvbnNhZ3Jhci5odG1sIiBpZD0iYyI+Y29uc2FncmFyPC9hPg0KICA8L2xpPg0KICA8bGk+DQogICAgPGEgaHJlZj0iY29uanVnYXRpb24tcG9ydHVndWVzZS12ZXJiLWVzdHJ1dHVyYXIuaHRtbCIgaWQ9ImUiPmVzdHJ1dHVyYXI8L2E+DQogIDwvbGk+DQogIDxsaT4NCiAgICA8YSBocmVmPSJjb25qdWdhdGlvbi1wb3J0dWd1ZXNlLXZlcmItY29leGlzdGlyLmh0bWwiIGlkPSJjIj5jb2V4aXN0aXI8L2E+DQogIDwvbGk+DQo8L29sPmQCKg8WAh8DBcgDDQoJCQlUaGlzIG9ubGluZSB0cmFuc2xhdG9yIGFsbG93cyB0aGUgdHJhbnNsYXRpb24gb2Ygd29yZHMsIHRleHRzLCBwaHJhc2VzLCBpZGlvbXMsIGV4cHJlc3Npb25zIGluIEZyZW5jaCwgU3BhbmlzaCwgR2VybWFuLCBJdGFsaWFuLCBSdXNzaWFuLCBQb3J0dWd1ZXNlLCBDaGluZXNlLCBBcmFiaWMsIEhlYnJldywgSmFwYW5lc2UuDQoJCQlUcmFuc2xhdGlvbiB0b29scyBpbmNsdWRlOiB0cmFuc2xhdGlvbiBtZW1vcnkgbGlrZSBBY3Jvc3MsIFRyYWRvcywgU0RMLCBEZWrDoCBWdSwgYnV0IGFsc28gaW5zdGFudCB0cmFuc2xhdGlvbiBzeXN0ZW1zLCBtYWNoaW5lIHRyYW5zbGF0aW9uIGxpa2UgUmV2ZXJzbywgQmFiZWxGaXNoLCBTeXN0cmFuLiBPbmxpbmUgZGljdGlvbmFyaWVzOiBDb2xsaW5zLCBNZXJyaWFtLVdlYnN0ZXIsIExhcm91c3NlLCBMRU8sIE94Zm9yZCwgbGFuZ2Vuc2NoZWlkdC4NCgkJZGTnAcbaU9TU/ZPrJmGIGUnbPRsG5A==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="90059987" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAnYe+ueZlVkb6MCwMAC+GT+/c1668KeTX7ewZVPtS58HEbbD3k8y7hsnamDP/JrZ/3j4P/h8974L8b20dCu9nyKk8EXyGkGv3o076ZKCTV/U3ST8gOkvijv4j8VrbXIh46en8ttNRVPVEi4izPJgPRwwfuxjx6LICU+wFM4aADhRKr+rokZjTusMXu82LcU8/uIN6oUTmrktITDgpW7AY/9wh0zHg==" />
+</div>
+                        <input type="hidden" name="ctl00$hidConjugation" id="hidConjugation" value="Conjugation" />
+                        <input type="hidden" name="ctl00$hidConjugator" id="hidConjugator" value="Conjugator" />
+                        <input type="hidden" name="ctl00$hidVerb" id="hidVerb" value="Verb" />
+                        <input type="hidden" name="ctl00$verbTranslit" id="verbTranslit" />
+                        <input type="hidden" name="ctl00$HomonymNumber" id="HomonymNumber" />
+                        <input type="hidden" name="ctl00$VerbAttributes" id="VerbAttributes" />
+
+
+
+                        <div class="content-conj content-conj-inner">
+                            <div class="stickem-container clearfix">
+                                <div class="wrapperW">
+                                    <div class="headerDescription conj clearfix">
+                                        <h1 class='bigger'>Most common Portuguese verbs from implantar to coexistir</h1>
+                                        
+                                    </div>
+                                    <div id="content-menu">
+                                        <div class="tableForm clearfix">
+                                            <div class="conjForm">
+                                                <div class="input-wrap">
+                                                    <label for="txtVerb" id="txtVerbLabel" class="hide-element">Enter an infinitive verb or a conjugated form to have its conjugation table</label>
+                                                    <input name="ctl00$txtVerb" type="text" id="txtVerb" class="verbbox keyboardInput" autocapitalize="off" tooltip="Enter an infinitive verb or a conjugated form to have its conjugation table" />
+                                                    
+                                                    <div id="imgKeyboardContainer" ></div>
+                                                    
+                                                    <a class="reset-search" onclick="clearSearch();">X</a>
+                                                </div>
+                                                <div class="select-wrap">
+                                                    <a href="#" class="current-conj-language dropdown-toggle">
+                                                        
+                                                        <label class="white-text">English</label>
+                                                        <span class="icon icon-arrow"></span></a>
+                                                    <ul class="dropdown">
+                                                        <li code="en">English</li>
+                                                        <li code="fr">French</li>
+                                                        <li code="es">Spanish</li>
+                                                        <li code="de">German</li>
+                                                        <li code="it">Italian</li>
+                                                        <li code="pt">Portuguese</li>
+                                                        <li code="he">Hebrew</li>
+							                            <li code="ru">Russian</li>
+                                                        <li code="ar">Arabic</li>
+                                                        <li code="jp" class="last-drop-item">Japanese</li>
+                                                    </ul>
+                                                </div>
+                                                <a onclick="doRedirectConjugate(&#39;&#39;); return false;" id="lbConjugate" title="Conjugate" href="#" href="javascript:__doPostBack(&#39;ctl00$lbConjugate&#39;,&#39;&#39;)">Conjugate</a>
+
+                                                
+                                                
+                                                
+                                                
+                                            </div>
+                                            
+                                        </div>
+
+                                         
+
+                                        <div class="righttoolboxWrap clearfix grey-bg">
+                                            <div class="righttoolbox">
+                                                Toolbox:
+                                                <a href="https://conjugator.reverso.net/conjugation-rules-model-portuguese.html" id="aModel">
+                                                    <span id="lblModels">Models</span>
+                                                </a>
+                                                
+                                                
+												
+												<a href="https://conjugator.reverso.net/info-portugal-brazil-conjugation.html" id="aVerbsConjInPtBr">
+                                                    <span id="lblVerbsConjInPtBr">Conjugation in Portugal and Brazil</span>
+                                                </a>
+                                                
+                                                <a href="https://conjugator.reverso.net/info-portuguese.html" id="aInfoAndTips">
+                                                    <span id="lblInfo">Info and tips</span>
+                                                </a>
+												
+                                                
+                                                
+                                                
+                                                
+
+                                                
+                                                
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+    <div class="index-title">
+        List of common verbs 
+        <a href="https://conjugator.reverso.net/index-portuguese-1-250.html">1-250</a>, 
+        <a href="https://conjugator.reverso.net/index-portuguese-251-500.html">251-500</a>, 
+        <a href="https://conjugator.reverso.net/index-portuguese-501-750.html">501-750</a>, 
+        <a href="https://conjugator.reverso.net/index-portuguese-751-1000.html">751-1000</a>,
+        <a href="https://conjugator.reverso.net/index-portuguese-1001-1250.html">1001-1250</a>,
+        <a href="https://conjugator.reverso.net/index-portuguese-1251-1500.html">1251-1500</a>, 
+        <a href="https://conjugator.reverso.net/index-portuguese-1501-1750.html">1501-1750</a>, 
+        <a href="https://conjugator.reverso.net/index-portuguese-1751-2000.html">1751-2000</a>
+    </div>
+    <div class="index-content">
+        <ol>
+  <li>
+    <a href="conjugation-portuguese-verb-implantar.html" id="i">implantar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-mitigar.html" id="m">mitigar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-relacionar.html" id="r">relacionar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-abastecer.html" id="a">abastecer</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-abdicar.html" id="a">abdicar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-suscitar.html" id="s">suscitar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-diversificar.html" id="d">diversificar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-alegar.html" id="a">alegar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-incidir.html" id="i">incidir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-sussurrar.html" id="s">sussurrar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-herdar.html" id="h">herdar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-encetar.html" id="e">encetar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-especular.html" id="e">especular</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-improvisar.html" id="i">improvisar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-perfurar.html" id="p">perfurar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-acenar.html" id="a">acenar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-caracterizar.html" id="c">caracterizar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-banir.html" id="b">banir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-envergonhar.html" id="e">envergonhar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-enforcar.html" id="e">enforcar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-movimentar.html" id="m">movimentar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-estrangular.html" id="e">estrangular</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-raspar.html" id="r">raspar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-exercitar.html" id="e">exercitar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-figurar.html" id="f">figurar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-descontrair.html" id="d">descontrair</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-coincidir.html" id="c">coincidir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-desarmar.html" id="d">desarmar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-escovar.html" id="e">escovar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-aprimorar.html" id="a">aprimorar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-suprir.html" id="s">suprir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-forjar.html" id="f">forjar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-prazer.html" id="p">prazer</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-armar.html" id="a">armar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-reinar.html" id="r">reinar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-qualificar.html" id="q">qualificar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-incitar.html" id="i">incitar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-recompensar.html" id="r">recompensar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-semear.html" id="s">semear</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-reescrever.html" id="r">reescrever</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-vasculhar.html" id="v">vasculhar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-diferenciar.html" id="d">diferenciar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-prescrever.html" id="p">prescrever</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-remeter.html" id="r">remeter</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-revisar.html" id="r">revisar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-legislar.html" id="l">legislar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-abortar.html" id="a">abortar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-inovar.html" id="i">inovar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-atrapalhar.html" id="a">atrapalhar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-pisar.html" id="p">pisar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-abrigar.html" id="a">abrigar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-detonar.html" id="d">detonar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-brindar.html" id="b">brindar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-alternar.html" id="a">alternar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-errar.html" id="e">errar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-presidir.html" id="p">presidir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-digerir.html" id="d">digerir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-encurtar.html" id="e">encurtar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-soletrar.html" id="s">soletrar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-drenar.html" id="d">drenar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-enrolar.html" id="e">enrolar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-interessar.html" id="i">interessar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-aplaudir.html" id="a">aplaudir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-sumir.html" id="s">sumir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-redigir.html" id="r">redigir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-recitar.html" id="r">recitar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-tapar.html" id="t">tapar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-traficar.html" id="t">traficar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-aturar.html" id="a">aturar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-desvendar.html" id="d">desvendar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-incriminar.html" id="i">incriminar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-ressuscitar.html" id="r">ressuscitar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-velejar.html" id="v">velejar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-colorir.html" id="c">colorir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-formatar.html" id="f">formatar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-apurar.html" id="a">apurar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-escorregar.html" id="e">escorregar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-reciclar.html" id="r">reciclar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-encostar.html" id="e">encostar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-bombear.html" id="b">bombear</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-elogiar.html" id="e">elogiar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-tranquilizar.html" id="t">tranquilizar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-polir.html" id="p">polir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-desmantelar.html" id="d">desmantelar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-sincronizar.html" id="s">sincronizar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-arquivar.html" id="a">arquivar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-premir.html" id="p">premir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-sequestrar.html" id="s">sequestrar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-visar.html" id="v">visar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-estalar.html" id="e">estalar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-refrescar.html" id="r">refrescar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-embalar.html" id="e">embalar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-equipar.html" id="e">equipar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-desembarcar.html" id="d">desembarcar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-igualar.html" id="i">igualar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-ditar.html" id="d">ditar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-inspecionar.html" id="i">inspecionar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-fundir.html" id="f">fundir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-silenciar.html" id="s">silenciar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-reorganizar.html" id="r">reorganizar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-alugar.html" id="a">alugar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-falsificar.html" id="f">falsificar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-reconciliar.html" id="r">reconciliar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-complicar.html" id="c">complicar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-desenterrar.html" id="d">desenterrar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-isentar.html" id="i">isentar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-desobedecer.html" id="d">desobedecer</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-regar.html" id="r">regar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-dotar.html" id="d">dotar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-listar.html" id="l">listar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-discordar.html" id="d">discordar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-confiscar.html" id="c">confiscar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-reexaminar.html" id="r">reexaminar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-consistir.html" id="c">consistir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-corromper.html" id="c">corromper</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-obstruir.html" id="o">obstruir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-ladrar.html" id="l">ladrar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-fundar.html" id="f">fundar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-abater.html" id="a">abater</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-assombrar.html" id="a">assombrar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-desestabilizar.html" id="d">desestabilizar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-esfaquear.html" id="e">esfaquear</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-esfriar.html" id="e">esfriar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-angariar.html" id="a">angariar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-diluir.html" id="d">diluir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-reprimir.html" id="r">reprimir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-amadurecer.html" id="a">amadurecer</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-devorar.html" id="d">devorar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-encolher.html" id="e">encolher</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-bancar.html" id="b">bancar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-remar.html" id="r">remar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-tecer.html" id="t">tecer</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-patinar.html" id="p">patinar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-conspirar.html" id="c">conspirar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-reestruturar.html" id="r">reestruturar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-aborrecer.html" id="a">aborrecer</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-fiscalizar.html" id="f">fiscalizar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-sobrecarregar.html" id="s">sobrecarregar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-arrombar.html" id="a">arrombar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-disfar%C3%A7ar.html" id="d">disfarçar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-dificultar.html" id="d">dificultar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-liquidar.html" id="l">liquidar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-desmontar.html" id="d">desmontar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-cumprimentar.html" id="c">cumprimentar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-hospedar.html" id="h">hospedar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-fundamentar.html" id="f">fundamentar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-negligenciar.html" id="n">negligenciar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-patrulhar.html" id="p">patrulhar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-repousar.html" id="r">repousar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-edificar.html" id="e">edificar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-homenagear.html" id="h">homenagear</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-despir.html" id="d">despir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-estuprar.html" id="e">estuprar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-tossir.html" id="t">tossir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-desenrolar.html" id="d">desenrolar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-privar.html" id="p">privar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-residir.html" id="r">residir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-manusear.html" id="m">manusear</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-abaixar.html" id="a">abaixar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-dissipar.html" id="d">dissipar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-inibir.html" id="i">inibir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-desmoronar.html" id="d">desmoronar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-furar.html" id="f">furar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-penalizar.html" id="p">penalizar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-reabastecer.html" id="r">reabastecer</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-ostentar.html" id="o">ostentar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-escoltar.html" id="e">escoltar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-esculpir.html" id="e">esculpir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-revitalizar.html" id="r">revitalizar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-alvorecer.html" id="a">alvorecer</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-dialogar.html" id="d">dialogar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-hesitar.html" id="h">hesitar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-recear.html" id="r">recear</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-anotar.html" id="a">anotar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-aspirar.html" id="a">aspirar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-apreender.html" id="a">apreender</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-nevar.html" id="n">nevar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-alvejar.html" id="a">alvejar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-consolar.html" id="c">consolar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-descolar.html" id="d">descolar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-empacotar.html" id="e">empacotar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-instruir.html" id="i">instruir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-suceder.html" id="s">suceder</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-assobiar.html" id="a">assobiar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-fracassar.html" id="f">fracassar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-trope%C3%A7ar.html" id="t">tropeçar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-posar.html" id="p">posar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-contaminar.html" id="c">contaminar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-aterrorizar.html" id="a">aterrorizar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-vibrar.html" id="v">vibrar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-contrair.html" id="c">contrair</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-falsear.html" id="f">falsear</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-desapontar.html" id="d">desapontar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-sacar.html" id="s">sacar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-patrocinar.html" id="p">patrocinar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-replicar.html" id="r">replicar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-assimilar.html" id="a">assimilar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-evocar.html" id="e">evocar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-chocar.html" id="c">chocar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-dissuadir.html" id="d">dissuadir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-migrar.html" id="m">migrar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-habilitar.html" id="h">habilitar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-constar.html" id="c">constar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-empatar.html" id="e">empatar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-frequentar.html" id="f">frequentar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-vazar.html" id="v">vazar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-botar.html" id="b">botar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-decolar.html" id="d">decolar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-agilizar.html" id="a">agilizar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-liberalizar.html" id="l">liberalizar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-riscar.html" id="r">riscar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-contrabandear.html" id="c">contrabandear</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-subsidiar.html" id="s">subsidiar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-manchar.html" id="m">manchar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-adequar.html" id="a">adequar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-agregar.html" id="a">agregar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-confortar.html" id="c">confortar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-esgotar.html" id="e">esgotar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-expirar.html" id="e">expirar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-curvar.html" id="c">curvar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-inundar.html" id="i">inundar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-propagar.html" id="p">propagar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-espremer.html" id="e">espremer</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-desrespeitar.html" id="d">desrespeitar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-infiltrar.html" id="i">infiltrar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-diferir.html" id="d">diferir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-dispersar.html" id="d">dispersar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-soldar.html" id="s">soldar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-perseverar.html" id="p">perseverar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-automatizar.html" id="a">automatizar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-capacitar.html" id="c">capacitar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-codificar.html" id="c">codificar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-disseminar.html" id="d">disseminar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-inclinar.html" id="i">inclinar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-vaguear.html" id="v">vaguear</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-espirrar.html" id="e">espirrar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-retardar.html" id="r">retardar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-pulverizar.html" id="p">pulverizar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-repartir.html" id="r">repartir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-unificar.html" id="u">unificar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-enumerar.html" id="e">enumerar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-perpetuar.html" id="p">perpetuar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-desacreditar.html" id="d">desacreditar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-nutrir.html" id="n">nutrir</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-sujar.html" id="s">sujar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-atar.html" id="a">atar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-arranhar.html" id="a">arranhar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-consagrar.html" id="c">consagrar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-estruturar.html" id="e">estruturar</a>
+  </li>
+  <li>
+    <a href="conjugation-portuguese-verb-coexistir.html" id="c">coexistir</a>
+  </li>
+</ol>
+    </div>
+
+                                </div>
+                                
+                                <div class="sticky">
+                                    <div class="verticalbox">
+                                        <div class="verticalboxtitle">
+                                            <span>Advertising</span>
+                                        </div>
+                                        
+				<div class="right-vertical">			
+			
+				
+					<!-- /2629866/Conjugueur_160x600 -->
+					<div id='div-gpt-ad-Reverso_Conj_D_All_160x600_ATF'>
+                        <script type='text/javascript'>
+                            ramjs.que.push(function () { ramjs.business.displayGoogletagSlot('div-gpt-ad-Reverso_Conj_D_All_160x600_ATF') });
+                        </script>
+					</div>
+				
+				</div>
+		
+                                    </div>
+                                </div>
+                                
+                            </div>
+                        </div>
+                        <div class="pre-footer-info">
+                            <div class="suggestion-index">
+                                 List of common verbs
+                                <a href="https://conjugator.reverso.net/index-portuguese-1-250.html">1-250</a> ,
+                                <a href="https://conjugator.reverso.net/index-portuguese-251-500.html">251-500</a>,
+                                <a href="https://conjugator.reverso.net/index-portuguese-501-750.html">501-750</a>,
+                                <a href="https://conjugator.reverso.net/index-portuguese-751-1000.html">751-1000</a>,
+                                <a href="https://conjugator.reverso.net/index-portuguese-1001-1250.html">1001-1250</a>,
+                                <a href="https://conjugator.reverso.net/index-portuguese-1251-1500.html">1251-1500</a>,
+                                <a href="https://conjugator.reverso.net/index-portuguese-1501-1750.html">1501-1750</a>,
+                                <a href="https://conjugator.reverso.net/index-portuguese-1751-2000.html">1751-2000</a>
+                            </div>
+                        </div>
+                        <div id="footer" class="conj clearfix">
+
+
+
+                            <div class="footerLinks">
+                                <div class="divFooter">
+
+                                    <div class="social-content">
+                                        <a rel="noopener" class="facebook-link icon facebook" target="_blank" href="https://www.facebook.com/Reverso.net?ref=ts" title="Facebook"></a>
+                                        <a rel="noopener" class="twitter-link icon twitter" target="_blank" href="https://twitter.com/ReversoEN" title="Twitter"></a>
+                                        <a rel="noopener" class="instagram-link icon instagram" target="_blank" href="https://www.instagram.com/reverso_app/?hl=en" title="Instagram"></a>
+                                    </div>
+
+                                    <div>
+    <a href="https://www.reverso.net/feedback.aspx?lang=EN">Contact</a>
+    | <a href="https://www.reverso.net/tricks.aspx?type=3&lang=EN">Newsletter</a>
+    | <a href="https://www.reverso.net/tellafriend.aspx?lang=EN">Tell a friend</a>
+    | <a href="https://www.reverso.net/tricks.aspx?lang=EN&type=1">News</a>
+    | <a href="https://www.corporate-translation.reverso.com">Company</a>
+    | <a href="https://www.reverso.net/disclaimer.aspx?lang=EN">Conditions of use</a>
+    | <a href="javascript:ShowPrivacySettings()">Privacy settings</a>
+    | <a href="https://www.reverso.net/help.aspx?lang=EN">Help (?)</a>
+    <hr/>
+</div>
+
+<div>
+    <strong>
+        <a href='https://www.reverso.net/text-translation'>Reverso Translation</a>,
+        <a href='https://www.reverso.net/traduction-texte'>Traduction</a>,
+        <a href='https://www.reverso.net/traducci%C3%B3n-texto'>Traducci&oacute;n</a>,
+        <a href='https://www.reverso.net/traduzione-testo'>Traduzione</a>,
+        <a href='https://www.reverso.net/Text%C3%BCbersetzung'>&Uuml;bersetzung</a>,
+        <a href='https://www.reverso.net/%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%BE%D0%B4-%D1%82%D0%B5%D0%BA%D1%81%D1%82%D0%B0'>&#1055;&#1077;&#1088;&#1077;&#1074;&#1086;&#1076;</a>
+    </strong>
+    <br/>
+    <a href='https://www.reverso.net/text-translation'>Text translation</a>
+    | <a href='https://www.reverso.net/more.aspx?lang=EN'>Web Page Translation</a>
+    | <a href='https://dictionary.reverso.net/french-english/'>French translation</a>
+    | <a href='https://dictionary.reverso.net/spanish-english/'>Spanish translation</a>
+    | <a href='https://dictionary.reverso.net/italian-english/'>Italian translation</a>
+    | <a href='https://dictionary.reverso.net/german-english/'>German translation</a>
+    | <a href='https://dictionary.reverso.net/russian-english/'>Russian translation</a>
+    | <a href='https://dictionary.reverso.net/chinese-english/'>Chinese translation</a>
+    <hr/>
+</div>
+
+<div>
+    <strong>
+        <a href='https://dictionary.reverso.net/'>Reverso Dictionary</a>,
+        <a href='https://dictionnaire.reverso.net/'>Dictionnaire</a>,
+        <a href='https://diccionario.reverso.net/'>Diccionario</a>,
+        <a href='https://woerterbuch.reverso.net/'>W&ouml;rterbuch</a>,
+        <a href='https://dizionario.reverso.net/'>Dizionario</a>
+    </strong><br/>
+    <a href='https://dictionary.reverso.net/english-french/'>French Dictionary</a>
+    | <a href='https://dictionary.reverso.net/english-spanish/'>Spanish Dictionary</a>
+    | <a href='https://dictionary.reverso.net/english-german/'>German Dictionary</a>
+    | <a href='https://dictionary.reverso.net/english-russian/'>Russian Dictionary</a>
+    | <a href='https://dictionary.reverso.net/english-chinese/'>Chinese Dictionary</a>
+    | <a href='https://dictionary.reverso.net/english-italian/'>Italian Dictionary</a>
+    | <a href='https://dictionary.reverso.net/english-portuguese/'>Portuguese Dictionary</a>
+    | <a href='https://dictionary.reverso.net/english-cobuild/'>Learn English</a>
+    | <a href='https://dictionary.reverso.net/english-definition/'>English definition</a>
+    | <a href='https://synonyms.reverso.net/synonym/'>English Synonym</a>
+    | <a href='https://dictionary.reverso.net/medical-french-english/'>Medical dictionary French English</a>
+    | <a href='https://dictionary.reverso.net/medical-english-french/'>Medical dictionary English French</a>
+    | <a href='https://dictionary.reverso.net/computer-french-english/'>Computer dictionary French English</a>
+    | <a href='https://dictionary.reverso.net/computer-english-french/'>Computer dictionary English French</a>
+    | <a href='https://dictionary.reverso.net/computer-spanish-english/'>Computer dictionary Spanish English</a>
+    | <a href='https://dictionary.reverso.net/computer-english-spanish/'>Computer dictionary English Spanish</a>
+    | <a href='https://dictionary.reverso.net/business-french-english/'>Business dictionary French English</a>
+    | <a href='https://dictionary.reverso.net/business-english-french/'>Business dictionary English French</a>
+    <hr/>
+</div>
+
+<div>
+    <strong>
+        <a href='https://conjugator.reverso.net/conjugation-english.html'>Reverso Conjugator</a>,
+        <a href='https://conjugueur.reverso.net/conjugaison-francais.html'>Conjugueur</a>,
+        <a href='https://conjugador.reverso.net/conjugacion-espanol.html'>Conjugador</a>,
+        <a href='https://konjugator.reverso.net/konjugation-deutsch.html'>Konjugation</a>,
+        <a href='https://coniugazione.reverso.net/coniugazione-italiano.html'>Coniugazione</a>,
+        <a href='https://conjugacao.reverso.net/conjugacao-portugues.html'>Conjugação</a>,
+        <a href='https://glagol.reverso.net/%D1%81%D0%BF%D1%80%D1%8F%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5-%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9.html'>Спряжение</a>,
+        <a href='https://tasrif.reverso.net/%D8%AA%D8%B5%D8%B1%D9%8A%D9%81-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9.html'>تصريف</a>,
+        <a href='https://doushi.reverso.net/%E6%B4%BB%E7%94%A8-%E6%97%A5%E6%9C%AC%E8%AA%9E.html'>日本語</a>,
+        <a href='https://pealim.reverso.net/%D7%94%D7%98%D7%99%D7%95%D7%AA-%D7%A2%D7%91%D7%A8%D7%99%D7%AA.html'>עברית</a>
+    </strong>
+    <br/>
+    <a href='https://conjugator.reverso.net/conjugation-spanish.html'>Spanish verb conjugation</a>
+    | <a href='https://conjugator.reverso.net/conjugation-french.html'>French verb conjugation</a>
+    | <a href='https://conjugator.reverso.net/conjugation-english.html'>English verb conjugation</a>
+    | <a href='https://conjugator.reverso.net/conjugation-german.html'>German verb conjugation</a>
+    | <a href='https://conjugator.reverso.net/conjugation-hebrew.html'>Hebrew verb Conjugation</a>
+    | <a href='https://conjugator.reverso.net/conjugation-italian.html'>Italian verb conjugation</a>
+    | <a href='https://conjugator.reverso.net/conjugation-portuguese.html'>Portuguese verb conjugation</a>
+    | <a href='https://conjugator.reverso.net/conjugation-russian.html'>Russian verb conjugation</a>
+    | <a href='https://conjugator.reverso.net/conjugation-arabic.html'>Arabic verb conjugation</a>
+    | <a href='https://conjugator.reverso.net/conjugation-japanese.html'>Japanese verb conjugation</a>
+    <hr/>
+</div>
+
+<div>
+    <strong>
+        <a href='https://grammar.reverso.net/'>Reverso Grammar</a>,
+        <a href='https://grammaire.reverso.net/'>Reverso Grammaire</a>
+    </strong>
+    <br>
+    <a href='https://grammar.reverso.net/grammar-french/'>French Grammar</a>
+    | <a href='https://grammar.reverso.net/'>English grammar</a>
+    | <a href='https://grammar.reverso.net/verb-tenses-summary/'>English verb tenses</a>
+    | <a href='https://grammar.reverso.net/if-and-conditionals/'>Conditionnal IF</a>
+    | <a href='https://grammar.reverso.net/modals/'>Modal verbs in English</a>
+    | <a href='https://grammaire.reverso.net/category/les-grandes-notions-grammaticales-les-composants-de-la-phrase/'>The
+    parts of sentence in French</a>
+    | <a href='https://grammaire.reverso.net/category/syntaxe-constructions-syntaxiques-particulieres/'>French
+    syntax</a>
+    | <a href='https://grammaire.reverso.net/category/regles-d-accord-generalites/'>Agreement rules in French</a>
+    | <a href='https://grammaire.reverso.net/category/orthographe-et-typographie-ponctuation/'>French punctuation</a>
+    | <a href='https://grammaire.reverso.net/category/orthographe-et-typographie-cas-particuliers/'>French spelling</a>
+    <hr>
+</div>
+
+<div>
+    <strong>
+        <a href='https://www.reverso.net/spell-checker/english-spelling-grammar/'>Online spell checker</a>,
+        <a href='https://www.reverso.net/orthographe/correcteur-francais/'>Correcteur d’orthographe et grammaire</a>,
+        <a href='https://www.reverso.net/ortografia/corrector-ingles/'>Corrector ortográfico</a>
+    </strong>
+    <br>
+    <a href='https://www.reverso.net/spell-checker/french-spelling-grammar/'>Online spelling and grammar check for
+        French texts</a>
+    | <a href='https://www.reverso.net/spell-checker/english-spelling-grammar/'>Online spelling and grammar check for
+    English texts</a>
+    <hr>
+</div>
+
+<div>
+    <strong>Recommended links:</strong>
+    <br/>
+    <a rel="noopener" href="https://www.tolearnenglish.com/free-educational-sites.php" target="_blank">Free: Learn English, French and
+        other languages</a>
+    | <a rel="noopener" href="https://fleex.tv/en/Home/Index4" target="_blank"> Fleex: improve your English with your favorite
+    videos </a>
+</div>
+
+                                    <hr />
+                                    
+			This online translator allows the translation of words, texts, phrases, idioms, expressions in French, Spanish, German, Italian, Russian, Portuguese, Chinese, Arabic, Hebrew, Japanese.
+			Translation tools include: translation memory like Across, Trados, SDL, Dejà Vu, but also instant translation systems, machine translation like Reverso, BabelFish, Systran. Online dictionaries: Collins, Merriam-Webster, Larousse, LEO, Oxford, langenscheidt.
+		
+                                    <hr />
+                                    <div style="text-align:right">&copy;2022 Reverso-Softissimo. All rights reserved.</div>
+                                </div>
+
+                            </div>
+
+                            <div class="footerBlue">
+                                <div class="spacer">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="clear"></div>
+                        <div class="bunner-f"></div>
+                    </form>
+                </div>
+            </div>
+            <div class="wrapper-form-bg-3"></div>
+            
+        </div>
+    </div>
+
+    
+
+    </div>
+    <!-- //wrapper -->
+
+
+<script type="text/javascript" src="//cdn.reverso.net/conj/v2530/JS/jquery.min.js" ></script>
+    <script defer type="text/javascript" src="//cdn.reverso.net/conj/v2530/JS/jquery-ui.min.js" ></script>
+
+
+    <script defer type="text/javascript" src="//cdn.reverso.net/conj/v2530/JS/Common.min.js" ></script>
+
+    <link rel="stylesheet" type="text/css" href="//cdn.reverso.net/conj/v2530/CSS/keyboard.min.css">
+    <script defer src="//cdn.reverso.net/conj/v2530/JS/keyboard.min.js" type="text/javascript"></script>
+
+
+
+
+<script type="text/javascript">
+    var False = false, True = true;
+
+    /* for header2020 scripts */
+    var urls = {
+        account_host: 'https://account.reverso.net/'
+    };
+    var locale = "en";
+    /* --- */
+
+    var _conjLang = "pt";
+    var _interfaceLang = "en";
+    var _interfaceLongName = "English";
+    var _isMobilePage = False;
+    var _isTabletDevice = False;
+    var _isRtl = False;
+
+    var _contextBaseUrl ="https://context.reverso.net/";
+    
+    var _conjugationLanguage = "pt";
+    var _urlContextTranslation = 'https://context.reverso.net/translation/portuguese-english/';
+    var _urlSynonyms = 'https://synonyms.reverso.net/synonym/pt/';
+    var _urlSyonymsApi = 'https://synonyms.reverso.net/api/v2/search/';
+    var _isDefaultPage = False;
+    var _isHomePage = False;
+    var _urls = {"en":{"home":"conjugation-english.html","result":"conjugation-english-verb-#.html","contracted":"conjugation-english-verb-#-contracted.html","v1":"conjugation-english-verb-#-v1.html","v2":"conjugation-english-verb-#-v2.html"},"fr":{"home":"conjugation-french.html","result":"conjugation-french-verb-#.html","contracted":"conjugation-french-verb-#-contracted.html","v1":"conjugation-french-verb-#-v1.html","v2":"conjugation-french-verb-#-v2.html"},"es":{"home":"conjugation-spanish.html","result":"conjugation-spanish-verb-#.html","contracted":"conjugation-spanish-verb-#-contracted.html","v1":"conjugation-spanish-verb-#-v1.html","v2":"conjugation-spanish-verb-#-v2.html"},"de":{"home":"conjugation-german.html","result":"conjugation-german-verb-#.html","contracted":"conjugation-german-verb-#-contracted.html","v1":"conjugation-german-verb-#-v1.html","v2":"conjugation-german-verb-#-v2.html"},"it":{"home":"conjugation-italian.html","result":"conjugation-italian-verb-#.html","contracted":"conjugation-italian-verb-#-contracted.html","v1":"conjugation-italian-verb-#-v1.html","v2":"conjugation-italian-verb-#-v2.html"},"he":{"home":"conjugation-hebrew.html","result":"conjugation-hebrew-verb-#.html","contracted":"conjugation-hebrew-verb-#-contracted.html","v1":"conjugation-hebrew-verb-#-v1.html","v2":"conjugation-hebrew-verb-#-v2.html"},"pt":{"home":"conjugation-portuguese.html","result":"conjugation-portuguese-verb-#.html","contracted":"conjugation-portuguese-verb-#-contracted.html","v1":"conjugation-portuguese-verb-#-v1.html","v2":"conjugation-portuguese-verb-#-v2.html"},"ru":{"home":"conjugation-russian.html","result":"conjugation-russian-verb-#.html","contracted":"conjugation-russian-verb-#-contracted.html","v1":"conjugation-russian-verb-#-v1.html","v2":"conjugation-russian-verb-#-v2.html"},"ar":{"home":"conjugation-arabic.html","result":"conjugation-arabic-verb-#.html","contracted":"conjugation-arabic-verb-#.html","v1":"conjugation-arabic-verb-#.html","v2":"conjugation-arabic-verb-#.html"},"jp":{"home":"conjugation-japanese.html","result":"conjugation-japanese-verb-#.html","contracted":"conjugation-japanese-verb-#.html","v1":"conjugation-japanese-verb-#.html","v2":"conjugation-japanese-verb-#.html"}};
+
+    $(document).ready(function () {
+        $("body").addClass(_conjugationLanguage + "-conjugator-class");
+        $("body").addClass(_interfaceLang + "-interface-class");
+        initCommonItems();
+        loadOnMobile();
+    });
+</script>
+
+
+
+
+
+
+
+
+
+
+
+    <!--  Quantcast Tag -->
+    <script>
+        var ezt = ezt || [];
+
+        (function () {
+            var elem = document.createElement('script');
+            elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-9z6v4xdJwT5Z-";
+            elem.async = true;
+            elem.type = "text/javascript";
+            var scpt = document.getElementsByTagName('script')[0];
+            scpt.parentNode.insertBefore(elem, scpt);
+        }());
+    </script>
+
+    <!--  Quantcast Tag -->
+    <script>
+        ezt.push({ qacct: 'p-9z6v4xdJwT5Z-', labels: 'conjugator', uid: '' });
+    </script>
+    <noscript>
+        <img src="//pixel.quantserve.com/pixel/p-9z6v4xdJwT5Z-.gif?labels=conjugator" style="display: none;" border="0" height="1" width="1" alt="Quantcast" />
+    </noscript>
+    <span id="btnScroll" class="scroll-to-top" onclick="scrollToTop();" title="Back to top"><span class="icon-top"><span class="path1"></span><span class="path2"></span></span></span>
+
+
+
+
+
+
+
+
+
+</body>
+</html>

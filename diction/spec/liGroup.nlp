@@ -1,0 +1,15 @@
+###############################################
+# FILE: iGroup
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-26 17:40:19
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _headerZone 
+
+@RULES
+_liGroup <-
+	_liOpen								### (1)
+	_xWILD [fail=(_liClose _liOpen)]	### (2)
+	@@

@@ -1,0 +1,23 @@
+###############################################
+# FILE: attrs
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-23 23:3:57
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@POST
+"attr.txt" << N("$text",4) << "\n";
+G("verb") = N("$text",4);
+single();
+
+@RULES
+_attrVerb <-
+	class	### (1)
+	\=		### (2)
+	\"		### (3)
+	verb	### (4)
+	\"		### (5)
+	@@

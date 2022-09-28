@@ -1,0 +1,16 @@
+###############################################
+# FILE: tds
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-26 14:17:56
+# MODIFIED:
+###############################################
+
+@NODES _bodyZone
+
+@RULES
+_tdZone <-
+	_td							### (1)
+	_xWILD [fail=(_tdClose)]	### (2)
+	_tdClose					### (3)
+	@@

@@ -1,0 +1,16 @@
+###############################################
+# FILE: trs
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-9-26 14:17:56
+# MODIFIED:
+###############################################
+
+@NODES _bodyZone
+
+@RULES
+_trZone <-
+	_tr							### (1)
+	_xWILD [fail=(_trClose)]	### (2)
+	_trClose					### (3)
+	@@
