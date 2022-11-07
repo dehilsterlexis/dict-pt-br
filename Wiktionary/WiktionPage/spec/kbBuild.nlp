@@ -1,2 +1,20 @@
-àí™7@4ªbDgó§e¢€5%Éõ¿>¾ ßMI„¡Xµ+ŸË5ì§‚XÇy¼¹V/ßÄkt„ˆéòK>Ç¨™HW€þvˆiOçÿ†gÍL¬åšõ·kè­—žöOÞoQÜŸ.¹>S%^é£¼‚3Râƒ8™
-àŸÙ–K@/¾21ä÷øs'ŠÅÂ…gÝ´N{Àª‰º=È’û1ƒfÏžÊÛÄ½ÉfÝÏŽe€tÞz~DW;^y3“}ªîtŸ}öc„ÍCÐxœ	7”ÊÆš7ùÔÌ®C"é$%õ9!ô8]Vˆ8U¢Ó³ûŠƒrÆO<ë:Ñ¿.¾ÁÌ¼èÐCðÌ#5>®X8àÜoÚÁ¼u/ý\¢/éì
+###############################################
+# FILE: kbBuild
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-11-7 14:31:27
+# MODIFIED:
+###############################################
+
+@PATH _ROOT _textZone
+
+@PRE
+<1,1> var("meaning");
+
+@POST
+AddWord(X("word",1),N(1));
+
+@RULES
+_xNIL <-
+	_headerZone	### (1)
+	@@

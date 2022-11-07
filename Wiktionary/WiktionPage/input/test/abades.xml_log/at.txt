@@ -1,0 +1,6 @@
+"concept" "words" "abades" "meaning1" -- root abadar
+"concept" "words" "abades" "meaning1" -- pessoa segunda
+"concept" "words" "abades" "meaning1" -- numero singular
+"concept" "words" "abades" "meaning1" -- tempo presente
+"concept" "words" "abades" "meaning2" -- root abade
+"concept" "words" "abades" "meaning2" -- numero plural

@@ -6,7 +6,7 @@
 # MODIFIED:
 ###############################################
 
-@NODES _ROOT
+@PATH _ROOT _textZone
 
 @POST
 S("header") = N("header",1);

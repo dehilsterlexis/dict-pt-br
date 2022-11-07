@@ -6,7 +6,7 @@
 # MODIFIED:
 ###############################################
 
-@NODES _LINE
+@PATH _ROOT _textZone _LINE
 
 @POST
 X("up") = 1;

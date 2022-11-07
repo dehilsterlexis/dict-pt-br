@@ -1,20 +1,16 @@
 ###############################################
-# FILE: headerUp
+# FILE: textZone
 # SUBJ: comment
 # AUTH: David de Hilster
-# CREATED: 2022-10-6 19:12:48
+# CREATED: 2022-11-7 16:18:31
 # MODIFIED:
 ###############################################
 
-@PATH _ROOT _textZone
-
-@PRE
-<1,1> var("up");
-
-@POST
-splice(1,1);
+@NODES _ROOT
 
 @RULES
-_xNIL <-
-	_LINE	### (1)
+_textZone <-
+	_textStart						### (1)
+	_xWILD [plus fail=(_textEnd)]	### (2)
+	_textEnd						### (3)
 	@@

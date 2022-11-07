@@ -6,7 +6,7 @@
 # Copyright 1999-2004, Text Analysis International
 ###################################################
 
-@NODES _ROOT
+@NODES _textZone
 
 @RULES
 
