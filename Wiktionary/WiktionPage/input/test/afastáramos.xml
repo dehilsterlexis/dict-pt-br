@@ -1,0 +1,109 @@
+<title>afastáramos</title>
+<ns>0</ns>
+<id>180613</id>
+<revision>
+<id>721863</id>
+<timestamp>2010-01-27T18:40:27Z</timestamp>
+<contributor>
+<username>Jesielt-bot</username>
+<id>10876</id>
+</contributor>
+<comment>Verbete criado por bot.</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="183" xml:space="preserve">={{pt}}=
+==Forma verbal==
+'''afastáramos'''
+#[[primeira pessoa]] do [[plural]] do [[pretérito mais-que-perfeito]] do verbo '''[[afastar]]'''
+
+[[Categoria:Forma verbal (Português)]]</text>
+<sha1>9zntqk211krer4l8qe3f47xc0jiin4o</sha1>
+</revision>
+<revision>
+<id>756618</id>
+<parentid>721863</parentid>
+<timestamp>2010-02-07T14:48:11Z</timestamp>
+<contributor>
+<username>Interwicket</username>
+<id>6868</id>
+</contributor>
+<minor />
+<comment>iwiki +[[:no:afastáramos]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="204" xml:space="preserve">={{pt}}=
+==Forma verbal==
+'''afastáramos'''
+#[[primeira pessoa]] do [[plural]] do [[pretérito mais-que-perfeito]] do verbo '''[[afastar]]'''
+
+[[Categoria:Forma verbal (Português)]]
+
+[[no:afastáramos]]</text>
+<sha1>m5rlcde26qsn4jggwfacux6jcnccz91</sha1>
+</revision>
+<revision>
+<id>1114426</id>
+<parentid>756618</parentid>
+<timestamp>2011-07-03T20:13:24Z</timestamp>
+<contributor>
+<username>MalafayaBot</username>
+<id>628</id>
+</contributor>
+<minor />
+<comment>Robô: Substituição de texto automática (-^\=\s?Português\s?\= +={{-pt-}}= &amp; -^\=\s?\{\{pt\}\}\s?\= +={{-pt-}}=)</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="206" xml:space="preserve">={{-pt-}}=
+==Forma verbal==
+'''afastáramos'''
+#[[primeira pessoa]] do [[plural]] do [[pretérito mais-que-perfeito]] do verbo '''[[afastar]]'''
+
+[[Categoria:Forma verbal (Português)]]
+
+[[no:afastáramos]]</text>
+<sha1>fctr6uq5t2sswirdyhbk5qpfpe9riir</sha1>
+</revision>
+<revision>
+<id>1741558</id>
+<parentid>1114426</parentid>
+<timestamp>2013-09-29T02:49:58Z</timestamp>
+<contributor>
+<username>MalafayaBot</username>
+<id>628</id>
+</contributor>
+<minor />
+<comment>r2.7.5) (Robô: A adicionar: [[en:afastáramos]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="226" xml:space="preserve">={{-pt-}}=
+==Forma verbal==
+'''afastáramos'''
+#[[primeira pessoa]] do [[plural]] do [[pretérito mais-que-perfeito]] do verbo '''[[afastar]]'''
+
+[[Categoria:Forma verbal (Português)]]
+
+[[en:afastáramos]]
+[[no:afastáramos]]</text>
+<sha1>5x704fmq8ex0bxd66hazq1q52v7j024</sha1>
+</revision>
+<revision>
+<id>2290296</id>
+<parentid>1741558</parentid>
+<timestamp>2017-04-27T09:29:28Z</timestamp>
+<contributor>
+<username>HydrizBot</username>
+<id>29590</id>
+</contributor>
+<minor />
+<comment>Robô: A limpar links interwikis antigos</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="185" xml:space="preserve">={{-pt-}}=
+==Forma verbal==
+'''afastáramos'''
+#[[primeira pessoa]] do [[plural]] do [[pretérito mais-que-perfeito]] do verbo '''[[afastar]]'''
+
+[[Categoria:Forma verbal (Português)]]</text>
+<sha1>7koqri5juoh03f3i379giusyqondfyq</sha1>
+</revision>
+</page>

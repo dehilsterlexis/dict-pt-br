@@ -1,13 +1,17 @@
 ###############################################
-# FILE: output
+# FILE: hasMeaning
 # SUBJ: comment
 # AUTH: David de Hilster
-# CREATED: 2022-11-7 14:31:34
+# CREATED: 2022-11-7 15:39:40
 # MODIFIED:
 ###############################################
 
-@CODE
+@PATH _ROOT _textZone _headerZone
 
-DisplayKB(G("words"),1);
+@POST
+X("meaning",3) = 1;
 
-@@CODE
+@RULES
+_xNIL <-
+	_list	### (1)
+	@@

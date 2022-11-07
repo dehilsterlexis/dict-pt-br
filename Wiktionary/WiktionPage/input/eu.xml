@@ -1,0 +1,55 @@
+<title>eu</title>
+<ns>0</ns>
+<id>1058</id>
+<revision>
+<id>992</id>
+<timestamp>2004-08-05T20:28:27Z</timestamp>
+<contributor>
+<username>Leuadeque</username>
+<id>21</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="158" xml:space="preserve">== Pronome Pessoal ==
+'''eu''' ''primeira pessoa do singular'', ''caso reto''
+
+:# Aquele que fala.
+
+== Pronúncia ==
+'''Brasileira: Paulistana'''
+* IPA: /'ew/</text>
+<sha1>eg58fr8f1021pmsl0f1g06m1my9rk0y</sha1>
+</revision>
+<revision>
+<id>1552</id>
+<parentid>992</parentid>
+<timestamp>2004-08-19T02:00:53Z</timestamp>
+<contributor>
+<username>Diego UFCG</username>
+<id>34</id>
+</contributor>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="172" xml:space="preserve">== Pronome Pessoal ==
+'''eu''' ''primeira pessoa do singular'', ''caso reto''
+
+:# Aquele que fala.
+
+== Pronúncia ==
+'''Brasileira: Paulistana'''
+* IPA: /'ew/
+* SAMPA: /ew/</text>
+<sha1>nps1c8iz0zhsip6hv7uy1b6vckzh8mu</sha1>
+</revision>
+<revision>
+<id>1553</id>
+<parentid>1552</parentid>
+<timestamp>2004-09-16T21:06:50Z</timestamp>
+<contributor>
+<username>Leuadeque</username>
+<id>21</id>
+</contributor>
+<minor />
+<comment>/* Pronúncia */  De IPA pra AFI</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>

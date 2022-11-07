@@ -6,7 +6,7 @@
 # MODIFIED:
 ###############################################
 
-@NODES _LINE
+@PATH _ROOT _textZone _LINE
 
 @POST
 S("header") = N("$text",2);
@@ -23,18 +23,3 @@ _header <-
 	_xWILD [min=2 match=(\=)]	### (3)
 	@@
 
-@POST
-X("word",1) = N("$text",4);
-single();
-
-@RULES
-_word <-
-	\<		### (1)
-	title	### (2)
-	\>		### (3)
-	_xALPHA	### (4)
-	\<		### (5)
-	\/		### (6)
-	title	### (7)
-	\>		### (8)
-	@@
