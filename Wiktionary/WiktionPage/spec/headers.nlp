@@ -1,0 +1,40 @@
+###############################################
+# FILE: headers
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2022-10-6 18:54:12
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@POST
+S("header") = N("$text",2);
+X("header") = N("$text",2);
+X("up") = 1;
+X("level") = strlength(N("$text",1));
+"header.txt" << N("$text",2) << "\n";
+single();
+
+@RULES
+_header <-
+	_xWILD [min=2 match=(\=)]	### (1)
+	_xWILD [plus fail=(\=)]		### (2)
+	_xWILD [min=2 match=(\=)]	### (3)
+	@@
+
+@POST
+X("word",1) = N("$text",4);
+single();
+
+@RULES
+_word <-
+	\<		### (1)
+	title	### (2)
+	\>		### (3)
+	_xALPHA	### (4)
+	\<		### (5)
+	\/		### (6)
+	title	### (7)
+	\>		### (8)
+	@@
