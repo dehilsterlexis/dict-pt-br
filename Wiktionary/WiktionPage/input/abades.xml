@@ -1,25 +1,44 @@
-<title>abades</title>
-<ns>0</ns>
-<id>69181</id>
-<revision>
-<id>274613</id>
-<timestamp>2007-06-17T21:35:24Z</timestamp>
-<contributor>
-<username>Diabo e Santo</username>
-<id>1867</id>
-</contributor>
-<comment>[[Ajuda:Menus e funções/Sumário de edição#Sumário de edição automático|→]] nova página: =Português= [[Categoria:Substantivo (Português)]] [[Categoria:Verbo (Português)]] ==Verbo== '''...</comment>
-<model>wikitext</model>
-<format>text/x-wiki</format>
-<text bytes="315" xml:space="preserve">=Português=
-[[Categoria:Substantivo (Português)]]
-[[Categoria:Verbo (Português)]]
-==Verbo==
-'''abades''' ''verbo e substantivo''
-==Verbo==
-# [[segunda]] [[pessoa]] [[do]] [[singular]] [[do]] [[presente]] [[do]] [[subjuntivo]] [[do]] [[verbo]] '''[[abadar]]'''
-==Substantivo==
-# [[plural]] [[de]] '''[[abade]]'''</text>
-<sha1>399yg6srrkorr6n2dq16c992q9djs5t</sha1>
-</revision>
-<revision>
+<ns0:page xmlns:ns0="http://www.mediawiki.org/xml/export-0.10/">
+    <ns0:title>abades</ns0:title>
+    <ns0:ns>0</ns0:ns>
+    <ns0:id>69181</ns0:id>
+    <ns0:revision>
+      <ns0:id>2283392</ns0:id>
+      <ns0:parentid>2153968</ns0:parentid>
+      <ns0:timestamp>2017-04-27T04:45:08Z</ns0:timestamp>
+      <ns0:contributor>
+        <ns0:username>HydrizBot</ns0:username>
+        <ns0:id>29590</ns0:id>
+      </ns0:contributor>
+      <ns0:minor />
+      <ns0:comment>Rob&#244;: A limpar links interwikis antigos</ns0:comment>
+      <ns0:model>wikitext</ns0:model>
+      <ns0:format>text/x-wiki</ns0:format>
+      <ns0:text bytes="593" xml:space="preserve">={{-pt-}}=
+== Forma Verbal ==
+'''abades'''
+# [[segunda]] [[pessoa]] do [[singular]] do [[presente]] do [[subjuntivo]] de '''[[abadar]]'''.
+
+== Forma de substantivo ==
+'''abades'''
+# [[plural]] [[de]] '''[[abade]]'''.
+
+== Pron&#250;ncia ==
+=== Carioca ===
+* [[AFI]]: {{AFI|[a.&#712;ba.&#676;i&#643;]}}
+* [[X-SAMPA]]: /a.ba.dZiS/
+
+=== Paranaense ===
+* [[AFI]]: {{AFI|[a.&#712;ba.des]}}
+* [[X-SAMPA]]: /a.ba.des/
+*;ou
+* [[AFI]]: {{AFI|[a.&#712;ba.&#676;is]}}
+* [[X-SAMPA]]: /a.ba.dZis/
+
+[[Categoria:Forma de substantivo (Portugu&#234;s)]]
+[[Categoria:Forma verbal (Portugu&#234;s)]]
+[[Categoria:Entrada com pron&#250;ncia (Portugu&#234;s)]]</ns0:text>
+      <ns0:sha1>fbm7w7mr3izfhvvhwo7p5q1awi34g25</ns0:sha1>
+    </ns0:revision>
+  </ns0:page>
+  
