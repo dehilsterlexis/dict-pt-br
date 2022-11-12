@@ -71,7 +71,6 @@ for line in Lines:
     line = line.lstrip()
     if not collecting and line.startswith('<page>'):
         collecting = True
-        content += line
 
     if collecting:
         if line.startswith('<title>'):
@@ -80,6 +79,7 @@ for line in Lines:
 
         if line.startswith('</page>'):
             if portWord:
+                content += line
                 counter += 1
                 if counter % 1000 == 0:
                     print(str(counter) + ' ' + word)
