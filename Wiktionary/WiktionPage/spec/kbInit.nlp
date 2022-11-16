@@ -8,8 +8,11 @@
 
 @CODE
 
+L("debugpath") = G("$kbpath") + "debug.txt";
+G("debug") = openfile(L("debugpath"),"app");
+
 G("words") = findconcept(findroot(),"words");
 if (!G("words")) G("words") = makeconcept(findroot(),"words");
-rmchildren(G("words"));
+#rmchildren(G("words"));
 
 @@CODE

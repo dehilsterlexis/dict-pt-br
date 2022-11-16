@@ -1,5 +1,5 @@
 ###############################################
-# FILE: attributes
+# FILE: hasMeaning
 # SUBJ: comment
 # AUTH: David de Hilster
 # CREATED: 2022-11-7 15:39:40
@@ -8,14 +8,14 @@
 
 @PATH _ROOT _textZone _headerZone _LINE
 
-@POST X("pessoa",3) = N("pessoa");
+@POST X("pessoa",3) = X("pessoa",4); X("meaning",3) = 1;
 @RULES _xNIL <- _pessoa	@@
 
-@POST X("numero",3) = N("numero");
+@POST X("numero",3) = X("numero",4); X("meaning",3) = 1;
 @RULES _xNIL <- _numero	@@
 
-@POST X("tempo",3) = N("tempo");
+@POST X("tempo",3) = X("tempo",4); X("meaning",3) = 1;
 @RULES _xNIL <- _tempo	@@
 
-@POST X("root",3) = N("root");
+@POST X("root",3) = X("root",4); X("meaning",3) = 1;
 @RULES _xNIL <- _root	@@

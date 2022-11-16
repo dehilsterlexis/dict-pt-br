@@ -8,13 +8,13 @@ nlp	textZone	# comment
 nlp	notText	# comment
 nlp	onlyText	# comment
 nlp	Lines	# comment
+nlp	RemoveWhiteSpace	# comment
 nlp	words	# comment
 nlp	phrases	# comment
-nlp	RemoveWhiteSpace	# comment
 nlp	list	# comment
 nlp	headers	# comment
 nlp	ups	# comment
 nlp	headerZones	# comment
-nlp	hasMeaning	# comment
+nlp	attributes	# comment
 nlp	kbBuild	# comment
 nlp	output	# comment

@@ -6,14 +6,9 @@
 # MODIFIED:
 ###############################################
 
-@PATH _ROOT _textZone _headerZone _list
+@PATH _ROOT _textZone _LINE
 
-@POST
-if (strtolower(X("header",3)) == "substantivo") {
-	X("root",3) = N("$text",3);
-	X("numero",3) = N("$text",1);
-	single();
-}
+@POST X("root",3) = N("$text",3); X("numero",3) = N("$text",1); single();
 @RULES _numero <- _numero de _xALPHA @@
 
 @POST X("pessoa",3) = N("$text",1); single();

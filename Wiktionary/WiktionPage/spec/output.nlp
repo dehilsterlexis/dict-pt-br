@@ -8,6 +8,15 @@
 
 @CODE
 
-DisplayKB(G("words"),1);
+if (G("$islastfile")) {
+    G("debug") << "IS last: " << G("$inputhead") << "\n";
+    KBDump();
+    DisplayKB(G("words"),1);
+} else {
+    G("debug") << "NOT last: " << G("$inputhead") << "\n";
+}
+
+DisplayKBRecurse(G("debug"),G("words"),0,1);
+closefile(G("debug"));
 
 @@CODE

@@ -1,55 +1,135 @@
+<page>
 <title>eu</title>
 <ns>0</ns>
 <id>1058</id>
 <revision>
-<id>992</id>
-<timestamp>2004-08-05T20:28:27Z</timestamp>
+<id>2684517</id>
+<parentid>2669972</parentid>
+<timestamp>2022-07-25T23:50:14Z</timestamp>
 <contributor>
-<username>Leuadeque</username>
-<id>21</id>
+<username>ValJor</username>
+<id>1358</id>
 </contributor>
+<comment>Corrigindo nome do idioma: proto-indo-europeu --&gt; protoindo-europeu</comment>
 <model>wikitext</model>
 <format>text/x-wiki</format>
-<text bytes="158" xml:space="preserve">== Pronome Pessoal ==
-'''eu''' ''primeira pessoa do singular'', ''caso reto''
-
-:# Aquele que fala.
-
-== Pronúncia ==
-'''Brasileira: Paulistana'''
-* IPA: /'ew/</text>
-<sha1>eg58fr8f1021pmsl0f1g06m1my9rk0y</sha1>
+<text bytes="2796" xml:space="preserve">{{ver também|Eu|EU}}
+={{-pt-}}=
+==Pronome==
+{{oxítona|eu}}, ''primeira pessoa do singular'', ''caso reto''
+# usado por um ser para indicar a si próprio
+#* ''Que sei '''eu''' do que serei, '''eu''' que não sei o que sou?'' &lt;small&gt;Álvaro de Campos (Fernando Pessoa) in '''Tabacaria'''&lt;/small&gt;
+===Declinação===
+{{decl.pt.pronomepessoal}}
+===Tradução===
+{{tradini}}
+* {{trad|de|ich}}
+* {{t|ar|أنا||ána}}
+* {{trad|ae|ezēm}}
+* {{trad|nds|ik}}
+* {{trad|eu|ni}}
+* {{t|bn|আমি||ami}}
+* {{trad|bg|аз}}
+* {{trad|ca|jo}}
+* {{t|ccc|u'ti}}
+* {{trad|cs|já}}
+* {{trad|da|jeg}}
+* {{trad|sk|ja}}
+* {{trad|sl|jaz}}
+* {{trad|et|ma}}
+* {{trad|eo|mi}}
+* {{trad|en|I}}
+* {{trad|es|yo}}
+* {{trad|cod|ta}}
+* {{trad|fi|minä}}
+* {{trad|fj|au}}
+* {{trad|fr|je}}
+* {{trad|fy|ik}}
+* {{trad|gl|eu}}
+* {{t|ka|მე||me}}
+* {{t|el|εγώ||egó}}
+* {{trad|kl|uanga}}
+* {{trad|gn|che}}
+* {{t|he|אני||ani}}
+* {{trad|nl|ik}}
+* {{trad|hu|én}}
+{{tradmeio}}
+* {{trad|id|saya|aku}}
+* {{trad|ia|io}}
+* {{trad|ie|yo}}
+* {{trad|io|me}}
+* {{trad|is|ég}}
+* {{trad|it|io}}
+* {{trad|ja|私|俺|僕}}
+* {{trad|la|ego}}
+* {{t|lzz|მა||ma}}
+* {{trad|jbo|pami}}
+* {{trad|mk|jас}}
+* {{trad|ms|aku}}
+* {{trad|mnc|bi}}
+* {{t|xmf|მა||ma}}
+* {{trad|mwl|you}}
+* {{trad|no|jeg}}
+* {{trad|oc|ieu|jo}}
+* {{trad|fa|من}}
+* {{trad|pl|ja}}
+* {{trad|qu|ñuqa}}
+* {{trad|ru|я}}
+* {{trad|sv|jag}}
+* {{trad|sw|mimi}}
+* {{trad|tg|ман}}
+* {{trad|tpi|mi}}
+* {{trad|tu|xe}}
+* {{trad|tr|ben}}
+* {{trad|ur|میں}}
+* {{trad|vo|ob}}
+{{tradfim}}
+===Verbetes derivados===
+* [[d'eu]]
+==Substantivo==
+{{oxítona|eu}}, {{flex.pt|ms=eu|mp=eus}}
+# derivação imprópria do pronome pessoal, significa [[personalidade]]
+#* '''Nota:''' requer artigo.
+=={{etimologia|pt}}==
+{{llietimo|la|ego|pt}} Derivado da raiz do [[protoindo-europeu]] *éǵh₂ ou *eǵoH.
+=={{pronúncia|pt}}==
+===Brasil===
+====Paulistana e Caipira====
+* [[AFI]]: {{AFI|/ˈew/}}
+* [[X-SAMPA]]: /ew/
+===Portugal===
+* AFI: {{AFI|/ˈew/}}
+[[Categoria:Pronome (Português)]]
+[[Categoria:Substantivo (Português)]]
+[[Categoria:Monossílabo (Português)]]
+={{-roa-brg-}}=
+==Substantivo==
+'''eu'''
+# [[ovo]]
+[[Categoria:Substantivo (Borgonhês)]]
+={{-fr-}}=
+==Forma verbal==
+'''eu'''
+# [[tido]], particípio passado do verbo [[avoir]]
+{{avi-for-fle|avoir}}
+=={{pronúncia|fr}}==
+* [[AFI]]: {{AFI|/y/}}
+* [[X-SAMPA]]: /y/
+[[Categoria:Forma verbal (Francês)]]
+[[Categoria:Monossílabo (Francês)]]
+[[Categoria:Falso cognato (Francês)]]
+={{-ro-}}=
+==Pronome==
+'''eu''', ''pessoal reto''
+# [[eu#{{pt}}|eu]], primeira pessoa do singular
+=={{etimologia|ro}}==
+{{llietimo|la|ego|ro}}
+=={{pronúncia|ro}}==
+* [[AFI]]: {{AFI|/ˈjew/}}
+* [[X-SAMPA]]: /jew/
+* {{áudio|Ro-eu.ogg|audio|lang=ro}}
+[[Categoria:Pronome (Romeno)]]
+[[Categoria:Monossílabo (Romeno)]]</text>
+<sha1>ijvqnmgtja8rq8bi8yjivmrhtcdn3pd</sha1>
 </revision>
-<revision>
-<id>1552</id>
-<parentid>992</parentid>
-<timestamp>2004-08-19T02:00:53Z</timestamp>
-<contributor>
-<username>Diego UFCG</username>
-<id>34</id>
-</contributor>
-<model>wikitext</model>
-<format>text/x-wiki</format>
-<text bytes="172" xml:space="preserve">== Pronome Pessoal ==
-'''eu''' ''primeira pessoa do singular'', ''caso reto''
-
-:# Aquele que fala.
-
-== Pronúncia ==
-'''Brasileira: Paulistana'''
-* IPA: /'ew/
-* SAMPA: /ew/</text>
-<sha1>nps1c8iz0zhsip6hv7uy1b6vckzh8mu</sha1>
-</revision>
-<revision>
-<id>1553</id>
-<parentid>1552</parentid>
-<timestamp>2004-09-16T21:06:50Z</timestamp>
-<contributor>
-<username>Leuadeque</username>
-<id>21</id>
-</contributor>
-<minor />
-<comment>/* Pronúncia */  De IPA pra AFI</comment>
-<model>wikitext</model>
-<format>text/x-wiki</format>
+</page>
