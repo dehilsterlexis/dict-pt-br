@@ -9,7 +9,7 @@
 @DECL
 
 AddWord(L("word"),L("node")) {
-    L("pos") = POS(strtolower(pnvar(L("node"),"header")));
+    L("pos") = PosStr(strtolower(pnvar(L("node"),"header")));
     if (L("pos") && pnvar(L("node"),"meaning")) {
         "add.txt" << L("word") << "\n";
         L("con") = AddUniqueCon(G("words"),L("word"));
@@ -32,33 +32,71 @@ AddWordAttr(L("meaning"),L("attr"),L("node")) {
     }
 }
 
-POS(L("word")) {
-    if (strcontainsnocase(L("word"),"verbo")) {
+PosStr(L("word")) {
+    if (!L("word")) {
+        return 0;
+    }
+    if (strcontainsnocase("verbal",L("word")) || strcontainsnocase("verbo",L("word"))) {
         return "v";
     }
-    else if (strcontainsnocase(L("word"),"substantivo")) {
+    else if (strcontainsnocase("substantivo",L("word"))) {
         return "n";
     }
-    else if (strcontainsnocase(L("word"),"adjetivo")) {
-        return "n";
+    else if (strcontainsnocase("adjetivo",L("word"))) {
+        return "adj";
     }
-    else if (strcontainsnocase(L("word"),"advérbio")) {
-        return "n";
+    else if (strcontainsnocase("advérbio",L("word"))) {
+        return "adv";
     }
-    else if (strcontainsnocase(L("word"),"pronome")) {
+    else if (strcontainsnocase("pronome",L("word"))) {
         return "pro";
     }
-    else if (strcontainsnocase(L("word"),"preposição")) {
+    else if (strcontainsnocase("preposição",L("word"))) {
         return "prep";
     }
-    else if (strcontainsnocase(L("word"),"artigo")) {
+    else if (strcontainsnocase("artigo",L("word"))) {
         return "det";
     }
-    else if (strcontainsnocase(L("word"),"interjeição")) {
+    else if (strcontainsnocase("interjeição",L("word"))) {
         return "det";
     }
-    else if (strcontainsnocase(L("word"),"conjunção")) {
+    else if (strcontainsnocase("conjunção",L("word"))) {
         return "conj";
+    }
+    return 0;
+}
+
+KBDump() {
+    L("word") = down(G("words"));
+    if (G("$isdirrun")) {
+        L("filename") = G("$apppath") + "kb\\user\\" + G("$inputparent") + ".dict";
+    } else {
+        L("filename") = G("$apppath") + "kb\\user\\" + G("$inputname") + ".dict";
+    }
+    G("debug") << L("filename") << "\n";
+    
+    L("dict") = openfile(L("filename"),1);
+    while (L("word")) {
+        L("meaning") = down(L("word"));
+        while (L("meaning")) { 
+            L("dict") << conceptname(L("word"));
+            AddWordAttribute(L("dict"),L("meaning"),"pos");
+            AddWordAttribute(L("dict"),L("meaning"),"root");
+            AddWordAttribute(L("dict"),L("meaning"),"pessoa");
+            AddWordAttribute(L("dict"),L("meaning"),"numero");
+            AddWordAttribute(L("dict"),L("meaning"),"tempo");
+            L("dict") << "\n";
+            L("meaning") = next(L("meaning"));
+        }
+        L("word") = next(L("word"));
+    }
+    closefile(L("dict"));
+}
+
+AddWordAttribute(L("file"),L("meaning"),L("attr")) {
+    L("val") = strval(L("meaning"),L("attr"));
+    if (L("val")) {
+        L("file") << " " << L("attr") << "=" << L("val");
     }
 }
 

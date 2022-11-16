@@ -6,7 +6,7 @@
 # MODIFIED:
 ###############################################
 
-@PATH _ROOT _textZone _headerZone _list
+@PATH _ROOT _textZone _LINE
 
 @RULES _pessoa <- _xWILD [one match=(primeira segunda terceira)] @@
 @RULES _numero <- _xWILD [one match=(singular plural)] @@
