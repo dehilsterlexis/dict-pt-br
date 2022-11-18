@@ -14,6 +14,6 @@ single();
 
 @RULES
 _headerZone <-
-	_header							### (1)
-	_xWILD [fail=(_header _xEND)]	### (2)
-	@@
+	_header									### (1)
+	_xWILD [fail=(_header _language _xEND)]	### (2)
+	@@										### (3)

@@ -8,14 +8,15 @@
 
 @DECL
 
-AddWord(L("word"),L("node")) {
+AddWord(L("word"),L("lang"),L("node")) {
     L("pos") = PosStr(strtolower(pnvar(L("node"),"header")));
-    if (L("pos") && pnvar(L("node"),"meaning")) {
-        "add.txt" << L("word") << "\n";
+    "add.txt" << L("word") << " " << L("pos") << "\n";
+    if (L("pos")) {
         L("con") = AddUniqueCon(G("words"),L("word"));
         L("meaning") = MakeCountCon(L("con"),"meaning");
 
         AddUniqueStr(L("meaning"),"pos",L("pos"));
+        AddUniqueStr(L("meaning"),"lang",L("lang"));
 
         AddWordAttr(L("meaning"),"root",L("node"));
         AddWordAttr(L("meaning"),"pessoa",L("node"));
@@ -69,9 +70,9 @@ PosStr(L("word")) {
 KBDump() {
     L("word") = down(G("words"));
     if (G("$isdirrun")) {
-        L("filename") = G("$apppath") + "kb\\user\\" + G("$inputparent") + ".dict";
+        L("filename") = G("$kbpath") + G("$inputparent") + ".dict";
     } else {
-        L("filename") = G("$apppath") + "kb\\user\\" + G("$inputname") + ".dict";
+        L("filename") = G("$kbpath") + G("$inputhead") + ".dict";
     }
     G("debug") << L("filename") << "\n";
     
@@ -81,6 +82,7 @@ KBDump() {
         while (L("meaning")) { 
             L("dict") << conceptname(L("word"));
             AddWordAttribute(L("dict"),L("meaning"),"pos");
+            AddWordAttribute(L("dict"),L("meaning"),"lang");
             AddWordAttribute(L("dict"),L("meaning"),"root");
             AddWordAttribute(L("dict"),L("meaning"),"pessoa");
             AddWordAttribute(L("dict"),L("meaning"),"numero");
