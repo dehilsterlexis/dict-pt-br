@@ -22,6 +22,9 @@ AddWord(L("word"),L("lang"),L("node")) {
         AddWordAttr(L("meaning"),"pessoa",L("node"));
         AddWordAttr(L("meaning"),"numero",L("node"));
         AddWordAttr(L("meaning"),"tempo",L("node"));
+    } else {
+        # Word with no part of speech
+        G("debug") << L("word") << " " << L("lang") << " <-- No POS\n";
     }
 }
 
@@ -70,13 +73,19 @@ PosStr(L("word")) {
 KBDump() {
     L("word") = down(G("words"));
     if (G("$isdirrun")) {
-        L("filename") = G("$kbpath") + G("$inputparent") + ".dict";
+        L("dictfile") = G("$kbpath") + G("$inputparent") + ".dict";
+        L("kbbfile") = G("$kbpath") + G("$inputparent") + ".kbb";
     } else {
-        L("filename") = G("$kbpath") + G("$inputhead") + ".dict";
+        L("dictfile") = G("$kbpath") + G("$inputhead") + ".dict";
+        L("kbbfile") = G("$kbpath") + G("$inputhead") + ".kbb";
     }
-    G("debug") << L("filename") << "\n";
-    
-    L("dict") = openfile(L("filename"),1);
+
+    L("dict") = openfile(L("dictfile"),1);
+    L("kbb") = openfile(L("kbbfile"),1);
+
+    DisplayKBRecurse(L("kbb"),G("words"),0,1);
+    closefile(L("kbb"));
+
     while (L("word")) {
         L("meaning") = down(L("word"));
         while (L("meaning")) { 
