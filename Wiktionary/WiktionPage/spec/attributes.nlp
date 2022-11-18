@@ -8,6 +8,9 @@
 
 @PATH _ROOT _textZone _headerZone _LINE
 
+@POST X("lang") = N("lang");
+@RULES _xNIL <- _langauge @@
+
 @POST X("pessoa",3) = X("pessoa",4); X("meaning",3) = 1;
 @RULES _xNIL <- _pessoa	@@
 

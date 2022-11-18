@@ -2,6 +2,8 @@ tokenize	nil	# Gen:   Convert input to token list
 nlp	kbInit	# comment
 nlp	KBFuncs	# comment
 nlp	funcs	# comment
+nlp	tagsSpaces	# comment
+nlp	tagsSpacesTwo	# comment
 nlp	removes	# comment
 nlp	tags	# comment
 nlp	textZone	# comment
@@ -16,5 +18,6 @@ nlp	headers	# comment
 nlp	ups	# comment
 nlp	headerZones	# comment
 nlp	attributes	# comment
+nlp	languageZone	# comment
 nlp	kbBuild	# comment
 nlp	output	# comment

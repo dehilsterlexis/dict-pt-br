@@ -1,17 +1,15 @@
 ###############################################
-# FILE: kbBuild
+# FILE: languageZone
 # SUBJ: comment
 # AUTH: David de Hilster
-# CREATED: 2022-11-7 14:31:27
+# CREATED: 2022-11-18 8:10:28
 # MODIFIED:
 ###############################################
 
-@PATH _ROOT _textZone _languageZone
-
-@POST
-AddWord(X("word",1),X("language",3),N(1));
+@PATH _ROOT _textZone
 
 @RULES
-_xNIL <-
-	_headerZone	### (1)
+_languageZone <-
+	_language					### (1)
+	_xWILD [match=(_headZone)]	### (2)
 	@@

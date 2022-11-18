@@ -14,7 +14,16 @@ excise(1,1);
 noop();
 
 @RULES
-
 _xNIL <-
     _xWHITE [s] ### (1)
+    @@
+
+
+@POST
+X("up",3) = 1;
+"found.txt" << "this\n";
+
+@RULES
+_xNIL <-
+    _language [s] ### (1)
     @@
