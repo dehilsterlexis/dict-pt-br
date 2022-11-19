@@ -9,7 +9,8 @@
 @DECL
 
 AddWord(L("word"),L("lang"),L("node")) {
-    L("pos") = PosStr(strtolower(pnvar(L("node"),"header")));
+    L("header") = strtolower(pnvar(L("node"),"header"));
+    L("pos") = PosStr(L("header"));
     "add.txt" << L("word") << " " << L("pos") << "\n";
     if (L("pos")) {
         L("con") = AddUniqueCon(G("words"),L("word"));
@@ -22,10 +23,88 @@ AddWord(L("word"),L("lang"),L("node")) {
         AddWordAttr(L("meaning"),"pessoa",L("node"));
         AddWordAttr(L("meaning"),"numero",L("node"));
         AddWordAttr(L("meaning"),"tempo",L("node"));
+
+    } else if (L("header") == "conjugação") {
+        L("verb") = pnvar(L("node"),"verb");
+        L("stem") = pnvar(L("node"),"stem");
+        "stem.txt" << L("stem") << "\n";
+        if (L("verb") == "ar") {
+            AddVerbAr(L("stem"));
+        } else if (L("verb") == "er") {
+            AddVerbEr(L("stem"));            
+        } else if (L("verb") == "ir") {
+            AddVerbIr(L("stem"));
+        }
     } else {
         # Word with no part of speech
         G("debug") << L("word") << " " << L("lang") << " <-- No POS\n";
     }
+}
+
+###############################################
+# https://www.conjugacao.com.br/verbo-brincar/
+###############################################
+
+AddVerbAr(L("stem")) {
+    AddConjugation(L("stem"),"o","primeira","singular","presente");
+    AddConjugation(L("stem"),"as","segunda","singular","presente");
+    AddConjugation(L("stem"),"a","terceira","singular","presente");
+    AddConjugation(L("stem"),"amos","primeira","plural","presente");
+    AddConjugation(L("stem"),"ais","segunda","plural","presente");
+    AddConjugation(L("stem"),"am","terceira","plural","presente");
+
+    AddConjugation(L("stem"),"ava","primeira","singular","pretérito imperfeito");
+    AddConjugation(L("stem"),"avas","segunda","singular","pretérito imperfeito");
+    AddConjugation(L("stem"),"ava","terceira","singular","pretérito imperfeito");
+    AddConjugation(L("stem"),"ávamos","primeira","plural","pretérito imperfeito");
+    AddConjugation(L("stem"),"ávais","segunda","plural","pretérito imperfeito");
+    AddConjugation(L("stem"),"avam","terceira","plural","pretérito imperfeito");
+
+    if (strendswith(L("stem"),"c")) {
+        L("suf") = "quei";
+    } else {
+        L("suf") = "cei";
+    }
+    
+    AddConjugation(L("stem"),L("suf"),"primeira","singular","pretérito imperfeito");
+    AddConjugation(L("stem"),"aste","segunda","singular","pretérito imperfeito");
+    AddConjugation(L("stem"),"ou","terceira","singular","pretérito imperfeito");
+    AddConjugation(L("stem"),"amos","primeira","plural","pretérito imperfeito");
+    AddConjugation(L("stem"),"astes","segunda","plural","pretérito imperfeito");
+    AddConjugation(L("stem"),"aram","terceira","plural","pretérito imperfeito");
+
+    AddConjugation(L("stem"),"ara","primeira","singular","pretérito mais-que-perfeito");
+    AddConjugation(L("stem"),"aras","segunda","singular","pretérito mais-que-perfeito");
+    AddConjugation(L("stem"),"ara","terceira","singular","pretérito mais-que-perfeito");
+    AddConjugation(L("stem"),"áramos","primeira","plural","pretérito mais-que-perfeito");
+    AddConjugation(L("stem"),"áreis","segunda","plural","pretérito mais-que-perfeito");
+    AddConjugation(L("stem"),"aram","terceira","plural","pretérito mais-que-perfeito");
+    
+    AddConjugation(L("stem"),"arei","primeira","singular","futuro do presente");
+    AddConjugation(L("stem"),"arás","segunda","singular","futuro do presente");
+    AddConjugation(L("stem"),"ará","terceira","singular","futuro do presente");
+    AddConjugation(L("stem"),"aremos","primeira","plural","futuro do presente");
+    AddConjugation(L("stem"),"areis","segunda","plural","futuro do presente");
+    AddConjugation(L("stem"),"arão","terceira","plural","futuro do presente");
+
+    AddConjugation(L("stem"),"aria","primeira","singular","futuro do pretérito");
+    AddConjugation(L("stem"),"arias","segunda","singular","futuro do pretérito");
+    AddConjugation(L("stem"),"aria","terceira","singular","futuro do pretérito");
+    AddConjugation(L("stem"),"aríamos","primeira","plural","futuro do pretérito");
+    AddConjugation(L("stem"),"aríeis","segunda","plural","futuro do pretérito");
+    AddConjugation(L("stem"),"ariam","terceira","plural","futuro do pretérito");
+}
+
+AddConjugation(L("stem"),L("suffix"),L("pessoa"),L("numero"),L("tempo")) {
+    L("root") = L("stem") + "ar";
+    L("word") = L("stem") + L("suffix");
+    L("con") = AddUniqueCon(G("words"),L("word"));
+    L("meaning") = MakeCountCon(L("con"),"meaning");
+    AddUniqueStr(L("meaning"),"pos","v");
+    AddUniqueStr(L("meaning"),"root",L("root"));
+    AddUniqueStr(L("meaning"),"pessoa",L("pessoa"));
+    AddUniqueStr(L("meaning"),"numero",L("numero"));
+    AddUniqueStr(L("meaning"),"tempo",L("tempo"));
 }
 
 AddWordAttr(L("meaning"),L("attr"),L("node")) {
