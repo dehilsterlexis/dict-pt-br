@@ -1,0 +1,41 @@
+<page>
+<title>espedir</title>
+<ns>0</ns>
+<id>106706</id>
+<revision>
+<id>2584268</id>
+<parentid>2343404</parentid>
+<timestamp>2020-03-29T19:34:13Z</timestamp>
+<contributor>
+<username>ValJor</username>
+<id>1358</id>
+</contributor>
+<comment>Verbete [[:Categoria:!Página com idioma não informado em Predefinição:etimologia|sem indicação do idioma na seção de etimologia]]</comment>
+<model>wikitext</model>
+<format>text/x-wiki</format>
+<text bytes="447" xml:space="preserve">{{confundir|expedir}}
+={{-pt-}}=
+==Verbo==
+{{oxítona|es|pe|dir}}
+# ver [[despedir]]
+===Conjugação===
+{{conj/pt|esp|edir}}
+=={{etimologia|pt}}==
+{{llietimo|la|expedire|pt|expedīre}}
+==Ligações externas==
+* {{Aulete}}
+* {{Michaelis}}
+* {{DicioAberto}}
+* {{DPLP}}
+* {{Infopédia}}
+* {{PLP}}
+* {{VOLPABL}}
+==Anagramas==
+&lt;!-- índice para anagramas: pt: deeiprs --&gt;
+# [[pedires]]
+# [[perdeis]]
+# [[preside]]
+[[Categoria:Verbo (Português)]]</text>
+<sha1>l2flbmjquej3t2uhg3e8zh28paho17c</sha1>
+</revision>
+</page>

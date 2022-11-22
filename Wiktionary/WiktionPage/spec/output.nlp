@@ -10,7 +10,9 @@
 
 if (G("$islastfile")) {
     KBDump();
+    DisplayKB(G("stats"),1);
     DisplayKB(G("words"),1);
+    G("debug") << "Conjugations: " << str(G("conju")) << "\n";
 }
 
 closefile(G("debug"));

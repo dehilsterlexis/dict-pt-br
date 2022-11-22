@@ -15,4 +15,12 @@ G("words") = findconcept(findroot(),"words");
 if (!G("words")) G("words") = makeconcept(findroot(),"words");
 #rmchildren(G("words"));
 
+G("stats") = findconcept(findroot(),"stats");
+if (!G("stats")) G("stats") = makeconcept(findroot(),"stats");
+#rmchildren(G("stats"));
+
+G("conjugations") = findconcept(findroot(),"conjugations");
+if (!G("conjugations")) G("conjugations") = makeconcept(findroot(),"conjugations");
+#rmchildren(G("conjugations"));
+
 @@CODE
