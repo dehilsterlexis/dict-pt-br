@@ -9,20 +9,19 @@
 @DECL
 
 AddWord(L("word"),L("lang"),L("node")) {
+    if (L("lang") != "pt") {
+        return;
+    }
     L("header") = strtolower(pnvar(L("node"),"header"));
     L("pos") = PosStr(L("header"));
     "add.txt" << L("word") << " " << L("pos") << "\n";
     if (L("pos")) {
         L("con") = AddUniqueCon(G("words"),L("word"));
-        L("meaning") = MakeCountCon(L("con"),"meaning");
 
-        AddUniqueStr(L("meaning"),"pos",L("pos"));
-        AddUniqueStr(L("meaning"),"lang",L("lang"));
-
-        AddWordAttr(L("meaning"),"root",L("node"));
-        AddWordAttr(L("meaning"),"pessoa",L("node"));
-        AddWordAttr(L("meaning"),"numero",L("node"));
-        AddWordAttr(L("meaning"),"tempo",L("node"));
+        AddMeaning(L("con"),L("pos"),L("lang"),L("node"),"pessoa");
+        if (pnvar(L("node"),"pessoa2")) {
+            AddMeaning(L("con"),L("pos"),L("lang"),L("node"),"pessoa2");
+        }
 
     } else if (L("header") == "conjugação") {
         L("verb") = pnvar(L("node"),"verb");
@@ -41,10 +40,67 @@ AddWord(L("word"),L("lang"),L("node")) {
         } else if (L("verb") == "ir") {
             AddVerbIr(L("stem"));
         }
-    } else {
+    } else if (L("lang") == "pt") {
         # Word with no part of speech
         G("debug") << L("word") << " " << L("lang") << " <-- No POS\n";
     }
+}
+
+AddMeaning(L("con"),L("pos"),L("lang"),L("node"),L("pessoa")) {
+    L("meaning") = MakeCountCon(L("con"),"meaning");
+
+    AddUniqueStr(L("meaning"),"pos",L("pos"));
+    AddUniqueStr(L("meaning"),"lang",L("lang"));
+
+    AddWordAttr(L("meaning"),"root",L("node"));
+    AddWordAttr(L("meaning"),L("pessoa"),L("node"));
+    AddWordAttr(L("meaning"),"numero",L("node"));
+    AddWordAttr(L("meaning"),"tempo",L("node"));
+}
+
+AddWordAttr(L("meaning"),L("attr"),L("node")) {
+    L("at") = pnvar(L("node"),L("attr"));
+    if (L("at")) {
+        L("at") = VerbAttribute(L("at"));
+        if (L("attr") == "pessoa2") {
+            L("attr") = "pessoa";
+        }
+        AddUniqueStr(L("meaning"),L("attr"),L("at"));
+    }
+}
+
+VerbAttribute(L("attr")) {
+    "attr.txt" << L("attr") << "\n";
+    if (L("attr") == "plural") {
+        return "p";
+    } else if (L("attr") == "singular") {
+        return "s";            
+    } else if (L("attr") == "primeira" || L("attr") == "primeiro") {
+        return "p";            
+    } else if (L("attr") == "segunda" || L("attr") == "segundo") {
+        return "s";            
+    } else if (L("attr") == "terceira") {
+        return "t";            
+    } else if (L("attr") == "presente") {
+        return "p"; 
+    } else if (L("attr") == "pretérito imperfeito") {
+        return "pi"; 
+    } else if (L("attr") == "pretérito perfeito") {
+        return "pp"; 
+    } else if (L("attr") == "pretérito mais-que-perfeito") {
+        return "pm"; 
+    } else if (L("attr") == "futuro do presente" || L("attr") == "futuro") {
+        return "f"; 
+    } else if (L("attr") == "futuro do pretérito") {
+        return "fp"; 
+    } else if (L("attr") == "presente de subjuntivo") {
+        return "ps"; 
+    } else if (L("attr") == "pretérito imperfeito de subjuntivo") {
+        return "pis"; 
+    } else if (L("attr") == "futuro de subjuntivo") {
+        return "fs"; 
+    }
+    return L("attr");
 }
 
 ###############################################
@@ -279,17 +335,9 @@ AddConjugation(L("stem"),L("suffix"),L("pessoa"),L("numero"),L("tempo")) {
     AddUniqueStr(L("meaning"),"pos","v");
     AddUniqueStr(L("meaning"),"lang","pt");
     AddUniqueStr(L("meaning"),"root",L("root"));
-    AddUniqueStr(L("meaning"),"pessoa",L("pessoa"));
-    AddUniqueStr(L("meaning"),"numero",L("numero"));
-    AddUniqueStr(L("meaning"),"tempo",L("tempo"));
-}
-
-AddWordAttr(L("meaning"),L("attr"),L("node")) {
-    L("at") = pnvar(L("node"),L("attr"));
-    if (L("at")) {
-        "at.txt" << conceptpath(L("meaning")) << " -- " << L("attr") << " " << L("at") << "\n";
-        AddUniqueStr(L("meaning"),L("attr"),L("at"));
-    }
+    AddUniqueStr(L("meaning"),"pessoa",VerbAttribute(L("pessoa")));
+    AddUniqueStr(L("meaning"),"numero",VerbAttribute(L("numero")));
+    AddUniqueStr(L("meaning"),"tempo",VerbAttribute(L("tempo")));
 }
 
 PosStr(L("word")) {
@@ -339,7 +387,7 @@ KBDump() {
     L("dict") = openfile(L("dictfile"),1);
     L("kbb") = openfile(L("kbbfile"),1);
 
-    DisplayKBRecurse(L("kbb"),G("words"),0,1);
+    DisplayKBRecurse(L("kbb"),G("words"),0,2);
     closefile(L("kbb"));
 
     while (L("word")) {

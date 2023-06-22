@@ -8,10 +8,10 @@
 
 @CODE
 
-if (G("$islastfile")) {
+if (G("$islastfile") || !G("$isdirrun")) {
     KBDump();
-    DisplayKB(G("stats"),1);
-    DisplayKB(G("words"),1);
+    SaveToKB("stats",G("stats"),1);
+    SaveKB("words",G("words"),1);
     G("debug") << "Conjugations: " << str(G("conju")) << "\n";
 }
 
