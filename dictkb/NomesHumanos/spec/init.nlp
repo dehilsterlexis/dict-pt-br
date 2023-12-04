@@ -1,0 +1,14 @@
+###############################################
+# FILE: init
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-12-3 10:38:53
+# MODIFIED:
+###############################################
+
+@CODE
+
+G("dict") = "pt-nomes.dict";
+G("kb") = getconcept(findroot(),"kb");
+
+@@CODE

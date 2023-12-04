@@ -1,0 +1,16 @@
+###############################################
+# FILE: init
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-12-3 9:9:11
+# MODIFIED:
+###############################################
+
+@CODE
+
+G("dict") = "estados.dict";
+G("estados") = getconcept(findroot(),"estados");
+G("completo") = getconcept(G("estados"),"completo");
+G("abrev") = getconcept(G("estados"),"abrev");
+
+@@CODE

@@ -1,0 +1,24 @@
+###############################################
+# FILE: tabs
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-11-30 20:43:59
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@POST
+X("con",2) = getconcept(G("kb"),strtolower(N("$text",4)));
+L("gen") = "f";
+if (N("$text",2) == "Masculinos") L("gen") = "m";
+addstrval(X("con",2),"genero",L("gen"));
+
+@RULES
+_xNIL <-
+	_xSTART				### (1)
+	_xWILD [fail=(\t)]	### (2)
+	\t					### (3)
+	_xWILD [plus]		### (4)
+	_xEND				### (5)
+	@@

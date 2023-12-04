@@ -1,0 +1,37 @@
+###############################################
+# FILE: output
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-11-30 21:20:45
+# MODIFIED:
+###############################################
+
+@NODES _ROOT
+
+@POST
+G("dict") << N("palavra");
+if (N("num") && N("num") != "000")
+	G("dict") << " num=" << N("num");
+if (N("potencia"))
+	G("dict") << " " << "potencia=" << N("potencia");
+G("dict") << " " << G("type") << "=1";
+G("dict") << " numero=1\n";
+@RULES
+_xNIL <-
+	_LINE	### (1)
+	@@
+
+@POST
+G("type") = "cardinal";
+@RULES
+_xNIL <-
+	_cardinal	### (1)
+	@@
+
+@POST
+G("type") = "ordinal";
+G("dict") << "\n# Numeros ordinais\n";
+@RULES
+_xNIL <-
+	_ordinal	### (1)
+	@@

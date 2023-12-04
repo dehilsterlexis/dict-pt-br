@@ -1,0 +1,40 @@
+###############################################
+# FILE: pontoVirgula
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-12-3 8:42:54
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@POST
+
+X("completo",2) = getconcept(G("completo"),strtolower(N("$text",4)));
+addnumval(X("completo",2),"ibge",num(N("$text",2)));
+addstrval(X("completo",2),"abrev",strtolower(N("$text",6)));
+L("reg") = strsubst(strtolower(N("$text",8)),"região ",0);
+addstrval(X("completo",2),"regiao",L("reg"));
+addnumval(X("completo",2),"mun",num(N("$text",10)));
+
+X("abrev",2) = getconcept(G("abrev"),strtolower(N("$text",6)));
+addstrval(X("abrev",2),"completo",N("$text",4));
+addnumval(X("abrev",2),"ibge",num(N("$text",2)));
+addstrval(X("abrev",2),"regiao",L("reg"));
+
+@RULES
+_xNIL <-
+	_xSTART				### (1)
+	_xWILD [fail=(\;)]	### (2)
+	\;					### (3)
+	_xWILD [fail=(\;)]	### (4)
+	\;					### (5)
+	_xWILD [fail=(\;)]	### (6)
+	\;					### (7)
+	_xWILD [fail=(\;)]	### (8)
+	\;					### (9)
+	_xWILD [fail=(\;)]	### (10)
+	\;					### (11)
+	_xWILD [fail=(\;)]	### (12)
+	\;					### (13)
+	@@

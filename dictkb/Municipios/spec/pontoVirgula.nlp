@@ -1,0 +1,45 @@
+###############################################
+# FILE: pontoVirgula
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-12-3 8:42:54
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@POST
+
+X("con",2) = getconcept(G("kb"),strtolower(N("$text",2)));
+addnumval(X("con",2),"ibge",num(N("$text",4)));
+addnumval(X("con",2),"ibges",num(N("$text",6)));
+addstrval(X("con",2),"estado",strtolower(N("$text",8)));
+addstrval(X("con",2),"mun",strtolower(N("$text",10)));
+L("reg") = strsubst(strtolower(N("$text",12)),"região ",0);
+addstrval(X("con",2),"regiao",L("reg"));
+if (N(14)) addnumval(X("con",2),"pop",num(N("$text",14)));
+addstrval(X("con",2),"porte",strtolower(N("$text",16)));
+if (N(18)) addstrval(X("con",2),"capital",strtolower(N("$text",18)));
+
+@RULES
+_xNIL <-
+	_xSTART				### (1)
+	_xWILD [fail=(\;)]	### (2)
+	\;					### (3)
+	_xWILD [fail=(\;)]	### (4)
+	\;					### (5)
+	_xWILD [fail=(\;)]	### (6)
+	\;					### (7)
+	_xWILD [fail=(\;)]	### (8)
+	\;					### (9)
+	_xWILD [fail=(\;)]	### (10)
+	\;					### (11)
+	_xWILD [fail=(\;)]	### (12)
+	\;					### (13)
+	_xWILD [fail=(\;)]	### (14)
+	\;					### (15)
+	_xWILD [fail=(\;)]	### (16)
+	\;					### (17)
+	_xWILD [fail=(\;)]	### (18)
+	\;					### (19)
+	@@

@@ -1,0 +1,27 @@
+###############################################
+# FILE: output
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-12-3 9:46:27
+# MODIFIED:
+###############################################
+
+@CODE
+
+G("dict") << "# Municipios do Brasil\n";
+
+sortchilds(G("kb"));
+SaveKB("municipio.kbb",G("kb"),2);
+
+L("mun") = down(G("kb"));
+
+while (L("mun")) {
+	G("dict") << conceptname(L("mun"));
+    G("dict") << " estado=" << strval(L("mun"),"estado");
+    G("dict") << " ibges=" << numval(L("mun"),"ibges");
+    G("dict") << " regiao=" << QuoteIfNeeded(strval(L("mun"),"regiao"));
+    G("dict") << " municipio=1\n";
+	L("mun") = next(L("mun"));
+}
+
+@@CODE

@@ -1,0 +1,23 @@
+###############################################
+# FILE: output
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-11-30 21:20:45
+# MODIFIED:
+###############################################
+
+@CODE
+
+G("dict") << "# Nomes comuns de pessoas\n";
+
+sortchilds(G("kb"));
+SaveKB("pt-nomes.kbb",G("kb"),2);
+
+L("nome") = down(G("kb"));
+
+while (L("nome")) {
+	G("dict") << conceptname(L("nome")) << " genero=" << strval(L("nome"),"genero") << " pessoa=1\n";
+	L("nome") = next(L("nome"));
+}
+
+@@CODE
