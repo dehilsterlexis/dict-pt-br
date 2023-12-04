@@ -1,0 +1,35 @@
+###########################L("log")####################
+# FILE: output
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-11-30 20:51:37
+# MODIFIED:
+###############################################
+
+@CODE
+
+sortchilds(G("completo"));
+sortchilds(G("abrev"));
+SaveKB("lograouro.kbb",G("logradouro"),2);
+
+G("dict") << "# Lograouro para enderços\n";
+
+L("abrev") = down(G("abrev"));
+while (L("abrev")) {
+	G("dict") << conceptname(L("abrev"));
+    G("dict") << " completo=" << QuoteIfNeeded(strval(L("abrev"),"completo"));
+    G("dict") << " logradouro=1\n";
+	L("abrev") = next(L("abrev"));
+}
+
+G("dict") << "\n# Frases completos\n";
+
+L("completo") = down(G("completo"));
+while (L("completo")) {
+	G("dict") << conceptname(L("completo"));
+    G("dict") << " abrev=" << conceptname(L("completo"));
+    G("dict") << " logradouro=1\n";
+	L("completo") = next(L("completo"));
+}
+
+@@CODE

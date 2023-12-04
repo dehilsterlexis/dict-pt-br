@@ -1,0 +1,13 @@
+###############################################
+# FILE: init
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-12-3 13:32:0
+# MODIFIED:
+###############################################
+
+@CODE
+
+G("dict") = "pt-numeros.dict";
+
+@@CODE

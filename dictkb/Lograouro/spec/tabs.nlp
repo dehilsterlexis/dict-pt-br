@@ -1,0 +1,26 @@
+###############################################
+# FILE: tabs
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-11-30 20:43:59
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@POST
+X("abrev",2) = getconcept(G("abrev"),strtolower(N("$text",2)));
+addstrval(X("abrev",2),"completo",strtolower(N("$text",4)));
+
+X("completo",2) = getconcept(G("completo"),strtolower(N("$text",4)));
+addstrval(X("completo",2),"abrev",strtolower(N("$text",2)));
+
+
+@RULES
+_xNIL <-
+	_xSTART				### (1)
+	_xWILD [fail=(\t)]	### (2)
+	\t					### (3)
+	_xWILD [plus]		### (4)
+	_xEND				### (5)
+	@@

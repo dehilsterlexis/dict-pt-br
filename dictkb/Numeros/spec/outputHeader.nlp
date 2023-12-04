@@ -1,0 +1,13 @@
+###############################################
+# FILE: outputHeader
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-12-3 13:31:27
+# MODIFIED:
+###############################################
+
+@CODE
+
+G("dict") << "# Numeros em Portugues\n"
+
+@@CODE

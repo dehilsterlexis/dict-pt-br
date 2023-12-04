@@ -1,0 +1,14 @@
+###############################################
+# FILE: init
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-12-3 9:9:11
+# MODIFIED:
+###############################################
+
+@CODE
+
+G("dict") = "municipios.dict";
+G("kb") = getconcept(findroot(),"municipio");
+
+@@CODE

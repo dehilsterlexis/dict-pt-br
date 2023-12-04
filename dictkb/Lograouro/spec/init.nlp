@@ -1,0 +1,16 @@
+###############################################
+# FILE: init
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-12-3 10:36:9
+# MODIFIED:
+###############################################
+
+@CODE
+
+G("dict") = "logradouro.dict";
+G("logradouro") = getconcept(findroot(),"logradouro");
+G("completo") = getconcept(G("logradouro"),"completo");
+G("abrev") = getconcept(G("logradouro"),"abrev");
+
+@@CODE

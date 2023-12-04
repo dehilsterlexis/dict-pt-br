@@ -1,0 +1,37 @@
+###############################################
+# FILE: output
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-12-3 9:5:11
+# MODIFIED:
+###############################################
+
+@CODE
+
+sortchilds(G("completo"));
+sortchilds(G("abrev"));
+SaveKB("pt-estados.kbb",G("estados"),2);
+
+G("dict") << "# Estados do Brasil\n";
+
+L("completo") = down(G("completo"));
+while (L("completo")) {
+	G("dict") << conceptname(L("completo"));
+    G("dict") << " abrev=" << strval(L("completo"),"abrev");
+    G("dict") << " regiao=" << QuoteIfNeeded(strval(L("completo"),"regiao"));
+    G("dict") << " estado=1\n";
+	L("completo") = next(L("completo"));
+}
+
+G("dict") << "\n# Abreviaturas\n";
+
+L("abrev") = down(G("abrev"));
+while (L("abrev")) {
+    G("dict") << conceptname(L("abrev"));
+    G("dict") << " completo=" << QuoteIfNeeded(strval(L("abrev"),"completo"));
+    G("dict") << " regiao=" << QuoteIfNeeded(strval(L("abrev"),"regiao"));
+    G("dict") << " estado=1\n";
+	L("abrev") = next(L("abrev"));
+}
+
+@@CODE
