@@ -8,7 +8,7 @@
 
 @CODE
 
-G("dict") = "municipios.dict";
+G("dict") = "pt-municipios.dict";
 G("kb") = getconcept(findroot(),"municipio");
 
 @@CODE

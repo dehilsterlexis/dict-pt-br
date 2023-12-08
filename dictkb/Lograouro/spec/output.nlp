@@ -10,7 +10,7 @@
 
 sortchilds(G("completo"));
 sortchilds(G("abrev"));
-SaveKB("lograouro.kbb",G("logradouro"),2);
+SaveKB("pt-lograouro.kbb",G("logradouro"),2);
 
 G("dict") << "# Lograouro para enderços\n";
 
@@ -27,7 +27,7 @@ G("dict") << "\n# Frases completos\n";
 L("completo") = down(G("completo"));
 while (L("completo")) {
 	G("dict") << conceptname(L("completo"));
-    G("dict") << " abrev=" << conceptname(L("completo"));
+    G("dict") << " abrev=" << QuoteIfNeeded(conceptname(L("completo")));
     G("dict") << " logradouro=1\n";
 	L("completo") = next(L("completo"));
 }

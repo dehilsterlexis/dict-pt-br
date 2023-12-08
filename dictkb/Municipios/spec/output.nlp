@@ -11,7 +11,7 @@
 G("dict") << "# Municipios do Brasil\n";
 
 sortchilds(G("kb"));
-SaveKB("municipio.kbb",G("kb"),2);
+SaveKB("pt-municipio.kbb",G("kb"),2);
 
 L("mun") = down(G("kb"));
 

@@ -8,7 +8,7 @@
 
 @CODE
 
-G("dict") = "logradouro.dict";
+G("dict") = "pt-logradouro.dict";
 G("logradouro") = getconcept(findroot(),"logradouro");
 G("completo") = getconcept(G("logradouro"),"completo");
 G("abrev") = getconcept(G("logradouro"),"abrev");
