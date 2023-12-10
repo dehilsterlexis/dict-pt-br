@@ -10,7 +10,8 @@
 
 @POST
 
-X("con",2) = getconcept(G("kb"),strtolower(N("$text",2)));
+L("mun") = N("$text",2);
+X("con",2) = getconcept(G("kb"),strpiece(strtolower(L("mun")),2,strlength(L("mun"))-1));
 addnumval(X("con",2),"ibge",num(N("$text",4)));
 addnumval(X("con",2),"ibges",num(N("$text",6)));
 addstrval(X("con",2),"estado",strtolower(N("$text",8)));
