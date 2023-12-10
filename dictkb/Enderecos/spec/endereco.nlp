@@ -1,0 +1,54 @@
+###############################################
+# FILE: endereco
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-12-10 9:17:43
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+#########################################################################
+# R S JUDAS TADEU 7 PAO DE ACUCAR CANTINHO DO CEU SAO LUIS 65060620
+
+@PRE
+<4,4> var("municipio");
+<5,5> var("cep");
+
+@POST
+S("con") = NovoEndereco(N(5));
+AdicionaRua(S("con"),N(1));
+addstrval(S("con"),"bairro",strtolower(N("$text",3)));
+AdicionaMunicipio(S("con"),N(4));
+single();
+
+@RULES
+_endreco <-
+	_rua	### (1)
+	_phrase	### (2)
+	_nome	### (3)
+	_phrase	### (4)
+	_xNUM	### (5)
+	@@
+
+#########################################################################
+# S PEDRO 35 CS SAO JOSE SAO PEDRO DA ALDEIA 28940000
+
+@PRE
+<3,3> var("municipio");
+<4,4> var("cep");
+
+@POST
+S("con") = NovoEndereco(N(4));
+AdicionaRua(S("con"),N(1));
+addstrval(S("con"),"bairro",strtolower(N("$text",2)));
+AdicionaMunicipio(S("con"),N(3));
+single();
+
+@RULES
+_endreco <-
+	_rua	### (1)
+	_phrase	### (2)
+	_phrase	### (3)
+	_xNUM	### (4)
+	@@

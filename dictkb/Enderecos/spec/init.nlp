@@ -1,0 +1,13 @@
+###############################################
+# FILE: init
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-12-6 11:34:49
+# MODIFIED:
+###############################################
+
+@CODE
+
+G("enderecos") = getconcept(findroot(),"enderecos");
+
+@@CODE

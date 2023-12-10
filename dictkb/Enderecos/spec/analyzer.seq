@@ -1,2 +1,12 @@
 dicttokz	nil	# Gen:   Convert input to token list
+nlp	KBFuncs	# comment
+nlp	init	# comment
+nlp	funcs	# comment
 nlp	LinesDictTokZ	# comment
+nlp	numeros	# comment
+nlp	sao	# comment
+nlp	rua	# comment
+nlp	frases	# comment
+nlp	logradouro	# comment
+nlp	endereco	# comment
+nlp	output	# comment

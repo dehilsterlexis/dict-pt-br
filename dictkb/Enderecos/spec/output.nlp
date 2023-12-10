@@ -1,0 +1,13 @@
+###############################################
+# FILE: output
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-12-7 16:6:21
+# MODIFIED:
+###############################################
+
+@CODE
+
+DisplayKB(G("enderecos"),1);
+
+@@CODE
