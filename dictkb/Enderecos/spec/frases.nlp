@@ -1,0 +1,16 @@
+###############################################
+# FILE: frases
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-12-10 9:16:4
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@RULES
+_nome <-
+	_xALPHA							### (1)
+	_xWILD [one match=(do dos de)]	### (2)
+	_xALPHA							### (3)
+	@@

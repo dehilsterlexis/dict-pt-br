@@ -1,0 +1,54 @@
+###############################################
+# FILE: rua
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-12-10 8:42:56
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@PRE
+<2,2> var("logradouro");
+
+@POST
+S("logradouro") = N("completo",2);
+S("nome") = N("completo",3);
+S("numero") = N("$text",4);
+if (N(4)) S("tipo") = "casa";
+single();
+
+@RULES
+_rua <-
+	_xSTART			### (1)
+	_xALPHA			### (2)
+	_santo			### (3)
+	_xNUM [plus]	### (4)
+	cs [opt]		### (5)
+	@@
+
+@PRE
+<2,2> var("logradouro");
+
+@RULES
+_rua <-
+	_xSTART			### (1)
+	_xALPHA			### (2)
+	_xNUM [plus]	### (3)
+	cs [opt]		### (4)
+	@@
+
+@POST
+S("logradouro") = "rua";
+S("nome") = N("$text",2);
+S("numero") = N("$text",3);
+if (N(4)) S("tipo") = "casa";
+single();
+
+@RULES
+_rua <-
+	_xSTART			### (1)
+	_santo			### (2)
+	_xNUM [plus]	### (3)
+	cs [opt]		### (4)
+	@@

@@ -1,0 +1,39 @@
+###############################################
+# FILE: funcs
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-12-6 11:35:40
+# MODIFIED:
+###############################################
+
+@DECL
+
+NovoEndereco(L("node cep")) {
+	L("con") = MakeCountCon(G("enderecos"),"endereco");
+	addnumval(L("con"),"cep",pnvar(L("node cep"),"$text"));
+	return L("con");
+}
+
+AdicionaRua(L("con"),L("node")) {
+	AdicionaAtr(L("con"),L("node"),"logradouro");
+	AdicionaAtr(L("con"),L("node"),"numero");
+}
+
+AdicionaMunicipio(L("con"),L("node")) {
+	addstrval(L("con"),"municipio",strtolower(pnvar(L("node"),"$text")));
+	AdicionaAtr(L("con"),L("node"),"estado");
+}
+
+AdicionaAtr(L("con"),L("node"),L("atrib")) {
+	L("atr") = pnvar(L("node"),L("atrib"));
+	if (L("atr"))
+		addstrval(L("con"),L("atrib"),strtolower(L("atr")));
+}
+
+ClassificaNumero(L("node")) {
+	L("num") = num(pnvar(L("node"),"$text"));
+	if (strlength(str(L("num"))) >= 6)
+		pnmakevar(L("node"),"cep",1);
+}
+
+@@DECL

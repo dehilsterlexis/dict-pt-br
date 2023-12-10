@@ -1,0 +1,19 @@
+###############################################
+# FILE: sao
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-12-10 8:41:9
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@POST
+S("completo") = "sao " + N("$text",2);
+single();
+
+@RULES
+_santo <-
+	_xWILD [one match=(s sao)]	### (1)
+	_xALPHA [plus]				### (2)
+	@@

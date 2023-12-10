@@ -1,0 +1,17 @@
+###############################################
+# FILE: numeros
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-12-6 11:37:7
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@POST
+ClassificaNumero(N(1));
+
+@RULES
+_xNIL <-
+	_xNUM	### (1)
+	@@

@@ -1,0 +1,24 @@
+###############################################
+# FILE: logradouro
+# SUBJ: comment
+# AUTH: David de Hilster
+# CREATED: 2023-12-10 8:38:26
+# MODIFIED:
+###############################################
+
+@NODES _LINE
+
+@PRE
+<1,1> var("logradouro");
+
+@RULES
+_logradouro <-
+	_xALPHA			### (1)
+	_xNUM [plus]	### (2)
+	@@
+
+@RULES
+_logradouro <-
+	km		### (1)
+	_xNUM	### (2)
+	@@
