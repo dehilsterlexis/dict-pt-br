@@ -6,6 +6,10 @@ Here you will find analyzers that help construct a dictionary for Brazilian Port
 
 This project takes the wiktionary file for portuguese, splits it up using a python script, and then processes the wiktionary pages for each word into a usable dicitonary for NLP++. THe objective is to create a dictionary analyzer for portuguese.
 
+# dictkb
+
+These are analyzers that create both dictionaries and KB files for Portuguese including numbers, states, munipalities, etc.
+
 # Rerverso Verbs
 
 These analyzers are from the reverso website for the 2000 most common portuguese verbs: https://conjugator.reverso.net/conjugation-portuguese-verb-ser.html
