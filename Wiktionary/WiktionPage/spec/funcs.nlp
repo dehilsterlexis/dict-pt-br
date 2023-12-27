@@ -332,8 +332,8 @@ KBDump() {
         L("dictfile") = G("$kbpath") + G("$inputparent") + ".dict";
         L("kbbfile") = G("$kbpath") + G("$inputparent") + ".kbb";
     } else {
-        L("dictfile") = G("$kbpath") + G("$inputhead") + ".dict";
-        L("kbbfile") = G("$kbpath") + G("$inputhead") + ".kbb";
+        L("dictfile") = G("$inputhead") + ".dict";
+        L("kbbfile") = G("$inputhead") + ".kbb";
     }
 
     L("dict") = openfile(L("dictfile"),1);
